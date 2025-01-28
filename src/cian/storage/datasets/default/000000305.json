@@ -1,0 +1,207 @@
+{
+  "id": 309888262,
+  "cianId": 309888262,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3400000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продаётся светлая, тёплая квартира в спальном районе. \nВысокий первый этаж. Балкон. Утепленные полы. Магазины, школа, д/с в шаговой доступности. \nДля занятий спортом и отдыха о. Дятлинка. \nВо дворе большая, новая детская площадка.\nВ подарок к квартире идёт гараж(400 метров от дома).\nПолное сопровождение сделки. Работаем со всеми видами сертификатов. \nПросмотр в любое время по договорённости",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000032-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000032-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000115-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000115-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000113-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000113-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000030-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000030-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323112794-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323112794-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000051-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000051-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000136-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000136-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000067-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000067-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323105351-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323105351-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000080-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000080-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000088-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000088-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000098-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000098-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000103-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000103-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000141-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000141-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000029-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000029-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323105358-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323105358-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000126-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000126-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000254-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shevchenko-2323000254-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "54 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Шевченко"
+      },
+      {
+        "key": "house",
+        "value": "13"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.332272,
+      "lng": 30.502457
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=2/spec=none/309888262/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3400000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79113814299"
+  ],
+  "author": {
+    "realtyId": 86211274,
+    "cianId": 86211274,
+    "id": "ID 86211274",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 86211274
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "62 963 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

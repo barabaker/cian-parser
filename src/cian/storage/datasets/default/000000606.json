@@ -1,0 +1,141 @@
+{
+  "id": 309833790,
+  "cianId": 309833790,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3350000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается уютная двухкомнатная квартира в Пскове, по адресу: Западная улица, дом 2. Общая площадь квартиры составляет 44,2 кв. м, кухня — 6,7 кв. м. Планировка улучшенная, не хрущевка.  Квартира расположена на 3 этаже 5-этажного панельного дома. Окна выходят как на улицу, так и во двор, что обеспечивает хорошую освещенность.\n\nКвартира без ремонта, что дает Вам возможность воплотить все дизайнерские идеи и создать пространство по своему вкусу. Планировка включает отдельный санузел и балкон, что добавляет удобства и функциональности.\n\nДом в хорошем состоянии, с наземной парковкой для жильцов, что удобно для владельцев автомобилей. Подьезд отремонтирован.\n\nРайон с развитой инфраструктурой: в шаговой доступности находятся 2 школы, во дворе детский сад, напротив дома - магазины, что делает его отличным выбором для семей с детьми. Рядом автобусная остановка, что позволяет быстро добраться до любой части города.\n\nКвартира продается от собственника, что облегчает процесс оформления сделки. Все документы готовы к сделке, без обременений и задолженностей.\n\nЗаписывайтесь на просмотр и оцените все преимущества этой квартиры лично. Будем рады ответить на все ваши вопросы.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321817909-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321817909-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321811446-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321811446-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321960575-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321960575-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321817914-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2321817914-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "44,2 м²",
+    "floorInfo": "3/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Западная улица"
+      },
+      {
+        "key": "house",
+        "value": "2"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.813679,
+      "lng": 28.286215
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=none/309833790/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3350000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113606156",
+    "+79116904718"
+  ],
+  "author": {
+    "realtyId": 111363186,
+    "cianId": 111363186,
+    "id": "ID 111363186",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 111363186
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "75 792 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

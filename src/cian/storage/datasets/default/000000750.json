@@ -1,0 +1,183 @@
+{
+  "id": 279142489,
+  "cianId": 279142489,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Отличная большая квартира в Заречной части города, улучшенная планировка, комнаты и санузел раздельно, большая кухня, состояние жилое,требуется ремонт, развитый район, школы и детские сады в шаговой доступности.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/48/339/931/1399338433-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/48/339/931/1399338433-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/07/807/931/1397087005-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/07/807/931/1397087005-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/38/339/931/1399338384-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/38/339/931/1399338384-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/38/339/931/1399338386-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/38/339/931/1399338386-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/48/339/931/1399338405-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/48/339/931/1399338405-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/07/807/931/1397087007-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/07/807/931/1397087007-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/48/339/931/1399338403-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/48/339/931/1399338403-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/07/807/931/1397087011-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/07/807/931/1397087011-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/07/807/931/1397087014-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/07/807/931/1397087014-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/07/807/931/1397087013-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/07/807/931/1397087013-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/07/807/931/1397087015-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/07/807/931/1397087015-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/45/807/931/kvartira-velikie-luki-zelenaya-ulica-1397085461-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/45/807/931/kvartira-velikie-luki-zelenaya-ulica-1397085461-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/48/339/931/1399338437-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/48/339/931/1399338437-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/48/339/931/1399338428-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/48/339/931/1399338428-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "67,4 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Зеленая улица"
+      },
+      {
+        "key": "house",
+        "value": "7"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.341338,
+      "lng": 30.493932
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=3/spec=none/279142489/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79113506472",
+    "+79113506454"
+  ],
+  "author": {
+    "realtyId": 96438381,
+    "cianId": 96438381,
+    "id": "ID 96438381",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 96438381
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "54 896 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

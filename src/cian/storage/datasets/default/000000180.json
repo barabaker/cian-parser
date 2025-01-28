@@ -1,0 +1,154 @@
+{
+  "id": 307304385,
+  "cianId": 307304385,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 600000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "В квартире комнаты раздельные, печное отопление, вода  колонка, ст/пак, металлическая входная дверь.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267630133-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267630133-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267638455-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267638455-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267621708-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267621708-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267621711-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267621711-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267630192-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267630192-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267630170-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-25-oktyabrya-2267630170-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "39 м²",
+    "floorInfo": "1/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица 25 Октября"
+      },
+      {
+        "key": "house",
+        "value": "38"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.341827,
+      "lng": 28.368922
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=2/spec=company/307304385/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 600000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79113905774"
+  ],
+  "author": {
+    "realtyId": 7773475,
+    "cianId": 10248064,
+    "id": "ID 10248064",
+    "displayName": "А-Реал",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=361776&t=2&p=1&timestamp=1620992939",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 7773475
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "15 385 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

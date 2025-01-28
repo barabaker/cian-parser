@@ -1,0 +1,164 @@
+{
+  "id": 300331523,
+  "cianId": 300331523,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2180000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается 1-комнатная квартира в историческом районе города Пскова, в шаговой доступности автобусные остановки, магазины, аптеки, детский сад, школа. Рассмотрим все варианты обмена, возьмем в зачет Ваше жилье, возможен срочный выкуп Вашей недвижимости. Поможем с одобрением ипотеки.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160808599-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160808599-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160788591-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160788591-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160713928-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160713928-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160788588-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2160788588-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2309935187-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2309935187-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2309935230-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-zaveliche-olega-zobova-pereulok-2309935230-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "31,2 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "location",
+        "value": "Завеличье исторический район",
+        "locationTypeId": 252
+      },
+      {
+        "key": "street",
+        "value": "переулок Олега Зобова"
+      },
+      {
+        "key": "house",
+        "value": "11"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.803874,
+      "lng": 28.318087
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=327510/object_type=1/ga_obj_type=1/spec=company/300331523/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2180000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813503511"
+  ],
+  "author": {
+    "realtyId": 7773475,
+    "cianId": 10248064,
+    "id": "ID 10248064",
+    "displayName": "А-Реал",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=361776&t=2&p=1&timestamp=1620992939",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 7773475
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "69 872 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

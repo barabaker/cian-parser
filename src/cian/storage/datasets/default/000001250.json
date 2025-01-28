@@ -1,0 +1,264 @@
+{
+  "id": 312239116,
+  "cianId": 312239116,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продам 2 к. кв. в отличном состоянии с полным ремонтом. Отличное месторасположение. Рядом с домом находится лицей \"Развитие\". Прямая продажа.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2371785693-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371785693-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599378-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599378-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371785701-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371785701-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371794272-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371794272-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599362-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599362-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599375-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599375-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371785655-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371785655-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371785682-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371785682-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599357-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599357-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599374-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599374-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599376-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599376-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371794269-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371794269-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599371-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599371-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371794276-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371794276-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599355-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599355-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599372-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599372-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599356-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599356-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599368-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599368-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371794273-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371794273-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599370-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599370-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599367-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599367-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599366-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599366-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371794270-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371794270-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599361-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599361-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371794277-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371794277-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371599358-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371599358-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371794278-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371794278-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371785719-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371785719-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371785666-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371785666-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "44 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Юбилейная улица"
+      },
+      {
+        "key": "house",
+        "value": "57"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.811345,
+      "lng": 28.303678
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/312239116/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118907280"
+  ],
+  "author": {
+    "realtyId": 126587274,
+    "cianId": 126587274,
+    "id": "ID 126587274",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 126587274
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "97 727 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": true
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

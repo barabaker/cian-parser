@@ -1,0 +1,189 @@
+{
+  "id": 311619070,
+  "cianId": 311619070,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4400000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Теплая, уютная квартира с изолированными комнатами в современном, историческом районе Завеличье города Пскова.\nПросторная прихожая, остекленная лоджия. Кухня остаётся.\nУдобная и хорошая транспортная инфраструктура, в непосредственной близости с Рижским проспектом, с выездом из города в сторону Печор, Изборска, границы.\nРасположение объектов социальной значимости и магазинов в пешей доступности делает проживание в этом доме комфортным.\nКвартира в собственности одной семьи более 20 лет. В договоре указывается полная рыночная стоимость.\nМожно использовать квартиру для посуточной сдачи.\nТорг возможен, в разумных пределах.\nДва совершеннолетних собственника. Никто не прописан.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2358516981-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358516981-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358516983-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358516983-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358516985-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358516985-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358521530-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358521530-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358516987-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358516987-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358520755-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358520755-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358520750-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358520750-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358521526-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358521526-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358520752-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358520752-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358520751-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358520751-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358520744-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358520744-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358520742-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358520742-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358520743-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358520743-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "60 м²",
+    "floorInfo": "9/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Юбилейная улица"
+      },
+      {
+        "key": "house",
+        "value": "34"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.811541,
+      "lng": 28.29235
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=agent/311619070/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 4400000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113514133"
+  ],
+  "author": {
+    "realtyId": 54440689,
+    "cianId": 54440689,
+    "id": "ID 54440689",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 54440689
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "73 333 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

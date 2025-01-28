@@ -1,0 +1,288 @@
+{
+  "id": 305482638,
+  "cianId": 305482638,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3400000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается светлая и очень уютная двухкомнатная квартира в кирпичном доме в самом центре города. Расположена на 3-м этаже четырехэтажного многоквартирного дома\n(не угловая), зимой очень теплая. Большой остекленный балкон, материал несущих стен  кирпич, межэтажные перекрытия  железобетон. Все окна выходят в тихий и зеленый двор с детской площадкой, всегда в наличии присутствуют свободные парковочные места.\n\nРазвитая инфраструктура, в непосредственной близости находятся торговый центр Весна, сетевые продуктовые магазины, аптеки, ПВЗ, 2 детских сада, школа, техникум железнодорожного транспорта, городской рынок, дом культуры, строительный магазин, отделение почты, остановка общественного транспорта, охраняемая парковка и пр.\n\nДом газифицирован, горячее водоснабжение: квартирный газовый котел, центральное отопление, высота потолков 2.6 м, имеется подвальное складское помещение.\nЧистый подъезд с домофоном, интеллигентные соседи.\n\nВся мебель и оборудование в квартире остаются новому собственнику и включены в стоимость: холодильник, стиральная машина, газовая плита, большой led-телевизор и прочее.\n\n1 взрослый собственник, свободная продажа.\n\nОсмотр по предварительной договоренности.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460803-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460803-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460800-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460800-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460853-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460853-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818369-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818369-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818309-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818309-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234801434-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234801434-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460856-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460856-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818335-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818335-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234801447-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234801447-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460874-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460874-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460789-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460789-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234801442-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234801442-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460869-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460869-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818345-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234818345-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2235059079-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2235059079-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460776-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460776-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460835-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460835-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460837-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460837-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234779142-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234779142-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460852-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460852-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460847-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460847-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460851-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460851-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460812-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460812-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460822-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460822-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460824-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460824-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460774-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460774-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460878-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460878-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460775-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460775-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460777-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460777-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234772077-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234772077-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460814-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460814-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460817-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-komsomolca-zvereva-2234460817-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForCheckedOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForCheckedOwner",
+      "name": "Собственник"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "43,7 м²",
+    "floorInfo": "3/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Комсомольца Зверева"
+      },
+      {
+        "key": "house",
+        "value": "32"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.340485,
+      "lng": 30.526837
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=2/spec=none/305482638/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3400000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79118901853"
+  ],
+  "author": {
+    "realtyId": 119915205,
+    "cianId": 119915205,
+    "id": "ID 119915205",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 119915205
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "77 803 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

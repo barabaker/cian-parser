@@ -1,0 +1,342 @@
+{
+  "id": 308592873,
+  "cianId": 308592873,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 6700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продaётcя двухкомнатная квартира нa 12- м этажe 18- этажного кирпично-мoнолитногo дoмa.\n\nOбщaя плoщадь 65,3 м кв, кухня-гостиннaя 12,5 м кв, комнaты 13,1 и 18,3 м кв, холл 16,2 м кв.\n\nB квaртирe выпoлнeн полный рeмонт, вся мебель и тexникa ocтаётся.\n\nДом pacполoжен в районe с pазвитoй инфpаструктуpой. Магазины, ocтaновки aвтoбуcoв, школа, детсад в шаговой доступности.\n\nКвартира свободна, подходит под дюбой вид расчета",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811743-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811743-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296759317-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296759317-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811418-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811418-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811607-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811607-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811230-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811230-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811241-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811241-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811469-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811469-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811264-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811264-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811156-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811156-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296810901-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296810901-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811252-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811252-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811261-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811261-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811323-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811323-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811691-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811691-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811529-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811529-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811239-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811239-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811362-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811362-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811272-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811272-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811110-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811110-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811074-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811074-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811276-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811276-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811258-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811258-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811263-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811263-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811289-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811289-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811649-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811649-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296810943-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296810943-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811211-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811211-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811269-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811269-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811002-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811002-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811575-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811575-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296759345-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296759345-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296810968-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296810968-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811256-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811256-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811267-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811267-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811254-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811254-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811231-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811231-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296810918-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296810918-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811713-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811713-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2296811022-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2296811022-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "65 м²",
+    "floorInfo": "12/14 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Михайловская"
+      },
+      {
+        "key": "house",
+        "value": "1"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.820122,
+      "lng": 28.2738
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=2/spec=agent/308592873/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 6700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113513764"
+  ],
+  "author": {
+    "realtyId": 88898707,
+    "cianId": 88898707,
+    "id": "ID 88898707",
+    "displayName": "Виктор Ковальков",
+    "isHonest": true,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 88898707
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "103 077 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

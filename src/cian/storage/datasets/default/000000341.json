@@ -1,0 +1,140 @@
+{
+  "id": 307922805,
+  "cianId": 307922805,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1600000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Квартира находится в центре города все в шаговом доступе, банк, школа, садик , магазины , почта продажа от собственника",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283034713-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283034713-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283036891-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283036891-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283036888-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283036888-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283034720-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-ulica-spartaka-2283034720-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "37,4 м²",
+    "floorInfo": "2/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Спартака"
+      },
+      {
+        "key": "house",
+        "value": "14"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.343002,
+      "lng": 28.347758
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=2/spec=none/307922805/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 1600000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79113514868"
+  ],
+  "author": {
+    "realtyId": 102697750,
+    "cianId": 102697750,
+    "id": "ID 102697750",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 102697750
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "42 781 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

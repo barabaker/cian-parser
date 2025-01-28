@@ -1,0 +1,171 @@
+{
+  "id": 311698412,
+  "cianId": 311698412,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Светлая, уютная квартира новой планировки в новом доме в удобном микрорайоне. В хорошем состоянии, уютная, светлая, просторная, лоджия не застекленная. Все окна в квартире пластиковые, хорошая сантехника, санузел совмещен.\nВсе в шаговой доступности: напротив в Лента, магазины, садики, школы.\nЗаезжайте и живите в комфортных условиях!\nВсе соответствует фото, в живую выглядит лучше, покажем в любое время.\nУдачное и удобное местоположение дома. С прекрасной развитой инфраструктурой. В шаговой доступности есть все что нужно для жизни- двор с детской площадкой, спортивная площадка, с оборудованной стоянкой для машин, напротив школа, магазины, маяк, рынок, в шаговой доступности садик, автобусные остановки.\nЛюбая форма расчета. Показываем в любое для Вас удобное время, в праздники и выходные. Документы готовы, один собственник.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360168757-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360168757-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360168758-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360168758-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188685-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188685-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360183936-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360183936-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188569-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188569-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188684-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188684-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360168766-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360168766-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188683-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2360188683-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "38 м²",
+    "floorInfo": "10/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Труда"
+      },
+      {
+        "key": "house",
+        "value": "56"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.841772,
+      "lng": 28.348414
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=agent/311698412/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813535210"
+  ],
+  "author": {
+    "realtyId": 92205109,
+    "cianId": 92205109,
+    "id": "ID 92205109",
+    "displayName": "Елена Квартал+",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=62565242&t=2&p=1&timestamp=1734707109",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 92205109
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "97 368 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

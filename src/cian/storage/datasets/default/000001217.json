@@ -1,0 +1,178 @@
+{
+  "id": 301845948,
+  "cianId": 301845948,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2990000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам крупногабаритную студию. Общая площадь с лоджией: 33 кв.м, 29,4 с коэффициентом, как сейчас считают, жилая: 19,8 кв.м.  Лоджия: (4.50х1.60) 7.20 остеклена, проведено электричество. Подойдет под полноценную комнату. Отличный (четвертый) этаж. Не торцевая. Окна-во двор. Современный дом с высокими потолками: 2.80. В наличии: 2 лифта, счетчики, домофон, качественная металлическая дверь. Самый востребованный район. В шаговой доступности: магазины, поликлиника, школа, детские сады, бассейн \"Оазис\" и др.. Готова для проживания. В собственности более 5 лет. Полная сумма в Договоре к/п.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377329-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377329-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377326-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377326-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377319-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377319-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377336-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377336-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377316-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377316-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166364161-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166364161-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166364510-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166364510-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377337-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377337-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377313-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2166377313-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForCheckedOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "greenForCheckedOwner",
+      "name": "Собственник"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "Студия",
+    "totalArea": "25,8 м²",
+    "floorInfo": "4/13 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Михайловская"
+      },
+      {
+        "key": "house",
+        "value": "1"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.820122,
+      "lng": 28.2738
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=9/spec=none/301845948/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid5": "obl_id_4605",
+    "puid8": 2990000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79116905210"
+  ],
+  "author": {
+    "realtyId": 77786172,
+    "cianId": 77786172,
+    "id": "ID 77786172",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 77786172
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "115 891 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

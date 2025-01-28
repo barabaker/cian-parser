@@ -1,0 +1,195 @@
+{
+  "id": 310664845,
+  "cianId": 310664845,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Пpoдaeтся теплая двухкомнатная квартира в КИРПИЧНОМ доме в  историческом центре Пскова. Кухня 8кв.м., раздельный санузел, высокие потолки 3 м.  Квартира с газовой колонкой. Не торцевая, очень теплая и светлая. Требует косметического ремонта, но уже установлены отличные 3-х камерные стеклопакеты. В рамках капитального ремонта доме проведены новые коммуникации - заменена вся система водоснабжения и водоотведения. Выполнен ремонт кровли.\nТихие, семейные соседи. Чистый подъезд, без резких запахов. \nВ квартире остаётся кухонный гарнитур, прихожая, часть мебели в жилых комнатах. \nРазвитая инфраструктура, все рядом: - автобусные остановки - продуктовые магазины -  детский сады, школы,Университет -взрослая и детская поликлинники-стадион - развлекательные центры-Летний и Ботанический  сады- все в шаговой доступности.\n Один взрослый собственник. Долгов по коммунальным услугам нет, арестов, запретов на совершение сделки нет. Под любой расчет. Показы в любое время по договоренности.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067801-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067801-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2337764898-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2337764898-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067805-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067805-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947431-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947431-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067808-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067808-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067811-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067811-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067803-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067803-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067812-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2338067812-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947428-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947428-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337734555-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337734555-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337734558-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337734558-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947430-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947430-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947429-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2337947429-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "50,9 м²",
+    "floorInfo": "2/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Гражданская улица"
+      },
+      {
+        "key": "house",
+        "value": "5"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.81192,
+      "lng": 28.349303
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/310664845/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118809184"
+  ],
+  "author": {
+    "realtyId": 17418380,
+    "cianId": 17418380,
+    "id": "ID 17418380",
+    "displayName": "Елена Разумовская",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 17418380
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "78 585 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,186 @@
+{
+  "id": 311483519,
+  "cianId": 311483519,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "newBuildingFlatSale",
+  "price": {
+    "value": 5642000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продается 2-комнатная квартира, 62.00 кв. м, по адресу Россия, Псковская область, г. Псков, ул. Дмитрия Яковлева, 6. Этаж 14/16.\n\nЦена объекта указана при полной оплате собственными средствами либо в ипотеку без субсидирования.\nЦену объекта при других формах оплаты (рассрочка и т.д.) уточняйте в офисе продаж\n \nКвaртира в киpпичнo-мoнолитном доме ЖK \"Атмoсфеpа\" oт нaдeжного\nзacтpoйщикa ГК \"Рестaвpациoнная мacтеpcкая\"!\nЖилой дoм располaгаетcя в сaмом рaзвитом рaйоне Пcкoвa \"Зaвеличье\", всё\neсть и вcё в пeшей доступнocти:\nНовaя Шкoлa Nо27 наxoдится вo двopе домa.\nДетский сад (МБОУ ПИЛГ)- 7 минут\nТЦ \"Фьорд Плаза\"- 9 минут\nСпортивный комплекс \"Ледовый дворец\"-15 минут\n- Адрес: ул. Дмитрия Яковлева дом 6.\n- Строительная готовность объекта  декабрь 2026 года.\n- Авторский дизайн мест общего пользования и придомовой территории.\n- Видеонаблюдение и контроль доступа\n- Конструкция дома обеспечивает исключительные характеристики по прочности и\nдолговечности, а также многообразие и гибкость планировочных решений.\n- Теплотехника соответствует всем современным требованиям.\n- Высококачественные окна, входные двери в квартиру и в подъезд, домофон,\nсистема видеонаблюдения, сделают Ваше проживание комфортным и\nбезопасным!\n- Высокие потолки в квартире 2,7 м. \"в чистоте\"\n- Возможно выполнение отделки \"Под ключ\" от застройщика\n- Ваши деньги в полной безопасности- оформление в строгом соответствии с ФЗ-\n214, через эскроу-счета, никаких серых схем!\n- Помощь в одобрении ипотеки\nРаботаем со всеми видами сертификатов, ипотека, военная ипотека, материнский\nкапитал, ГЖС и другие формы расчета.\nМы всегда готовы обсудить индивидуальные условия.\nЗвоните, пишите, если не ответили сразу- обязательно Вам перезвоним,\nвышлем фото и видео, проведем онлайн показ и дистанционное\nоформление сделки.\nВсе хлопоты берем на себя!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2355528761-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2355528761-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2355528763-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2355528763-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2355528766-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2355528766-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2355528771-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2355528771-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2355528779-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2355528779-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2355528786-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2355528786-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "white",
+    "name": "От застройщика"
+  },
+  "photoLabels": [
+    {
+      "color": "white",
+      "name": "От застройщика"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "62 м²",
+    "floorInfo": "14/16 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 6",
+    "deadline": "сдача в 4 квартале 2026",
+    "deadlineShort": "сдача в 4 кв. 2026"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Дмитрия Яковлева"
+      },
+      {
+        "key": "house",
+        "value": "6"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-atmosfera-pskov-i.cian.ru/",
+      "name": "ЖК «Атмосфера»"
+    },
+    "coordinates": {
+      "lat": 57.8108773275883,
+      "lng": 28.26005082341667
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=2/ga_obj_type=2/spec=company/311483519/from_developer=1/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_first",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 5642000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+78112579448"
+  ],
+  "author": {
+    "realtyId": 13519369,
+    "cianId": 13519369,
+    "id": "ID 13519369",
+    "displayName": "Псковская реставрационная мастерская",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=285927&t=2&p=1&timestamp=1507566991",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "fromDeveloper": "Застройщик",
+    "isFromBuilder": true,
+    "isFromLeadFactory": false,
+    "workTimeInfo": {
+      "callFrom": "08:00:00",
+      "callTo": "17:00:00"
+    },
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T08:00:00+03:00",
+      "availableTo": "2025-01-29T17:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 8:00 по 17:00.",
+      "userId": 13519369
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    },
+    "builderPageUrl": "https://cian.ru/zastroishchik-pskovskaia-restavratsionnaia-masterskaia-11943/"
+  },
+  "isFavorite": false,
+  "additionalPrice": "91 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "newbuildingId": 4604992,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": true,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [
+    {
+      "type": "has3dTour"
+    }
+  ],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить застройщику",
+  "isBookedFromDeveloper": false,
+  "newbuildingCplLayer": "otherPromoted"
+}

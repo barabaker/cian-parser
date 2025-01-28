@@ -1,0 +1,23 @@
+{
+  "id": "kv26CApvJNT9HdX",
+  "unique_key": "POST|e3b0c442|a41b253f|https://api.cian.ru/search-engine/v1/search-offers-mobile-site",
+  "order_no": null,
+  "handled_at": "2025-01-28 19:50:59.215453+00:00",
+  "request": {
+    "url": "https://api.cian.ru/search-engine/v1/search-offers-mobile-site/",
+    "unique_key": "POST|e3b0c442|a41b253f|https://api.cian.ru/search-engine/v1/search-offers-mobile-site",
+    "method": "POST",
+    "headers": {},
+    "payload": "{\"jsonQuery\": {\"_type\": \"flatsale\", \"engine_version\": {\"type\": \"term\", \"value\": 2}, \"region\": {\"type\": \"terms\", \"value\": [4605]}, \"bbox\": {\"type\": \"term\", \"value\": [[27.317455, 57.733838000000006], [27.842505625, 58.162945]]}, \"page\": {\"type\": \"term\", \"value\": 2}}}",
+    "user_data": {
+      "__crawlee": {
+        "state": 3
+      }
+    },
+    "retry_count": 0,
+    "no_retry": false,
+    "loaded_url": "https://api.cian.ru/search-engine/v1/search-offers-mobile-site/",
+    "handled_at": "2025-01-28 19:50:59.215453+00:00",
+    "id": "kv26CApvJNT9HdX"
+  }
+}

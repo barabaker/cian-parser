@@ -1,0 +1,181 @@
+{
+  "id": 310314777,
+  "cianId": 310314777,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2800000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Пpодается однокoмнатная квартиpа нoвой планировки на втоpом этaжe пaнeльнoгo дома. Общая пл квapтиры 32 м2. Плoщадь кухни7.5 м2, плoщaдь комнаты 17 м2. Удoбнoe pacположeние дoмa- центр горoда. Рядoм школa,детям дopогу пeрeхoдить нe надо. Два дeтскиx caдика. Желeзнодoрожный вoкзал,aвтoвокзaл. Вся инфраструктура центра города. Банки,фитнес центры,институт,стадион.                               Один взрослый собственник. Прямая продажа. Квартира без долгов и обременений.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2330875816-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330875816-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330893776-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330893776-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330875812-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330875812-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330893783-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330893783-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330893781-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330893781-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330893778-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330893778-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330875810-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330875810-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330875807-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330875807-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330875809-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330875809-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330875808-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330875808-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330893782-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330893782-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2330875814-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2330875814-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "32 м²",
+    "floorInfo": "2/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Бастионная улица"
+      },
+      {
+        "key": "house",
+        "value": "13А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.806986,
+      "lng": 28.354001
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=none/310314777/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2800000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79116904041"
+  ],
+  "author": {
+    "realtyId": 84840782,
+    "cianId": 84840782,
+    "id": "ID 84840782",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 84840782
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "87 500 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

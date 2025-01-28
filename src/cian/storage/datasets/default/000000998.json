@@ -1,0 +1,229 @@
+{
+  "id": 308245592,
+  "cianId": 308245592,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 9100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается просторная 3-х комнатная квартира по адресу Михайловская д.1\nОбщая площадь квартиры составляет 107 кв.м, большая кухня-гостиная 49.1 кв.м\nРаздельные комнаты, так же раздельный санузел.\nХороший современный ремонт, при продаже остается вся мебель и техника. Много мест хранения. Установлен кондиционер на кухне\nВ квартире и в подъезде установлено видеонаблюдение.\nВ доме имеется подземная парковка\nВ шаговой доступности: школы,сады,магазины итд.\nПодходит под все виды расчета,возможен обмен на вашу недвижимость\nПо всем вопросам звоните,пишите",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119367-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119367-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119374-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119374-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119378-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119378-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121810-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121810-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289134466-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289134466-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121815-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121815-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289045900-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289045900-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119369-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289119369-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289046503-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289046503-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121803-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121803-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121809-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121809-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121806-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121806-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289047005-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289047005-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121813-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121813-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289047946-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289047946-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289047741-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289047741-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121808-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289121808-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289048620-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-mihaylovskaya-ulica-2289048620-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "107 м²",
+    "floorInfo": "5/18 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Михайловская"
+      },
+      {
+        "key": "house",
+        "value": "1"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.820122,
+      "lng": 28.2738
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=3/spec=company/308245592/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 9100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113906139"
+  ],
+  "author": {
+    "realtyId": 13845996,
+    "cianId": 13845996,
+    "id": "ID 13845996",
+    "displayName": "Серебряный ключ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=26737959&t=2&p=1&timestamp=1661970294",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13845996
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "85 047 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

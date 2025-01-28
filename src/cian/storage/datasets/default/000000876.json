@@ -1,0 +1,317 @@
+{
+  "id": 312558766,
+  "cianId": 312558766,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 28500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается квартира 327.4 кв.м самом сердце города Пскова, берег р.Великой. Набережная реки с парковой прогулочной зоной. Исторический центр со всеми вытекающими достопримечательностями. В 3 шагах Покровская башня. В 2 шагах Церковь Покрова и Рождества от Пролома.\n\nКирпичный дом, 3 этажа+цокольный этаж. 3 этаж мансардный.\n\nЦокольный этаж - сауна, бильярдная, комната отдыха, санузел, прачечная и хозяйственная комната\n\n1 этаж - гостиная и кухня, санузел\n\n2 этаж - 3 комнаты, санузел\n\n3 этаж - спортзал, гостевая комната, санузел\n\nВ доме 2 квартиры, зеркально расположенные. В каждую квартиру отдельный вход.\n\nГараж на 1 машину.\n\nВсе удобства для комфортного круглогодичного проживания. Подключены все необходимые коммуникации и газ\n\nУчасток 8 сот, зеленый двор, просторная парковка\n\nСамые качественные материалы для постройки и отделки\n\nРассмотрим варианты обмена и все виды расчета",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182337-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182337-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182296-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182296-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182336-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182336-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183032-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183032-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183022-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183022-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182999-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182999-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183016-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183016-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182342-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182342-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182355-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182355-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182300-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182300-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182334-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182334-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182352-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182352-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182340-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182340-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183046-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183046-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378170665-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378170665-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182291-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182291-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182338-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182338-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182301-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182301-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182289-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182289-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182349-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182349-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182290-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182290-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183004-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183004-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182292-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182292-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182339-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182339-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182345-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182345-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182287-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182287-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182993-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182993-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182353-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182353-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182350-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182350-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182295-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182295-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182341-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182341-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183042-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183042-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182299-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182299-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182302-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378182302-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183011-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378183011-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378170548-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voevody-shuyskogo-ulica-2378170548-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "6-комн. квартира",
+    "totalArea": "327,4 м²",
+    "floorInfo": "1/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Воеводы Шуйского"
+      },
+      {
+        "key": "house",
+        "value": "14"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.806281,
+      "lng": 28.333583
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=6/spec=company/312558766/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_6",
+    "puid5": "obl_id_4605",
+    "puid8": 28500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113906139"
+  ],
+  "author": {
+    "realtyId": 13845996,
+    "cianId": 13845996,
+    "id": "ID 13845996",
+    "displayName": "Серебряный ключ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=26737959&t=2&p=1&timestamp=1661970294",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13845996
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "87 049 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

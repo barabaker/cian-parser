@@ -1,0 +1,180 @@
+{
+  "id": 312479060,
+  "cianId": 312479060,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 5870000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продается в тихом районе ближнего Завеличья г. Пскова, на улице Госпитальная 15, уютная трехкомнатная квартира от собственника. Здесь будет удобно и комфортно жить семье с детьми, так как все находится в шаговой доступности: новая гимназия 29, общеобразовательные школы 19, 23, 5, музыкальная школа 2, детский бассейн \"Дельфин\", Детская художественная школа г. Пскова, Аптека на Госпитальной, магазин \"Магнит\", поликлиника 2, храм Св.Александра Невского, городской пляж, Дом офицеров и др. Удобные выезды из дома - быстрый маршрут до центра города (5-8 мин).\n\nКвартира расположена на 4 этаже девятиэтажного дома. Недавно поставлен новый лифт, подъезды отремонтированы, прекрасные новые 2 детские площадки за домом. Квартира площадью 62,1 кв.м. включает три комнаты (17 кв.м, 11 кв.м, 10 кв. м), раздельный санузел, большую прихожую, балкон, кладовую. На кухне - газовое оборудование. Квартира с косметическим ремонтом находится в хорошем состоянии.\n\nПродает собственник - риэлторов просим не обращаться, если только с реальными покупателями.\n\nСвободная продажа.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520933-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520933-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376502345-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376502345-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376514597-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376514597-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520937-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520937-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520938-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520938-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520935-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520935-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520927-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520927-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376390200-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376390200-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376514607-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376514607-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520897-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520897-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520932-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376520932-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376390229-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376390229-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376390788-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-gospitalnaya-ulica-2376390788-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "62,1 м²",
+    "floorInfo": "4/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Госпитальная улица"
+      },
+      {
+        "key": "house",
+        "value": "15"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.809197,
+      "lng": 28.314538
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=none/312479060/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 5870000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118908365"
+  ],
+  "author": {
+    "realtyId": 75634285,
+    "cianId": 75634285,
+    "id": "ID 75634285",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 75634285
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "94 525 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": true
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

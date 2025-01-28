@@ -1,0 +1,206 @@
+{
+  "id": 311769420,
+  "cianId": 311769420,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1600000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаётся  благоустроенная квартира-студия в центре города в новостройке, на втором этаже пятиэтажного дома. В квартире выполнен косметический ремонт , установлены стеклопакеты , входная железная дверь. Тихие спокойные соседи, чистый подъезд. Вся инфраструктура в шаговой доступности, школа , детский сад напротив дома, сетевые и обычные магазины,множество детских площадок, стадион, пруд.Перед домом имеется парковка для автомобилей. Есть зона для выгула домашних животных.Один взрослый собственник, никаких обременений.Документы готовы к продаже. Звоните, покажем в любое удобное для Вас время. \n\nКод пользователя: 136428\nНомер в базе: 4323632",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616969-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616969-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616971-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616971-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616972-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616972-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616973-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616973-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616975-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616975-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616976-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616976-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616978-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616978-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616979-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616979-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616980-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616980-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616982-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616982-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616987-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616987-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616991-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616991-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616993-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616993-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2361616997-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2361616997-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "Студия",
+    "totalArea": "26,7 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Освобождения"
+      },
+      {
+        "key": "house",
+        "value": "7А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.344532,
+      "lng": 28.343383
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=9/spec=company/311769420/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid5": "obl_id_4605",
+    "puid8": 1600000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79813505602"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "59 925 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

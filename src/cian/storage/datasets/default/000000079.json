@@ -1,0 +1,203 @@
+{
+  "id": 308359547,
+  "cianId": 308359547,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1650000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаётся уютная трёхкомнатная квартира площадью 59 квадратных метров, расположенная на втором этаже пятиэтажного кирпичного дома, построенного в 1995 году. Дом находится в живописном районе посёлка Дедовичи, на улице Егорова, 24.\n\nВ квартире имеется жилая площадь 35 квадратных метров, что позволяет комфортно разместиться всей семье. Кухня площадью 7 квадратных метров идеально подходит для приготовления и совместных семейных ужинов.\n\nИз окон квартиры открывается прекрасный вид на тихий и зелёный двор, где расположены детская и спортивная площадки  отличное место для отдыха и активностей на свежем воздухе. Для автомобилистов предусмотрена парковка во дворе.\n\nСанузел раздельный, что является большим плюсом для комфортного проживания нескольких человек одновременно. Газ уже проведён в квартиру, что значительно упрощает процесс готовки и обеспечивает удобство использования бытовой техники.\n\nЭтот вариант жилья станет прекрасным выбором для тех, кто ценит спокойствие и уют, а также хочет иметь всё необходимое под рукой. Приглашаем вас ознакомиться с квартирой и убедиться во всех её преимуществах лично!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221289-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221289-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2291273008-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2291273008-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221278-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221278-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221280-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221280-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221279-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221279-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221281-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221281-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221284-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221284-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221285-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221285-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221283-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221283-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221286-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221286-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221287-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221287-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221282-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-egorova-ulica-2291221282-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "59 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Дедовичи рп",
+        "locationTypeId": 185
+      },
+      {
+        "key": "street",
+        "value": "улица Егорова"
+      },
+      {
+        "key": "house",
+        "value": "24"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.525016,
+      "lng": 29.981901
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=472042/object_type=1/ga_obj_type=3/spec=company/308359547/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 1650000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 472042
+  },
+  "phones": [
+    "+79813505132"
+  ],
+  "author": {
+    "realtyId": 96181113,
+    "cianId": 96181113,
+    "id": "ID 96181113",
+    "displayName": "СКОБАРЬ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53702259&t=2&p=1&timestamp=1737707105",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 96181113
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "27 966 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

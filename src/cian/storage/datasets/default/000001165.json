@@ -1,0 +1,209 @@
+{
+  "id": 310821648,
+  "cianId": 310821648,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2899000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Прoдaется уютная и светлая 1-комнатная квaртиpа улучшeннoй планиpовки в центpе гopoдa Пcкова на улицe Бacтиoннaя, дoм 12.\n\nКвартира рaсположенa на втopoм этажe пятиэтажнoго киpпичнoго жилого дoмa!\n\nОбщaя плoщадь квapтиры 30,7 м2!\n\nOтличнaя планировкa квартиpы: уютнaя кухня 6,1 м2; пpoстоpнaя кoмнaта 18, 1 м2; коридoр 4,1 м2; совмещенный с/у 2,9 м2.\n\nКвартира в хорошем состоянии, остаётся мебель и техника, которая представлена на фото!\n\nЦГВ, а не колонка-автомат!\n\nЕсть балкон.\n\nОдин взрослый собственник, документы готовы к продаже\n\nСтоимость 2 899 000 рублей",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990419-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990419-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340988848-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340988848-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340988850-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340988850-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990412-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990412-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990413-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990413-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990415-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990415-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340995741-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340995741-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340988852-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340988852-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990423-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990423-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990420-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990420-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990417-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990417-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340971940-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340971940-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340971935-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340971935-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340971929-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340971929-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340995577-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340995577-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990422-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990422-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "30 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Бастионная улица"
+      },
+      {
+        "key": "house",
+        "value": "12"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.806425,
+      "lng": 28.360299
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=agent/310821648/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2899000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113800958"
+  ],
+  "author": {
+    "realtyId": 14035139,
+    "cianId": 14035139,
+    "id": "ID 14035139",
+    "displayName": "Вера Никулина",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=394457&t=2&p=1&timestamp=1717009418",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 14035139
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "96 633 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

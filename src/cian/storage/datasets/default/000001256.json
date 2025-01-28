@@ -1,0 +1,231 @@
+{
+  "id": 298056275,
+  "cianId": 298056275,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 8340000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам 3-ую кв по адресу Владимирская 5 В. Этаж 7/9. Общая 91. Кухня 14. Ванна кафель. На окнах ст/пак. Балкон из кухни застеклён. Остаётся определённая мебель и техника. Большой закрытый тамбур на две квартиры. Больше 5 лет в собственности. Цена 8 340 000 руб.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091877767-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091877767-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838795-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838795-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091883471-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091883471-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838797-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838797-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091864696-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091864696-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838802-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838802-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838817-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838817-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091826488-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091826488-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838800-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838800-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838845-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838845-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091877779-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091877779-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091871237-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091871237-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091864697-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091864697-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091826912-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091826912-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838804-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091838804-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091883474-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091883474-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091871244-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091871244-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091883423-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2091883423-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "90 м²",
+    "floorInfo": "7/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Родина",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Владимирская"
+      },
+      {
+        "key": "house",
+        "value": "5В"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.824609,
+      "lng": 28.281975
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148096/object_type=1/ga_obj_type=3/spec=company/298056275/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 8340000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148096
+  },
+  "phones": [
+    "+79813614521"
+  ],
+  "author": {
+    "realtyId": 72812771,
+    "cianId": 72812771,
+    "id": "ID 72812771",
+    "displayName": "Олимп",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=40586564&t=2&p=1&timestamp=1688988924",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 72812771
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "92 667 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

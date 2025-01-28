@@ -1,0 +1,136 @@
+{
+  "id": 296743243,
+  "cianId": 296743243,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3999999,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам 2-х комнатную квартиру улучшенной планировки по адресу: ОЛЬГИНСКАЯ набережная, дом 9.\nОбщая - 44м2. Кухня - 6м2.\nЭтаж - 4/5. \nКОМНАТЫ РАЗДЕЛЬНЫЕ. САНУЗЕЛ В КАФЕЛЕ.\nБалкон с видом на Кремль и реку Великая.\nКвартира солнечная, вся инфраструктура в шаговой доступности: магазины, автобусные остановки, детсад во дворе, школа через двор.\nХороший косметический ремонт.\nКвартира полностью готова для проживания или сдачи в аренду, абсолютно вся представленная мебель и техника остаются.\nЦена - 3 999 999 р.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-olginskaya-naberezhnaya-2067279523-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-olginskaya-naberezhnaya-2067279523-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "44 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Ольгинская набережная"
+      },
+      {
+        "key": "house",
+        "value": "9"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.817611,
+      "lng": 28.323054
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=company/296743243/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3999999,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813614521"
+  ],
+  "author": {
+    "realtyId": 72812771,
+    "cianId": 72812771,
+    "id": "ID 72812771",
+    "displayName": "Олимп",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=40586564&t=2&p=1&timestamp=1688988924",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 72812771
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "90 909 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,282 @@
+{
+  "id": 308414888,
+  "cianId": 308414888,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2990000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Отличное предложение! Продается уютная двухкомнатная квартира в  деревне Писковичи! \n\nЭта квартира — идеальный вариант для тех, кто ищет комфорт и спокойствие в сочетании с удобством городской жизни. С современным ремонтом, квартира готова к вашему заселению! Пластиковые окна обеспечивают отличную тепло- и звукоизоляцию, а новые межкомнатные двери добавляют стиль и уют. В санузле выполнена  отделка плиткой, что создаёт атмосферу чистоты и комфорта.\nКвартира имеет смежные комнаты, которые позволяют создать гармоничное пространство для жизни. Совмещенный санузел и кухня с установленной колонкой для горячей воды делают повседневную жизнь максимально удобной. В прихожей и в кухне - теплые полы. Уютные окна выходят во двор, где царит тишина и спокойствие. \n\nВо дворе расположена современная детская площадка — идеальное место для игр ваших детей! Дом находится в самом центре д. Писковичи, что обеспечивает доступ ко всем необходимым удобствам. В шаговой доступности расположены школа, магазины и автобусная остановка, а до города всего 10 минут — вы всегда сможете быстро добраться до всех городских удобств.\nВсе документы на квартиру в полном порядке, что гарантирует быструю и безопасную сделку. \n\n Звоните прямо сейчас, чтобы договориться о просмотре! Возможен торг. Ваш новый дом ждет вас! \n\nКод пользователя: 86523\nНомер в базе: 3447243",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158411-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158411-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158176-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158176-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158170-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158170-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158182-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158182-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158214-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158214-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158244-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158244-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158322-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158322-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158347-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158347-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158376-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158376-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158450-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158450-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158486-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158486-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158513-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158513-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158547-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158547-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158571-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158571-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158616-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158616-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158662-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158662-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158695-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158695-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158747-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158747-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158774-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158774-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158801-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158801-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158845-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158845-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158873-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158873-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158909-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158909-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158936-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158936-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292158991-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292158991-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2292159016-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2292159016-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "43,8 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Писковичская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Писковичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "house",
+        "value": "4"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.861844,
+      "lng": 28.211933
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148044/object_type=1/ga_obj_type=2/spec=company/308414888/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 2990000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148044
+  },
+  "phones": [
+    "+79113814659"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "68 265 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

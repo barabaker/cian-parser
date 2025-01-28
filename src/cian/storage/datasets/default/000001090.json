@@ -1,0 +1,147 @@
+{
+  "id": 306339635,
+  "cianId": 306339635,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "newBuildingFlatSale",
+  "price": {
+    "value": 3928500,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продается 1-комнатная квартира, 45.00 кв. м, по адресу Россия, Псковская область, г. Псков, ул. Дмитрия Яковлева, 8. Этаж 1/16.\n\nЦена объекта указана при полной оплате собственными средствами либо в ипотеку без субсидирования.\nЦену объекта при других формах оплаты (рассрочка и т.д.) уточняйте в офисе продаж\n \nКвaртира в киpпичнo-мoнолитном доме ЖK \"Атмoсфеpа\" oт нaдeжного\nзacтpoйщикa ГК \"Рестaвpациoнная мacтеpcкая\"!\nЖилой дoм располaгаетcя в сaмом рaзвитом рaйоне Пcкoвa \"Зaвеличье\", всё\neсть и вcё в пeшей доступнocти:\nНовaя Шкoлa Nо27 наxoдится вo двopе домa.\nДетский сад (МБОУ ПИЛГ)- 7 минут\nТЦ \"Фьорд Плаза\"- 9 минут\nСпортивный комплекс \"Ледовый дворец\"-15 минут\n- Адрес: ул. Дмитрия Яковлева дом 8.\n- Строительная готовность объекта  декабрь 2025 года.\n- Авторский дизайн мест общего пользования и придомовой территории.\n- Видеонаблюдение и контроль доступа\n- Конструкция дома обеспечивает исключительные характеристики по прочности и\nдолговечности, а также многообразие и гибкость планировочных решений.\n- Теплотехника соответствует всем современным требованиям.\n- Высококачественные окна, входные двери в квартиру и в подъезд, домофон,\nсистема видеонаблюдения, сделают Ваше проживание комфортным и\nбезопасным!\n- Высокие потолки в квартире 2,7 м. \"в чистоте\"\n- Возможно выполнение отделки \"Под ключ\" от застройщика\n- Ваши деньги в полной безопасности- оформление в строгом соответствии с ФЗ-\n214, через эскроу-счета, никаких серых схем!\n- Помощь в одобрении ипотеки\nРаботаем со всеми видами сертификатов, ипотека, военная ипотека, материнский\nкапитал, ГЖС и другие формы расчета.\nМы всегда готовы обсудить индивидуальные условия.\nЗвоните, пишите, если не ответили сразу- обязательно Вам перезвоним,\nвышлем фото и видео, проведем онлайн показ и дистанционное\nоформление сделки.\nВсе хлопоты берем на себя!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2250035200-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2250035200-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "45 м²",
+    "floorInfo": "1/16 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 8",
+    "deadline": "сдача в 4 квартале 2025",
+    "deadlineShort": "сдача в 4 кв. 2025"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Дмитрия Яковлева"
+      },
+      {
+        "key": "house",
+        "value": "8"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-atmosfera-pskov-i.cian.ru/",
+      "name": "ЖК «Атмосфера»"
+    },
+    "coordinates": {
+      "lat": 57.8106969474794,
+      "lng": 28.2593319914013
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=2/ga_obj_type=1/spec=agent/306339635/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_first",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3928500,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113907165"
+  ],
+  "author": {
+    "realtyId": 27700260,
+    "cianId": 27700260,
+    "id": "ID 27700260",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 27700260
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "87 300 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "newbuildingId": 4604992,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

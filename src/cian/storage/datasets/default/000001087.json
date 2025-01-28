@@ -1,0 +1,167 @@
+{
+  "id": 308465164,
+  "cianId": 308465164,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3180000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продам 2-х комнатную квартиру новой планировки,\nКвартира в обычном состоянии, расположена в пос, Уграда. До гипермаркета Лента 15 минут пешком. Хорошее автобусное сообщение, Тихое спокойное место невдалеке от городской суеты.\nВ квартире заменена сантехника, установлены стеклопакеты, лоджия утеплена.\nПрямая продажа. Один взрослый собственник.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2293263235-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293263235-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293217236-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293217236-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293270080-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293270080-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293217242-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293217242-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293217246-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293217246-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293270093-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293270093-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293217240-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293217240-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293217243-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293217243-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293217238-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293217238-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2293270088-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2293270088-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "53 м²",
+    "floorInfo": "1/3 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Уграда",
+        "locationTypeId": 161
+      },
+      {
+        "key": "house",
+        "value": "1"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.79949,
+      "lng": 28.242458
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148055/object_type=1/ga_obj_type=2/spec=none/308465164/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3180000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148055
+  },
+  "phones": [
+    "+79116908413"
+  ],
+  "author": {
+    "realtyId": 69997042,
+    "cianId": 69997042,
+    "id": "ID 69997042",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 69997042
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "60 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

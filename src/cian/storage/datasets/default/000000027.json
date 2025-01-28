@@ -1,0 +1,151 @@
+{
+  "id": 291577802,
+  "cianId": 291577802,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продаётся 3-х комнатная квартира, в\nокружении соснового леса, Расположена на 1\nэтаже 4-этажного кирпичного дома.\nПлощадь квартиры 78 м2, большая\n\nкухня, раздельный сан.узел, лоджия с видом на лес, установлены счётчики на\nводу (горячую и холодную) и газ,\nимеется кабельное ТВ, во дворе дома\nимеется детская площадка. Чистый\nподъезд. В цокольном этаже дома\nимеется помещение для хранения домашних заготовок и других вещей.\nПрекрасный вид из окна. Дом построен\nодним из последних в Пушкинских\nГорах в начале 94-х годов. 15-20 минут\nходьбы до Сбербанка, школы, детского\nсада, больницы, рынка, Святогорского монастыря, где находится могила\nА.С.Пушкина.\n Татьяна . Звонить в любое время",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901818550-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901818550-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901815272-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901815272-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901767556-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901767556-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901767511-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901767511-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901818524-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901818524-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901815269-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-turbaza-ulica-1901815269-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "78 м²",
+    "floorInfo": "1/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Пушкинские Горы рп",
+        "locationTypeId": 185
+      },
+      {
+        "key": "street",
+        "value": "улица Турбаза"
+      },
+      {
+        "key": "house",
+        "value": "2"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.035491,
+      "lng": 28.928842
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=423343/object_type=1/ga_obj_type=3/spec=none/291577802/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 4300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 423343
+  },
+  "phones": [
+    "+79813613926",
+    "+79813614278"
+  ],
+  "author": {
+    "realtyId": 93842930,
+    "cianId": 93842930,
+    "id": "ID 93842930",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 93842930
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "55 128 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

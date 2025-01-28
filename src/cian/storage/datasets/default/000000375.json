@@ -1,0 +1,196 @@
+{
+  "id": 285267585,
+  "cianId": 285267585,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 5700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Квартира 4-х комнатная. \nТеплая (сделано утепление и шумоизоляция стен), светлая, чистая. \nОкна выходят на обе стороны дома.\nПолностью меблированная. \nВстроенные шкафы, места хранения. \nКухня (пластик) с встроенной бытовой техникой. \nИмеется подсобное помещение для хранения инвентаря, велосипедов и пр. \nЧистый подъезд. \nМеста парковки авто.\nДетская площадка. \nДетский сад рядом (50 метров) \nАвтобусная остановка в шаговой доступности (50 метров) \nРядом лесной массив.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/65/466/061/kvartira-pechory-vokzalnaya-ulica-1606645680-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/65/466/061/kvartira-pechory-vokzalnaya-ulica-1606645680-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125183090-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125183090-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/72/936/061/kvartira-pechory-vokzalnaya-ulica-1606392732-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/72/936/061/kvartira-pechory-vokzalnaya-ulica-1606392732-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125311115-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125311115-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/65/466/061/kvartira-pechory-vokzalnaya-ulica-1606645684-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/65/466/061/kvartira-pechory-vokzalnaya-ulica-1606645684-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185251-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185251-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185249-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185249-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185252-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185252-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185250-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-vokzalnaya-ulica-2125185250-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/43/649/161/kvartira-pechory-vokzalnaya-ulica-1619463442-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/43/649/161/kvartira-pechory-vokzalnaya-ulica-1619463442-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/72/936/061/kvartira-pechory-vokzalnaya-ulica-1606392730-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/72/936/061/kvartira-pechory-vokzalnaya-ulica-1606392730-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/36/756/061/kvartira-pechory-vokzalnaya-ulica-1606576342-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/36/756/061/kvartira-pechory-vokzalnaya-ulica-1606576342-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/71/678/061/kvartira-pechory-vokzalnaya-ulica-1608761766-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/71/678/061/kvartira-pechory-vokzalnaya-ulica-1608761766-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/44/628/061/kvartira-pechory-vokzalnaya-ulica-1608264419-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/44/628/061/kvartira-pechory-vokzalnaya-ulica-1608264419-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/65/466/061/kvartira-pechory-vokzalnaya-ulica-1606645683-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/65/466/061/kvartira-pechory-vokzalnaya-ulica-1606645683-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/78/625/061/kvartira-pechory-vokzalnaya-ulica-1605268740-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/78/625/061/kvartira-pechory-vokzalnaya-ulica-1605268740-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "4-комн. квартира",
+    "totalArea": "79,6 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Печоры",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Вокзальная улица"
+      },
+      {
+        "key": "house",
+        "value": "13"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.828855,
+      "lng": 27.618111
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175670/object_type=1/ga_obj_type=4/spec=none/285267585/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_4",
+    "puid5": "obl_id_4605",
+    "puid8": 5700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175670
+  },
+  "phones": [
+    "+79113815154"
+  ],
+  "author": {
+    "realtyId": 101222079,
+    "cianId": 101222079,
+    "id": "ID 101222079",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 101222079
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "71 608 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

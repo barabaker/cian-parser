@@ -1,0 +1,187 @@
+{
+  "id": 306925712,
+  "cianId": 306925712,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4650000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Квартира улучшенной планировки в хорошем ухоженном состоянии, окна ПВХ- выходят на разные стороны, лоджия утеплена и застеплена ПВХ, санузел раздельный- облицован кафельной плиткой, где установлен водонагреватель, помогающий в комфортных условиях переждать временное отсутствие горячей воды, просторная кухня оснащена системой фильтрацией воды, остается кухонный гарнитур, двери- деревянные, остаются: часть мебели, холодильник, стиральная машина, удобный второй этаж и, остановка маршруток рядом, а также магазины, школа, детский сад, оказываем помощь при оформлении.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260159854-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260159854-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176678-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176678-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176547-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176547-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176664-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176664-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176551-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176551-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176543-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176543-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176552-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176552-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176546-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176546-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176673-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176673-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176549-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176549-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260159947-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260159947-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176556-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176556-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176550-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176550-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176545-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-ulica-shcorsa-2260176545-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "53,3 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Щорса"
+      },
+      {
+        "key": "house",
+        "value": "7"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.33299,
+      "lng": 30.547032
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=2/spec=none/306925712/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4650000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79113506472",
+    "+79113506454"
+  ],
+  "author": {
+    "realtyId": 96438381,
+    "cianId": 96438381,
+    "id": "ID 96438381",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 96438381
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "87 242 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

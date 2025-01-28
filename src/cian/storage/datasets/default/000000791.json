@@ -1,0 +1,185 @@
+{
+  "id": 284549837,
+  "cianId": 284549837,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 6000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Уважаемые гости и жители города Пскова, предлагаем вашему вниманию квартиру премиум класса в элитном районе нашего города. Однокомнатная квартира  47,2 кв.м на 14 этаже с прекрасным видом на город. Если вы ищите функциональную, полностью готовую к проживанию, энергетически наполненную квартиру, обязательно обратите внимание на наш вариант. Большая однокомнатная квартира вместила в себя просторную  гостиную, кухню, где с обеденной зоны вы можете наслаждаться видом на Троицкий собор, рабочую зону, позволяющую уединится.  Все помещения отделаны качественными материалами. Квартира продается с мебелью и техникой. Приглашаем вас на просмотр в удобное для вас время.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744478-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744478-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744485-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744485-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744493-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744493-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744507-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744507-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744519-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744519-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744530-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744530-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744538-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744538-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744549-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744549-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744563-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744563-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744574-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744574-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2126744583-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2126744583-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "47 м²",
+    "floorInfo": "14/18 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Юбилейная улица"
+      },
+      {
+        "key": "house",
+        "value": "40"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.812299,
+      "lng": 28.293778
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=company/284549837/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 6000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505206",
+    "+79113606123"
+  ],
+  "author": {
+    "realtyId": 13028990,
+    "cianId": 13028990,
+    "id": "ID 13028990",
+    "displayName": "Русская недвижимость - Псковский офис",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=250286&t=2&p=1&timestamp=1588787096",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13028990
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "127 660 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

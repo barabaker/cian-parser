@@ -1,0 +1,133 @@
+{
+  "id": 310744019,
+  "cianId": 310744019,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 150000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается квартира в жилой деревне, в жилом доме. В квартире требуется ремонт с заменой водопроводных труб, оконных рам и многого другого.  В квартире электроотопление, но планируется газификация. Документы готовы к продаже, 1 взрослый собственник. Вся инфраструктура в ближайшей деревне Славковичи.",
+  "media": [],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "42,7 м²",
+    "floorInfo": "1/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Порховский муниципальный округ",
+        "locationTypeId": 282
+      },
+      {
+        "key": "location",
+        "value": "д. Пуково",
+        "locationTypeId": 161
+      },
+      {
+        "key": "house",
+        "value": "4"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.687812,
+      "lng": 29.115279
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1222875/object_type=1/ga_obj_type=2/spec=agent/310744019/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 150000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1219756
+  },
+  "phones": [
+    "+79113814997"
+  ],
+  "author": {
+    "realtyId": 22126986,
+    "cianId": 22126986,
+    "id": "ID 22126986",
+    "displayName": "Ольга Васильева",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53716186&t=2&p=1&timestamp=1664547605",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T20:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 20:00.",
+      "userId": 22126986
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "3 513 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

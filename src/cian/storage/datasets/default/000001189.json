@@ -1,0 +1,162 @@
+{
+  "id": 304047889,
+  "cianId": 304047889,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "newBuildingFlatSale",
+  "price": {
+    "value": 2590000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "214-ФЗ"
+  },
+  "icons": [],
+  "description": "Продаётся 1-комнатная квартира в строящемся доме (Дом 2), срок сдачи: III-кв. 2025, общей площадью 25.9 кв.м., на 1 этаже. Новый жилой комплекс \"Гармония\" от застройщика \"ГК Руст\" расположен по адресу: Россия, Псковская область, Псковский район, Завеличенская волость, деревня Борисовичи, Венская улица",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2374104994-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2374104994-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2280042347-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2280042347-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2280043062-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2280043062-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381297418-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381297418-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "25,9 м²",
+    "floorInfo": "1/9 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 2",
+    "deadline": "сдача в 3 квартале 2025",
+    "deadlineShort": "сдача в 3 кв. 2025"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Анатолия Слинина"
+      },
+      {
+        "key": "house",
+        "value": "2"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-garmoniya-pskov-i.cian.ru/",
+      "name": "ЖК «Гармония»"
+    },
+    "coordinates": {
+      "lat": 57.80693513799958,
+      "lng": 28.255285926573393
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=2/ga_obj_type=1/spec=company/304047889/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_first",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2590000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+78003330343"
+  ],
+  "author": {
+    "realtyId": 52057426,
+    "cianId": 52057426,
+    "id": "ID 52057426",
+    "displayName": "Циан",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=27645171&t=2&p=1&timestamp=1592303577",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": true,
+    "workTimeInfo": {
+      "callFrom": "09:00:00",
+      "callTo": "18:00:00"
+    },
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T18:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 18:00.",
+      "userId": 52057426
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    },
+    "builderPageUrl": "https://cian.ru/zastroishchik-tsian-15079/"
+  },
+  "isFavorite": false,
+  "additionalPrice": "100 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "newbuildingId": 4490390,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Показать контакты",
+  "isBookedFromDeveloper": false,
+  "newbuildingCplLayer": "kpn"
+}

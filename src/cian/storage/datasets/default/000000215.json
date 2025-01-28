@@ -1,0 +1,175 @@
+{
+  "id": 312920768,
+  "cianId": 312920768,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2550000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается уютная однокомнатная квартира в городе Великие Луки, расположенная на проспекте Ленина, 57. Общая площадь квартиры составляет 27.9 кв. м, она находится на 5 этаже кирпичного дома, построенного в 1968 году. Это последний этаж, поэтому вам не будут мешать соседи сверху, а значит, можно наслаждаться тишиной и покоем.\n\nВ квартире сделан косметический ремонт, поэтому она готова к заселению. Есть один совмещенный санузел, а кухня площадью 6 кв. м станет уютным местом для приготовления ваших любимых блюд. Окна выходят на улицу, поэтому в квартире всегда будет достаточно света. Также имеется балкон, где можно отдохнуть и насладиться видом.\n\nДом находится в хорошем состоянии, есть наземная парковка, поэтому можно не беспокоиться о месте для вашего автомобиля. Жилой район обладает развитой инфраструктурой: поблизости находятся школы и детские сады, магазины, обеспечивающие все необходимые удобства для комфортной жизни.\n\nКвартира продается без обременений, возможна покупка в ипотеку. Все документы готовы к сделке, поэтому процесс оформления пройдет быстро и без лишних хлопот.\n\nПриглашаем вас на просмотр этой замечательной квартиры! Записывайтесь на удобное время и оцените все ее преимущества лично.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385311300-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385311300-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385292422-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385292422-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385326001-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385326001-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186895-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186895-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385292353-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385292353-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186897-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186897-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186903-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186903-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186906-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186906-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186904-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385186904-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385311353-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2385311353-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "27,9 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "проспект Ленина"
+      },
+      {
+        "key": "house",
+        "value": "57"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.338963,
+      "lng": 30.535075
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=1/spec=agent/312920768/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2550000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79113608747"
+  ],
+  "author": {
+    "realtyId": 70681878,
+    "cianId": 70681878,
+    "id": "ID 70681878",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 70681878
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "91 398 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

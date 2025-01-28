@@ -1,0 +1,192 @@
+{
+  "id": 310403348,
+  "cianId": 310403348,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3940000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "продаётся 1 кв. Никольская 5, 4/8, 38.3 кв.м, кухня 10 м, с прекрасным видом из окна на реку Великую и памятник Александра Невского, остаётся кухонный гарнитур, есть кладовка. в районе  развитая инфраструктура: детские сады, магазины, спортивные площадки, тренажёры,  парк для прогулок, места для отдыха, речка, пляж, Акваполис, прямая продажа",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381943988-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381943988-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949943-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949943-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949944-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949944-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949947-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949947-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949948-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949948-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381943994-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381943994-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381943906-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381943906-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949824-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949824-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949803-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949803-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949946-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381949946-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381946163-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381946163-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381946299-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381946299-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381946444-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-nikolskaya-ulica-2381946444-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "38,3 м²",
+    "floorInfo": "4/8 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Родина",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Никольская"
+      },
+      {
+        "key": "house",
+        "value": "5"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.826554,
+      "lng": 28.277977
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148096/object_type=1/ga_obj_type=1/spec=none/310403348/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3940000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148096
+  },
+  "phones": [
+    "+79113814498"
+  ],
+  "author": {
+    "realtyId": 472152,
+    "cianId": 11004444,
+    "id": "ID 11004444",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 472152
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "102 872 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

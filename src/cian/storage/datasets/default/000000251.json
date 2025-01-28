@@ -1,0 +1,208 @@
+{
+  "id": 312059853,
+  "cianId": 312059853,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Предлагается к продаже отличная двухкомнатная квартира новой планировки в отличном тихом поселке в восьми километрах от города Пскова. Хорошая транспортная доступность с городом. Магазины, школа, дом культуры, детский садик, остановка автобуса и Фельдшерский отдел все это в пешей доступности от дома. Квартира чистая большая часть мебели останется новым хозяевам.  Подъезд чистый.  В квартире все центральное. Показ по предварительной договоренности в удобное для Вас время.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367842274-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367842274-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844475-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844475-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844491-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844491-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844474-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844474-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844476-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844476-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844473-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844473-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844494-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844494-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844478-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844478-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367842299-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367842299-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844479-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844479-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367842305-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367842305-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844477-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-solovi-2367844477-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "53,4 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Ядровская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Соловьи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "house",
+        "value": "7"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.685738,
+      "lng": 28.341012
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148425/object_type=1/ga_obj_type=2/spec=company/312059853/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148425
+  },
+  "phones": [
+    "+79113906037"
+  ],
+  "author": {
+    "realtyId": 96181113,
+    "cianId": 96181113,
+    "id": "ID 96181113",
+    "displayName": "СКОБАРЬ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53702259&t=2&p=1&timestamp=1737707105",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 96181113
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "58 052 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

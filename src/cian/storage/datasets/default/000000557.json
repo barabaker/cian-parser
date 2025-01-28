@@ -1,0 +1,172 @@
+{
+  "id": 312758712,
+  "cianId": 312758712,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2630000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продам студию на 4 этаже в кирпично монолитном доме\n\nКосметический ремонт\n\nОбустроена\n\nПрямая продажа\n\nСвободна\n\nПодходит Под любые виды расчета (включая обмен )\n\nЗвоните в удобное для вас время !",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382040760-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382040760-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382040939-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382040939-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041046-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041046-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041206-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041206-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041208-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041208-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041302-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-prazhskaya-ulica-2382041302-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "Студия",
+    "totalArea": "27,3 м²",
+    "floorInfo": "4/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Пражская"
+      },
+      {
+        "key": "house",
+        "value": "8/12"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.811551,
+      "lng": 28.244838
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=9/spec=agent/312758712/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid5": "obl_id_4605",
+    "puid8": 2630000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113504675"
+  ],
+  "author": {
+    "realtyId": 20326281,
+    "cianId": 20326281,
+    "id": "ID 20326281",
+    "displayName": "Рафаэль Керимов",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53303331&t=2&p=1&timestamp=1662099761",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 20326281
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "96 337 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,166 @@
+{
+  "id": 309777332,
+  "cianId": 309777332,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продается просторная трехкомнатная квартира в городе Остров, Псковская область. Общая площадь составляет 63.3 кв. м, из них жилая — 43.9 кв. м. Квартира расположена на 3-м этаже 5-этажного дома. Высота потолков — 2.5 метра, что создает ощущение дополнительного пространства. Кухня занимает 8.8 кв. м, идеально подходящая для кулинарных экспериментов.\n\nКвартира без ремонта, что дает вам возможность воплотить любые дизайнерские идеи и сделать жилье полностью под себя. В квартире есть два балкона, с которых открывается вид как на улицу, так и во двор. Планировка позволяет комфортно разместить семью и организовать пространство по своему усмотрению. Санузел в квартире отдельный, что удобно для семейного проживания.\n\nДом в хорошем состоянии, подъезд чистый и ухоженный. Рядом с домом есть наземная парковка, поэтому всегда можно найти место для автомобиля. Вся необходимая инфраструктура в шаговой доступности: школы, детские сады, клиники и магазины. Это делает район удобным для жизни, особенно если у вас есть дети. Хорошая транспортная доступность позволяет без труда добраться до любой точки города.\n\nКвартира продается без посредников, что упрощает процесс покупки и снижает затраты. Возможна покупка в ипотеку, все документы готовы к сделке. Юридически чистая, без обременений.\n\nЗаписывайтесь на просмотр, чтобы оценить все преимущества этой квартиры лично. Мы с радостью ответим на все ваши вопросы и поможем сделать правильный выбор.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320520968-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320520968-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320520364-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320520364-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517008-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517008-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517011-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517011-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517007-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517007-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320516883-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320516883-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320504029-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320504029-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517010-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517010-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320520969-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320520969-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517006-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-dos-ulica-2320517006-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "63,3 м²",
+    "floorInfo": "3/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица ДОС"
+      },
+      {
+        "key": "house",
+        "value": "21"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.357677,
+      "lng": 28.313047
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=3/spec=none/309777332/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 2500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79113605604",
+    "+79113514763"
+  ],
+  "author": {
+    "realtyId": 124390232,
+    "cianId": 124390232,
+    "id": "ID 124390232",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 124390232
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "39 494 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

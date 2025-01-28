@@ -1,0 +1,366 @@
+{
+  "id": 312876283,
+  "cianId": 312876283,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 8900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаем уютную трёхкомнатную квартиру в относительно новом панельном доме на Завеличье.\nПродаем со всей встроенной и корпусной мебелью и встроенной бытовой техникой. Все в отличном состоянии (на фото). Квартира на 2-ом этаже.\nОбщая площадь, 74 кв.м., жилая площадь комнат 40 кв. метров, двойная застекленная, отделанная и утепленная лоджия с выходом из кухни, кухня 12 кв.м. Комнаты 17,1+12+10,9 кв.м. Большая удобная прихожая, прямоугольной формы.\nМассивные межкомнатные двери из дерева, кафель, ламинат. В окнах стеклопакеты.\nВся мебель в квартире эксклюзивная, сделана на заказ, возможно в единственном экземпляре. Кухня с итальянскими фасадами. Обеденный стол и стулья ручной работы из массива гевеи, производства Малайзии. Плита со стеклокерамикой Hansa, производства Германии. В гостиной мебель производства США фирмы Ashley  два дивана 2-ух и 3-ех местные. Стенка и стеклянные витрины с подсветкой (все есть на фото). В квартире на протяжении очень длительного времени никто не жил и ничем не пользовался, поэтому все в отличном состоянии.\nОкна кухни, гостиной и одной из спален ориентированы на северо-запад, а другая спальня на юго-восток.\nРассматриваем любые варианты и формы расчета (сертификаты, ипотеки любых видов и банков, материнские капиталы, субсидии и т.п.)\nВстречные варианты искать не будем, просто продаем и отдаем ключи в день сделки.\nВозможен обмен или зачет стоимости любым Вашим недвижимым имуществом.\nУ квартиры нет истории  ОДИН взрослый собственник С МОМЕНТА ПОСТРОЙКИ ДОМА!\nРядом с домом благоустроенная детская площадка.\nМесторасположение у дома отличное, лучше просто не придумать! Во-первых, дом расположен внутри квартала, в отдалении от оживленных проезжих частей дорог. Проблем с парковкой практически нет. Во-вторых, в непосредственной близости есть все без исключения социальные объекты:\n- Несколько школ, в том числе новая современная школа  Инженерно-лингвистическая гимназия;\n- Рядом, практически за домом, новый современный действующий детский сад;\n- ТЦ Николаевский, в котором есть ВСЁ, буквально в 40 метрах от подъезда (парадной):\n- Несколько магазинов Магнит и Пятёрочка;\n- До Ледового дворца и Универсального спортивного комплекса Олимп (с бассейном) около 300 метров.\nС необыкновенной легкостью можно добраться до Мини рынка Балтийский, ТЦ Гулливер, инновационного отделения Сбербанка и отделения Почты России, которые расположены в соседних домах.\nВ шаговой доступности находятся остановки общественного транспорта.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384631424-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384631424-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244103-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244103-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643757-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643757-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643746-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643746-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643775-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643775-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643747-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643747-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643784-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643784-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643769-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643769-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643751-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643751-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244220-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244220-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643726-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643726-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244257-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244257-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643750-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643750-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384631435-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384631435-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643754-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643754-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643787-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643787-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244367-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244367-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643756-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643756-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643755-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643755-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643780-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643780-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643758-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643758-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643776-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643776-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643773-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643773-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643728-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643728-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643771-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643771-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244659-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384244659-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643760-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643760-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643753-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643753-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643774-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643774-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643772-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643772-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643783-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643783-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384639689-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384639689-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384631446-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384631446-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643766-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643766-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643763-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643763-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643752-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643752-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643790-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643790-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643857-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643857-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643744-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643744-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643745-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643745-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384639700-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384639700-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384246706-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384246706-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643770-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643770-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643782-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384643782-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384639697-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384639697-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384246844-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-rokossovskogo-2384246844-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "74 м²",
+    "floorInfo": "2/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Рокоссовского"
+      },
+      {
+        "key": "house",
+        "value": "34"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.814988,
+      "lng": 28.269928
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=agent/312876283/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 8900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813506558"
+  ],
+  "author": {
+    "realtyId": 15328437,
+    "cianId": 15328437,
+    "id": "ID 15328437",
+    "displayName": "Алексей Трофименко",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 15328437
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "120 270 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

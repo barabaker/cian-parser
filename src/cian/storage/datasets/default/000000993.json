@@ -1,0 +1,353 @@
+{
+  "id": 310583986,
+  "cianId": 310583986,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 6000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам АБСОЛЮТНО НОВУЮ евро двушку с  КАЧЕСТВЕННЫМ ремонтом и готовой обстановкой!!! \n\nПродажа от СОБСТВЕННИКА!!! \n\nВ квартире никто не проживал и   даже не ночевал! \n\nВСЁ НОВОЕ! ВСЕ ОСТАЁТСЯ  новым собственникам! \n\nВся обстановка максимально продумана  для комфортного проживания - нужно только привезти личные вещи и разложить их по своим местам. \n\nВ шаговой доступности вся инфроструктура(магазины,аптеки, мед. центр, остановка,заправки, мойки, школа, WB, OZON, в 10 минутах пешком- река!, торговые комплексы \"Акваполис\", \"Пик60\", макдональдс, рынок Нива и тд.)\n\nСобственник!\nКвартира в настоящее время в ипотеке, перед сделкой, из ипотеки выведу за счёт собственных средств  за 2 дня-всё юридически прозрачно-любые проверки. \n\nРассматриваю обмен на  недвижимость/земельный участок  или авто. \n\nПо всем вопросам-звоните.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123194-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123194-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123075-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123075-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123077-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123077-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123210-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123210-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123082-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123082-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123072-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123072-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123085-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123085-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123092-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123092-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123084-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123084-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123091-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123091-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123204-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123204-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123203-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123203-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123189-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123189-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123093-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123093-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123102-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123102-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123101-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123101-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123209-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123209-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123216-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123216-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123098-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123098-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123109-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123109-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123124-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123124-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123108-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123108-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123133-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123133-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123136-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123136-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123206-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123206-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123170-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123170-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123106-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123106-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123112-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123112-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123115-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123115-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123153-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123153-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123126-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123126-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123127-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123127-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123132-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123132-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123145-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123145-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123190-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123190-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123141-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123141-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123140-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123140-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123152-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123152-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123179-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123179-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123155-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123155-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123114-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123114-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123162-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ovsishce-pribrezhnyy-proezd-2336123162-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "48,7 м²",
+    "floorInfo": "7/12 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 2",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "location",
+        "value": "Овсище исторический район",
+        "locationTypeId": 252
+      },
+      {
+        "key": "street",
+        "value": "проезд Прибрежный"
+      },
+      {
+        "key": "house",
+        "value": "2"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-pribrezhnyy-pskov-i.cian.ru/",
+      "name": "ЖК «Прибрежный»"
+    },
+    "coordinates": {
+      "lat": 57.836407,
+      "lng": 28.29686
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=327506/object_type=1/ga_obj_type=2/spec=none/310583986/from_developer=0/repres=0/owner=1/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 6000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113907971",
+    "+79116904285"
+  ],
+  "author": {
+    "realtyId": 125029588,
+    "cianId": 125029588,
+    "id": "ID 125029588",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 125029588
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "123 203 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 3447172,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

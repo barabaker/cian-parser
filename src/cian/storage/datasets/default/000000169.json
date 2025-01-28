@@ -1,0 +1,308 @@
+{
+  "id": 306900687,
+  "cianId": 306900687,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3200000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продам отличную квартиру улучшенной планировки! Очень аккуратное состояние, небольшой косметический ремонт, с/у раздельный в кафеле, металлическая входная дверь. Хороший и чистый подъезд! Балкон застеклеклён. На кухне под окном есть хорошее место для хранения продуктов! Дом кирпичный, поэтому в любое время года оптимальная температура в квартире. Две комнаты и кухня выходят окнами во двор, одна спальня на улицу. Сразу во дворе детский сад, магазине и остановка буквально в минуте ходьбы, до центра 10 минут на машине! Прямая продажа, один взрослый собственник, без долгов и обременений, подходит под любой вариант расчёта.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764602-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764602-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259747560-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259747560-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764716-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764716-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768506-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768506-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768504-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768504-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764819-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764819-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764789-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764789-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259748326-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259748326-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764846-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764846-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259772901-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259772901-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259748434-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259748434-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749199-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749199-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764629-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764629-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768539-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768539-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768503-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768503-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749370-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749370-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764564-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764564-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764691-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764691-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764662-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764662-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768548-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768548-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764581-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764581-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749949-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749949-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749940-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259749940-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768482-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768482-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768547-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768547-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768546-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768546-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764755-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259764755-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259772886-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259772886-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259772724-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259772724-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750498-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750498-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750577-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750577-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768480-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768480-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750582-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750582-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768494-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259768494-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750606-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-nikolaya-vasileva-2259750606-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "58,7 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Николая Васильева"
+      },
+      {
+        "key": "house",
+        "value": "69А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.822562,
+      "lng": 28.3973
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=agent/306900687/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3200000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79116904137"
+  ],
+  "author": {
+    "realtyId": 3843502,
+    "cianId": 2326162,
+    "id": "ID 2326162",
+    "displayName": "Марина Ларионова",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=47532&t=2&p=1&timestamp=1467272376",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 3843502
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "54 514 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,247 @@
+{
+  "id": 309594568,
+  "cianId": 309594568,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 5270000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "1-88312 Продаётся трёхкомнатная квартира в панельном доме, расположенная на 9 этаже девятиэтажного дома. Общая площадь   62,4 кв. м,  жилая площадь  17+ 11+9,5 кв. м, комнаты изолированные,  кухня 7,5 кв. м,  санузел раздельный. Не торцевая. Квартира тёплая, светлая. Окна выходят на разные стороны, с прекрасным видом на реку Великую с одной стороны и на зеленый двор с другой стороны. Дом расположен в районе с очень развитой инфраструктурой. Во дворе есть детский садик, рядом школа. Магазины: Магнит, Пятёрочка, ТЦ Акваполис, Кинотеатр, отделение Сбербанка и ВТБ, рынок \"Нива\", аптеки и много другое.  Удобное транспортное сообщение. Один взрослый собственник. Любая форма расчёта.\n\nИтака. 30 лет на рынке.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821171-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821171-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821175-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821175-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821177-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821177-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821179-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821179-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821181-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821181-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821187-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821187-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821191-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821191-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821196-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821196-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821199-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821199-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821202-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821202-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821205-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821205-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821208-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821208-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821213-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821213-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821216-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821216-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821221-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821221-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821226-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821226-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821231-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821231-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821236-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821236-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821241-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821241-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821245-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821245-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821249-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821249-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821254-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821254-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2316821258-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2316821258-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "62,4 м²",
+    "floorInfo": "9/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Кузбасской Дивизии"
+      },
+      {
+        "key": "house",
+        "value": "30"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.822231,
+      "lng": 28.286322
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=company/309594568/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 5270000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79681930570"
+  ],
+  "author": {
+    "realtyId": 12477862,
+    "cianId": 12477862,
+    "id": "ID 12477862",
+    "displayName": "Итака",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=212483&t=2&p=1&timestamp=1684821084",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 12477862
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "84 455 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,255 @@
+{
+  "id": 309010275,
+  "cianId": 309010275,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3090000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаётся просторная трёхкомнатная квартира в тихом уютном районе города Остров. Квартира очень уютная ,светлая ,теплая. Находится на втором этаже трёхэтажного дома, в квартире выполнен хороший косметический ремонт, отличная планировка, все комнаты раздельные, частично остаётся мебель, во всех комнатах установлены пластиковые окна, также есть сухой , чистый подвал для хранения заготовок. Санузел раздельный. Перед домом имеется парковка и детская площадка, в двух минутах от дома пункт выдачи \"Озон\" и сетевой магазин \"Магнит\". Хороший чистый подъезд с домофоном.В 10 минутах от дома находится обустроенная набережная с пляжем, сквер, и новый большой стадион с тренажёрами. Автобусное сообщение до центра города каждый час. Также бонусом остаётся разработанный участок с плодовыми кустарниками прямо возле дома. Один взрослый собственник ,все документы готовы к продаже. \n\n \n\nКод пользователя: 136428\nНомер в базе: 3813649",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2322953271-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322953271-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322951231-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322951231-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322951479-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322951479-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322951721-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322951721-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322951998-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322951998-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2305293440-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2305293440-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2305293446-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2305293446-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322952366-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322952366-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322952597-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322952597-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322952804-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322952804-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322953028-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322953028-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322953454-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322953454-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2305293505-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2305293505-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322953640-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322953640-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322953876-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322953876-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322954025-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322954025-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322954183-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322954183-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322954382-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322954382-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2305293554-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2305293554-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322954550-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322954550-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322954678-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322954678-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322954806-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322954806-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322954974-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322954974-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322955096-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322955096-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2322955202-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2322955202-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "56,8 м²",
+    "floorInfo": "2/3 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "location",
+        "value": "Строитель мкр",
+        "locationTypeId": 174
+      },
+      {
+        "key": "house",
+        "value": "19"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.339451,
+      "lng": 28.327771
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=245183/object_type=1/ga_obj_type=3/spec=company/309010275/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3090000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79813505602"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "54 401 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

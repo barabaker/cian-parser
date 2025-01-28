@@ -1,0 +1,182 @@
+{
+  "id": 309474158,
+  "cianId": 309474158,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается 2 ком.кв ул/пл 4/5 Плехановский пос. 71, кирпич, комнаты раздельные 22,5 кв.м и11,5 кв.м, , стеклопакеты, балкон застеклен, хорошее состояние, остается встроенный шкаф-купе, кухня, с/у раздельный. Вся инфраструктура в шаговой доступности. Прямая продажа.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615541-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615541-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615543-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615543-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615504-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615504-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615508-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615508-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615507-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615507-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615505-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314615505-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314612247-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2314612247-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355504936-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355504936-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355509433-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355509433-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355512778-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355512778-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355511860-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355511860-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355511865-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355511865-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355514121-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-plehanovskiy-posad-2355514121-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "51 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Плехановский Посад"
+      },
+      {
+        "key": "house",
+        "value": "71"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.813166,
+      "lng": 28.36082
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=none/309474158/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113906093"
+  ],
+  "author": {
+    "realtyId": 13491578,
+    "cianId": 13491578,
+    "id": "ID 13491578",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13491578
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "76 471 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

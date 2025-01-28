@@ -1,0 +1,278 @@
+{
+  "id": 304877002,
+  "cianId": 304877002,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2750000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Деревня Родина расположена на реке Великая к северо-западу от города Пскова. Прекрасное место отдыха и уютного проживания. \nВ этом уютном месте продается 3-х комнатная квартира, под чистовую отделку. В квартире полы подготовлены под стяжку, установлены новые радиаторы, новая входная железная дверь в подарок новому хозяину. Из окна открывается великолепный вид на реку Великую, уютный, тихий двор, в шаговой доступности сетевые магазины. Дом культуры, школа, детский сад, медицинский пункт (ФАБ), почта, смотровая площадка. \nРассмотрим различные виды расчета, в том числе ипотеку, материнский капитал, сертификаты. Просмотры в удобное для Вас время. Юридическое сопровождение сделки",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483184-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483184-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483189-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483189-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483180-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483180-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483190-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483190-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483170-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483170-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222478085-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222478085-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483173-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483173-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483178-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2222483178-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688487-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688487-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688497-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688497-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688486-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688486-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688488-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688488-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686736-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686736-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686705-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686705-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686752-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686752-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686758-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686758-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686731-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686731-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688485-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688485-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688498-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688498-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686755-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686755-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688490-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688490-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688491-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285688491-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686745-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686745-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686727-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686727-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686715-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686715-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686691-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2285686691-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "55,7 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Родина",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Набережная"
+      },
+      {
+        "key": "house",
+        "value": "8"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.833786,
+      "lng": 28.252492
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148096/object_type=1/ga_obj_type=3/spec=agent/304877002/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 2750000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148096
+  },
+  "phones": [
+    "+79116904933",
+    "+79813505618"
+  ],
+  "author": {
+    "realtyId": 5586881,
+    "cianId": 3630304,
+    "id": "ID 3630304",
+    "displayName": "Елена Вейс",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=47836561&t=2&p=1&timestamp=1666771954",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T08:00:00+03:00",
+      "availableTo": "2025-01-29T22:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 8:00 по 22:00.",
+      "userId": 5586881
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "49 372 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,277 @@
+{
+  "id": 312239001,
+  "cianId": 312239001,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4250000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продам 1 к.кв. с отличным полным ремонтом в новом доме. Прямая продажа.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792414-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792414-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598927-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598927-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371806092-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371806092-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792404-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792404-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371791857-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371791857-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371791902-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371791902-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792409-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792409-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792397-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792397-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792411-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792411-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598922-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598922-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792413-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792413-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598915-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598915-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598907-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598907-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792412-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792412-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792403-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792403-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598918-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598918-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598906-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598906-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792405-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792405-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792406-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792406-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792401-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792401-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371791887-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371791887-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598910-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598910-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792407-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792407-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792399-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792399-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371780121-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371780121-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792400-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792400-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371792402-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371792402-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371791875-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371791875-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "40 м²",
+    "floorInfo": "4/10 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 24 - 1 этап",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Гдовская улица"
+      },
+      {
+        "key": "house",
+        "value": "24"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-sirenevyy-park-pskov-i.cian.ru/",
+      "name": "ЖК «Сиреневый парк»"
+    },
+    "coordinates": {
+      "lat": 57.834801,
+      "lng": 28.335433
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=agent/312239001/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 4250000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118907280"
+  ],
+  "author": {
+    "realtyId": 126587274,
+    "cianId": 126587274,
+    "id": "ID 126587274",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 126587274
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "106 250 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 42198,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": true
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

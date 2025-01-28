@@ -1,0 +1,146 @@
+{
+  "id": 310170235,
+  "cianId": 310170235,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4350000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам просторную  квартиру в центре города, кухня 9м, горячее водоснабжение, природный газ. Все в шаговой доступности магазины, школа, детский сад. Документы к продаже готовы",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328114109-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328114109-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328059060-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328059060-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328118080-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328118080-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328114105-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328114105-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328120934-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328120934-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328100663-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-murmanskaya-ulica-2328100663-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "53 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Мурманская улица"
+      },
+      {
+        "key": "house",
+        "value": "3"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.350188,
+      "lng": 30.531392
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=2/spec=none/310170235/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4350000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79118906063"
+  ],
+  "author": {
+    "realtyId": 79943653,
+    "cianId": 79943653,
+    "id": "ID 79943653",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 79943653
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "82 075 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

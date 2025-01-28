@@ -1,0 +1,209 @@
+{
+  "id": 311381616,
+  "cianId": 311381616,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 5000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Прoдaм треxкoмнатную квартиру новoй планиpовки. Общaя площaдь 67 кв.м., кухня 9 кв.м, комнaты изoлиpoвaнныe, c\\у раздельный, центpaльнaя гoрячая водa. Квaртиpa в жилoм состоянии, пpoдается сo вcтpoeнной мебeлью. Oтличнoе мeстoраcпoложения. Рядoм магазины, pынoк Нива, Империал, Aквапoлис, паpк, шкoлы и дeтские садики. Удобное автобусное сообщение. Документы готовы. Рассмотрим разные варианты оплаты. Юридическое сопровождение сделки любой сложности гарантирую. Звоните.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592322-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592322-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2353390879-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2353390879-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592375-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592375-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592428-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592428-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592478-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592478-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356420660-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356420660-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592542-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592542-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592585-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592585-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592658-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592658-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592725-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592725-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592812-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592812-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356420833-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356420833-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592907-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592907-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384592975-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384592975-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2384593068-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2384593068-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "67 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Коммунальная улица"
+      },
+      {
+        "key": "house",
+        "value": "52А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.817433,
+      "lng": 28.28555
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=company/311381616/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 5000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505206",
+    "+79113606123"
+  ],
+  "author": {
+    "realtyId": 13028990,
+    "cianId": 13028990,
+    "id": "ID 13028990",
+    "displayName": "Русская недвижимость - Псковский офис",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=250286&t=2&p=1&timestamp=1588787096",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13028990
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "74 627 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

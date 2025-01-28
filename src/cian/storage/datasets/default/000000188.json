@@ -1,0 +1,199 @@
+{
+  "id": 311424653,
+  "cianId": 311424653,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 790000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "В квартиру проведен водопровод, состояние квартиры жилое, комнаты раздельные.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2355595063-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2355595063-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354459717-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354459717-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357836-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357836-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477607-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477607-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477581-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477581-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477642-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477642-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477601-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477601-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357842-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357842-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477572-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477572-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477591-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477591-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477618-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477618-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357847-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357847-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357849-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354357849-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477655-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477655-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477627-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2354477627-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "44,4 м²",
+    "floorInfo": "1/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Гдов",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Кингисеппская улица"
+      },
+      {
+        "key": "house",
+        "value": "27а"
+      }
+    ],
+    "coordinates": {
+      "lat": 58.7469,
+      "lng": 27.821983
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=174567/object_type=1/ga_obj_type=2/spec=company/311424653/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 790000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 174567
+  },
+  "phones": [
+    "+79118906300"
+  ],
+  "author": {
+    "realtyId": 7773475,
+    "cianId": 10248064,
+    "id": "ID 10248064",
+    "displayName": "А-Реал",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=361776&t=2&p=1&timestamp=1620992939",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 7773475
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "17 793 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

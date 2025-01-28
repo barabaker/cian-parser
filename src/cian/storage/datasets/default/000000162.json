@@ -1,0 +1,216 @@
+{
+  "id": 312342398,
+  "cianId": 312342398,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3850000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается уютная 2-комнатная квартира в историческом районе Лопатино, по адресу: Боровая улица, 40А, в городе Псков. Общая площадь квартиры составляет 70 квадратных метров, из которых просторная кухня занимает 17 квадратных метров. Квартира расположена на втором этаже двухэтажного кирпичного дома, построенного в 1978 году.\nВ квартире выполнен косметический ремонт, который создает приятную атмосферу и позволяет сразу заехать и жить. Планировка квартиры предусматривает просторные комнаты и совмещенный санузел. Также есть балкон, где можно наслаждаться свежим воздухом и видом на тихий район.\n\nДом находится в хорошем состоянии, кирпичные стены обеспечивают тепло и шумоизоляцию. Парковка рядом с домом позволяет удобно оставлять автомобиль. Район отличается спокойствием и уютом, что делает его отличным выбором для семейного проживания.\nРядом с домом находятся детские сады и магазины, поэтому можно легко решать ежедневные бытовые вопросы. Удобное расположение позволяет быстро добраться до центра города и других районов.\nКвартира продается без обременений, ипотека возможна. Все документы готовы к сделке, что позволяет быстро и легко оформить покупку.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935619-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935619-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935620-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935620-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373922444-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373922444-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823600-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823600-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935617-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935617-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823552-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823552-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823611-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823611-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823555-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823555-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935616-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935616-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823595-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823595-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935618-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935618-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935627-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935627-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373958791-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373958791-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935626-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373935626-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823607-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-lopatino-borovaya-ulica-2373823607-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "70 м²",
+    "floorInfo": "2/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "location",
+        "value": "Лопатино исторический район",
+        "locationTypeId": 252
+      },
+      {
+        "key": "street",
+        "value": "улица Боровая"
+      },
+      {
+        "key": "house",
+        "value": "40А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.757961,
+      "lng": 28.41144
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=327543/object_type=1/ga_obj_type=2/spec=agent/312342398/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3850000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118808682"
+  ],
+  "author": {
+    "realtyId": 14566401,
+    "cianId": 14566401,
+    "id": "ID 14566401",
+    "displayName": "Олеся Купцова",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 14566401
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "55 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

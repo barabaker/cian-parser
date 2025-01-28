@@ -1,0 +1,195 @@
+{
+  "id": 309332901,
+  "cianId": 309332901,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 5400000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается квартира:\n\nПроизведена замена инженерной сантехники, проводки, выполнена сухая стяжка.\n\nИндивидуальное отопление, установлен двух контурный газовый котел, позволяющий минимизировать коммунальные платежи зимой, и сохранить комфортную для себя температуру круглый год, без отключения воды летом.\n\nВсего 12 квартир в доме.\n\nВсе комнаты раздельные на две стороны.\n\nВ квартире предусмотрено техническое помещение под стиральную машину, гардеробную, сушку белья.\n\nУ каждой квартиры имеется своё сухое подвальное помещение.\n\nАдекватные соседи без каких либо нареканий.\n\nДо центра города 4 минуту езды на машине.\nОтличный асфальт до центра города.\nРядом школа, остановка, магазины.\n\nОдин взрослый собственник.\nПрямая продажа.\nБез долгов и обременений.\nНикто не прописан.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2311917894-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311917894-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311901889-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311901889-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912974-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912974-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912988-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912988-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311893510-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311893510-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912985-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912985-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311917219-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311917219-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311893507-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311893507-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912971-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912971-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311917898-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311917898-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912982-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912982-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311917897-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311917897-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912980-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912980-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912981-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912981-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311912986-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311912986-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "58 м²",
+    "floorInfo": "2/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Пригородная улица"
+      },
+      {
+        "key": "house",
+        "value": "26А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.802119,
+      "lng": 28.403705
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=none/309332901/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 5400000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118808538"
+  ],
+  "author": {
+    "realtyId": 100311037,
+    "cianId": 100311037,
+    "id": "ID 100311037",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 100311037
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "93 103 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,200 @@
+{
+  "id": 303112265,
+  "cianId": 303112265,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Квартира в обычном жилом состояние , на кухне в одной спальне и зале на окнах установлены стекло пакеты ,  ЦГВ , квартира чистая ,уютная, отличное месторасположение дома , в шаговой доступности :школа , детский садик во дворе, семейный магнит и множество других магазинов , автобусная остановка , замечательный парк для прогулок. Два взрослых собственника , ни каких обременений нет. Рассмотрим любую форму оплаты, в том числе военная ипотека и материнский капитал.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188110838-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188110838-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134453-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134453-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134449-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134449-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134451-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134451-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134458-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134458-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134381-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134381-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134466-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134466-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134368-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134368-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134365-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134365-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134465-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134465-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134463-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134463-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134448-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134448-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134456-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134456-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134385-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-truda-2188134385-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "4-комн. квартира",
+    "totalArea": "61,2 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Труда"
+      },
+      {
+        "key": "house",
+        "value": "39"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.833963,
+      "lng": 28.345431
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=4/spec=agent/303112265/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_4",
+    "puid5": "obl_id_4605",
+    "puid8": 3900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113905539"
+  ],
+  "author": {
+    "realtyId": 4348067,
+    "cianId": 2787490,
+    "id": "ID 2787490",
+    "displayName": "Анжелика Лапшина",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 4348067
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "63 725 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

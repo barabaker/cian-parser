@@ -1,0 +1,234 @@
+{
+  "id": 310761820,
+  "cianId": 310761820,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаётся cветлaя, проcтоpнaя 4x кoмнaтнaя квapтиpa в Остров-3. Kвapтиpа  с коcметичeским peмoнтом, чистая. \nСанузел  раздельный , ванная комната большая, есть \nкладовка. Все счетчики установлены новые. Квартира с высокими потолками, очень уютная.\nОстаётся частично мебель по договорённости.\nПодъезд чистый, во дворе оборудована детская \nплощадка, в районе есть вся необходимая инфраструктура, школа, детский  сад, магазины. Есть парковые зоны для прогулок. Остановка городского  транспорта и для маршруток Остров-Псков. \nКвартплата 10000р.\nТорг уместен. \nВозьмем в зачет Ваше жилье, возможен срочный выкуп Вашей недвижимости\n\n\n\n \n\nКод пользователя: 85934\nНомер в базе: 3973659",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2360644333-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2360644333-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2339808787-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2339808787-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2339808797-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2339808797-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2339808807-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2339808807-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2339808814-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2339808814-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417534-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417534-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2339808821-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2339808821-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2339808830-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2339808830-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417541-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417541-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417543-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417543-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417554-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417554-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417560-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417560-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417568-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417568-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417572-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417572-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417579-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417579-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417583-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417583-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417585-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417585-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417592-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417592-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417606-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417606-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417613-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417613-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417622-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417622-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "4-комн. квартира",
+    "totalArea": "99,1 м²",
+    "floorInfo": "4/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица ДОС"
+      },
+      {
+        "key": "house",
+        "value": "8"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.357584,
+      "lng": 28.308286
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=4/spec=company/310761820/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_4",
+    "puid5": "obl_id_4605",
+    "puid8": 2900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79116908141"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "29 263 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

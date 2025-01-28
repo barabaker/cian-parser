@@ -1,0 +1,199 @@
+{
+  "id": 299259603,
+  "cianId": 299259603,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3150000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам светлую,уютную квартиру общ.площадью 43.2 кв м,комнаты 13/14.3 кв м смежные ,на две стороны,кухня 6.1 кв м,с/у раздельный.Сделан качественный ремонт,заменена проводка,трубы,установлены приборы учета на воду,новая сантехника,стеклопакеты,входная дверь,ламинат,в с/у плитка.Дом расположен в санаторной зоне.В шаговой доступности магазин Магнит,районная больница,школа.После ремонта никто не жил.Свободна.Один взрослый собственник.Просмотры в удобное для Вас .",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268567-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268567-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268564-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268564-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268560-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268560-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114266352-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114266352-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268561-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268561-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268578-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268578-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268556-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268556-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268565-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268565-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268554-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268554-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268555-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268555-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268559-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268559-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268575-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268575-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268551-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268551-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268566-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268566-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268572-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-chereha-2114268572-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "43,2 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Ядровская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Череха",
+        "locationTypeId": 161
+      }
+    ],
+    "coordinates": {
+      "lat": 57.749245,
+      "lng": 28.369982
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148249/object_type=1/ga_obj_type=2/spec=none/299259603/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3150000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148249
+  },
+  "phones": [
+    "+79813614233",
+    "+79116905153"
+  ],
+  "author": {
+    "realtyId": 26103038,
+    "cianId": 26103038,
+    "id": "ID 26103038",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:37+03:00",
+      "availableTo": "2025-01-29T19:00:37+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 19:00.",
+      "userId": 26103038
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "72 917 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

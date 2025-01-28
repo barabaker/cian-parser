@@ -1,0 +1,167 @@
+{
+  "id": 312937214,
+  "cianId": 312937214,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается уютная 2-комнатная квартира в Псковской области, в деревне Полоное, на улице Аудрини, 18. Общая площадь квартиры составляет 46 кв. м, жилая — 29 кв. м, кухня — 7 кв. м. Квартира расположена на втором этаже пятиэтажного панельного дома, построенного в 1991 году. \n\nВ квартире сделан косметический ремонт, поэтому она готова к заселению. Планировка включает в себя две светлые комнаты и отдельный санузел. Есть балкон, с которого открывается вид во двор, что создает дополнительное пространство для отдыха. Высота потолков — 2,52 метра, что добавляет ощущение простора. \n\nДом находится в хорошем состоянии, есть наземная парковка, поэтому вы всегда найдете место для своего автомобиля. Инфраструктура района включает в себя школы и магазины, которые находятся в шаговой доступности, поэтому все необходимое для комфортной жизни будет у вас под рукой.\n\nКвартира продается по договору купли-продажи. Возможна покупка в ипотеку, все документы готовы к сделке. Обременений на квартиру нет, поэтому оформление пройдет быстро и без лишних хлопот. \n\nПриглашаем вас на просмотр! Записывайтесь заранее, чтобы оценить все преимущества этого предложения. Будем рады ответить на ваши вопросы и показать квартиру в удобное для вас время.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385740318-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385740318-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385722860-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385722860-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385722868-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385722868-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385715135-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-polonoe-audrini-ulica-2385715135-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "46 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Порховский муниципальный округ",
+        "locationTypeId": 282
+      },
+      {
+        "key": "location",
+        "value": "д. Полоное",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Аудрини"
+      },
+      {
+        "key": "house",
+        "value": "18"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.784591,
+      "lng": 29.643713
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1224611/object_type=1/ga_obj_type=2/spec=company/312937214/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 1300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1219756
+  },
+  "phones": [
+    "+79813505132"
+  ],
+  "author": {
+    "realtyId": 96181113,
+    "cianId": 96181113,
+    "id": "ID 96181113",
+    "displayName": "СКОБАРЬ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53702259&t=2&p=1&timestamp=1737707105",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 96181113
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "28 261 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

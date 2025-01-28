@@ -1,0 +1,228 @@
+{
+  "id": 303637951,
+  "cianId": 303637951,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаётся 1 к.кв квартира ,ремонт косметический.  Один взрослый собственник.  Прямая продажа  ,подходит под все виды оплаты.   Мебель вся остаётся.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128912-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128912-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132582-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132582-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132577-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132577-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132584-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132584-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132593-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132593-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132575-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132575-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132597-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132597-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128893-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128893-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128904-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128904-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132585-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132585-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128901-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198128901-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198124035-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198124035-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132596-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132596-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198124034-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198124034-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198124030-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198124030-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132588-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132588-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132598-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132598-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132606-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132606-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132603-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198132603-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198102445-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-1-ya-poselochnaya-ulica-2198102445-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "37 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица 1-я Поселочная"
+      },
+      {
+        "key": "house",
+        "value": "15"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.796483,
+      "lng": 28.349663
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=agent/303637951/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113906135"
+  ],
+  "author": {
+    "realtyId": 12956349,
+    "cianId": 12956349,
+    "id": "ID 12956349",
+    "displayName": "Стелла Федорова",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=246566&t=2&p=1&timestamp=1490859870",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 12956349
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "67 568 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

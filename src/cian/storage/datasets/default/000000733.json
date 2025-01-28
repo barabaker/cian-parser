@@ -1,0 +1,173 @@
+{
+  "id": 301961651,
+  "cianId": 301961651,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatShareSale",
+  "price": {
+    "value": 2050000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Предлагается к продаже 1/2 ДОЛИ (30,1 кв.м.) в квартире общей площадью 60,3 кв.м.\nКвартира с ремонтом, выделена (по суду) комната площадью 15,8 кв.м., места общего пользования пополам. ПРЯМАЯ ПРОДАЖА. Взрослый собственник, в подселении семья.  Показ по предварительной договоренности в удобное для Вас время. Цена 2 050 000,00 руб. Только наличный расчёт. Торг предусмотрен.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395712-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395712-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395708-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395708-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395673-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395673-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395722-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395722-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395720-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395720-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395713-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395713-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395710-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/dolya-v-kvartire-pskov-inzhenernaya-ulica-2168395710-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "orange",
+      "name": "Перепланировка"
+    }
+  ],
+  "features": {
+    "objectType": "Доля",
+    "totalArea": "60,3 м²",
+    "floorInfo": "10/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Инженерная улица"
+      },
+      {
+        "key": "house",
+        "value": "118"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.843176,
+      "lng": 28.348342
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=0/spec=company/301961651/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 2050000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113906037"
+  ],
+  "author": {
+    "realtyId": 96181113,
+    "cianId": 96181113,
+    "id": "ID 96181113",
+    "displayName": "СКОБАРЬ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53702259&t=2&p=1&timestamp=1737707105",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 96181113
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "33 997 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

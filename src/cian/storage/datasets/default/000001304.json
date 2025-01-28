@@ -1,0 +1,222 @@
+{
+  "id": 311731344,
+  "cianId": 311731344,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Предлагается к продаже уютная 1-комнатная квартира площадью 36,6 кв.м в кирпичном доме на ул.Труда,53. Квартира расположена на 6 этаже 9-этажного дома.\n\nСостояние обычное, санузел совмещенный, просторная кухня 9,4 кв.м, комната 17,8 кв.м с выходом на лоджию.\n\nДом расположен в тихом, зеленом районе. Окна выходят во двор и парковку. Отличная транспортная доступность, развитая инфраструктура - рядом расположены магазины, гипермаркеты Лента и Магнит Семейный, школы, детские сады, культурно-досуговые учреждения.\n\nВ квартире никто не прописан, 1 взрослый собственник, без долгов и обременений. Подходит под военную ипотеку, любые виды сертификатов. Торг реальному покупателю обсуждается.\n\nДля получения более подробной информации или организации просмотра звоните или пишите в сообщения. \n\nКод пользователя: 141498\nНомер в базе: 3385886",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417639-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417639-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2360815100-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2360815100-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417642-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417642-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417651-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417651-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417657-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417657-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417667-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417667-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417676-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417676-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417683-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417683-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417702-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417702-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417719-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417719-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417728-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417728-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2360815108-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2360815108-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417736-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417736-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417743-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417743-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417748-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417748-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417752-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417752-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368417767-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368417767-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "36,6 м²",
+    "floorInfo": "6/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Труда"
+      },
+      {
+        "key": "house",
+        "value": "53"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.836977,
+      "lng": 28.349725
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=company/311731344/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505784"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "90 164 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

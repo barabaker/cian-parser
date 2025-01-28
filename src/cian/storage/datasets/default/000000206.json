@@ -1,0 +1,150 @@
+{
+  "id": 312139027,
+  "cianId": 312139027,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1260000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продаётся двухкомнатная квартира с частичными удобствами (нет душевой кабинки) в \"больничном городе\" в отличном состоянии. Выполнен ремонт (стеклопакеты, линолеум, ламинат на полу, потолочная плитка). Квартира тёплая. Один собственник более 5 лет. Рассмотрим любой вариант оплаты. Звоните и организуем просмотр.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2369736632-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2369736632-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2369736639-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2369736639-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2369736641-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2369736641-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2369736637-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2369736637-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2369736640-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2369736640-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2369736645-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2369736645-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "35 м²",
+    "floorInfo": "2/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Новосокольники",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Первомайская улица"
+      },
+      {
+        "key": "house",
+        "value": "32"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.344062,
+      "lng": 30.162786
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175536/object_type=1/ga_obj_type=2/spec=none/312139027/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 1260000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175536
+  },
+  "phones": [
+    "+79113514372"
+  ],
+  "author": {
+    "realtyId": 15767793,
+    "cianId": 15767793,
+    "id": "ID 15767793",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:07+03:00",
+      "availableTo": "2025-01-29T21:45:17+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:45.",
+      "userId": 15767793
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "36 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

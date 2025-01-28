@@ -1,0 +1,199 @@
+{
+  "id": 312421102,
+  "cianId": 312421102,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается уютная однокомнатная квартира площадью 36 квадратных метров в живописном районе города Пскова, расположенная по адресу: деревня Родина, улица Владимирская, дом 10. Это прекрасное предложение для тех, кто ценит комфорт и спокойствие за городской суетой.\n\nКвартира расположена на 6-м этаже девятиэтажного кирпичного дома, построенного в 2015 году. Здание отличается качественной современной архитектурой и надежностью конструкции. \n\nПросторная комната предлагает множество возможностей для реализации ваших дизайнерских идей. Кухня площадью 12 квадратных метров идеально подходит как для приготовления пищи, так и для семейных ужинов или приема гостей. Наличие застекленной лоджии добавляет дополнительное пространство для отдыха и возможность наслаждаться свежим воздухом без необходимости выходить из дома.\n\nВ квартире выполнен косметический ремонт, благодаря чему новым владельцам не придется вкладывать дополнительные средства сразу после покупки. Совмещенный санузел оборудован всем необходимым для комфортного использования.\nЭто отличное место для жизни как одинокого профессионала, так и молодой пары. Здесь вы найдете гармонию и уединение, а также сможете насладиться тишиной и покоем, которые редко встречаются в городских условиях.\nПри продаже остается: шкаф купе, встроенная кухня и диван на кухне.\nПриглашаю вас ознакомиться с этой замечательной квартирой лично. \nОдин взрослый собственник. Подходит под все виды расчета, рассмотрим вариант обмена на ваше жилье, помогаем с одобрением сложной ипотеки.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644956-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644956-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375655032-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375655032-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375653255-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375653255-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375660626-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375660626-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644951-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644951-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375655031-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375655031-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375655027-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375655027-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375490370-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375490370-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644936-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644936-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644952-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375644952-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375637828-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375637828-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375650317-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375650317-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375660656-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2375660656-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "36 м²",
+    "floorInfo": "6/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Родина",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Владимирская"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.824292,
+      "lng": 28.278094
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148096/object_type=1/ga_obj_type=1/spec=company/312421102/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 4000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148096
+  },
+  "phones": [
+    "+79113906139"
+  ],
+  "author": {
+    "realtyId": 13845996,
+    "cianId": 13845996,
+    "id": "ID 13845996",
+    "displayName": "Серебряный ключ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=26737959&t=2&p=1&timestamp=1661970294",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13845996
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "111 111 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

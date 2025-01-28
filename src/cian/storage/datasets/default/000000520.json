@@ -1,0 +1,264 @@
+{
+  "id": 303814588,
+  "cianId": 303814588,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3200000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продаётся стильная и уютная квартира-студия! \n\nХарактеристики:\n\n Новый дом 2020 года постройки.\n Общая площадь: 29,3 кв.м.\n Расположена на 6 этаже.\n Тёплая, с окнами, выходящими на зелёные просторы.\n Лоджия с панорамным остеклением.\n Полностью укомплектована мебелью и техникой.\n Стильный современный ремонт.\nОтличная локация:\n\n Тихий район, много зелени и простора.\n Свежий чистый воздух, нет шума с автомобильных дорог.\n Рядом магазины, остановка, школа и детские садики.\n Пункты выдачи заказов с маркетплейсов Валберис и Озон.\n Всё, что нужно для жизни: кафе, салоны красоты, медцентры, развлекательные, образовательные и культурные организации.\n Квартира свободна от проживания, документы готовы к сделке.\n\n Отличное предложение для тех, кто ценит комфорт и современный стиль!\n\nНе упустите возможность приобрести эту просторную квартиру-студию!  Звоните прямо сейчас, чтобы узнать больше и договориться о просмотре!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693326-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693326-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693317-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693317-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202657369-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202657369-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624148-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624148-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693331-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693331-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693330-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693330-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693318-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693318-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624225-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624225-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202692682-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202692682-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202692695-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202692695-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693329-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693329-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693325-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693325-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624297-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624297-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693323-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693323-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202692659-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202692659-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693321-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693321-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693308-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693308-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202657363-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202657363-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202680416-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202680416-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693306-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693306-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693324-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693324-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693327-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693327-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693315-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693315-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693313-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693313-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693312-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202693312-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624473-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2202624473-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "Студия",
+    "totalArea": "29,3 м²",
+    "floorInfo": "6/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Писковичская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Хотицы",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Загородная"
+      },
+      {
+        "key": "house",
+        "value": "8кБ"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.842812,
+      "lng": 28.295692
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148027/object_type=1/ga_obj_type=9/spec=none/303814588/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid5": "obl_id_4605",
+    "puid8": 3200000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148027
+  },
+  "phones": [
+    "+79116904177"
+  ],
+  "author": {
+    "realtyId": 76408174,
+    "cianId": 76408174,
+    "id": "ID 76408174",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 19:00.",
+      "userId": 76408174
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "109 215 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

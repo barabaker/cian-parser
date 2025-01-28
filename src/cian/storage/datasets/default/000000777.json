@@ -1,0 +1,209 @@
+{
+  "id": 311620492,
+  "cianId": 311620492,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3600000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продам 1 к квартиру нов/пл на Завеличье, в р- не Дивизии. Комната-17.8м, кухня-8.5м, застеклённая лоджия с выходом из кухни. Квартира светлая, солнечная, требует косметического ремонта. Тихий двор с благоустроенной детской площадкой! Подойдёт под любую форму расчета!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542421-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542421-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542409-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542409-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542424-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542424-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542425-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542425-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358541922-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358541922-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358541941-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358541941-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358541951-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358541951-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358541964-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358541964-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542423-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542423-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542414-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542414-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542412-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542412-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542410-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542410-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542422-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542422-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358541958-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358541958-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542416-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542416-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358542417-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358542417-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358537057-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358537057-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "37 м²",
+    "floorInfo": "5/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Майора Доставалова"
+      },
+      {
+        "key": "house",
+        "value": "12"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.807614,
+      "lng": 28.293787
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=agent/311620492/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3600000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813506737"
+  ],
+  "author": {
+    "realtyId": 119421219,
+    "cianId": 119421219,
+    "id": "ID 119421219",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 119421219
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "low",
+      "levelName": "Агент",
+      "levelOrder": 1,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "97 297 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

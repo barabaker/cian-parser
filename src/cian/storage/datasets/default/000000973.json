@@ -1,0 +1,209 @@
+{
+  "id": 297508016,
+  "cianId": 297508016,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продается 1 комнатная квартира в новом развивающемся районе. Удобная локация. В шаговой доступности автобусная остановка, Ледовый дворец, различные маленькие магазины и гипермаркеты. Дом кирпично- монолитный, 10 технический этаж. Квартира теплая и уютная с ремонтом из качественных дорогих материалов . Останется кухонный гарнитур и мебель по договоренности. 1 собственник. Документы готовы к продаже, звоните.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774887-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774887-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861019-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861019-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377851602-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377851602-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377851605-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377851605-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774899-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774899-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774896-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774896-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861018-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861018-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861010-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861010-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861017-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861017-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774657-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774657-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774892-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2183774892-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377851604-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377851604-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861020-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861020-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861016-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377861016-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377858858-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-baltiyskaya-ulica-2377858858-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "39,7 м²",
+    "floorInfo": "9/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Балтийская"
+      },
+      {
+        "key": "house",
+        "value": "16А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.812577,
+      "lng": 28.26594
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=1/spec=agent/297508016/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 4500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79116904804"
+  ],
+  "author": {
+    "realtyId": 15229834,
+    "cianId": 15229834,
+    "id": "ID 15229834",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 15229834
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "113 350 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

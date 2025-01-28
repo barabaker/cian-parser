@@ -1,0 +1,161 @@
+{
+  "id": 309012309,
+  "cianId": 309012309,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 530000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается уютная 2-комнатная квартира общей площадью 42.3 кв. м в рабочем поселке Палкино. Квартира расположена на 1 этаже одноэтажного дома, что особенно удобно для семей с маленькими детьми или пожилых людей. Жилая площадь составляет 29 кв. м, кухня  7 кв. м. Высота потолков  2.5 метра, что создает ощущение простора.\n\nВ квартире сделан косметический ремонт, что позволяет немедленно въехать и жить. Планировка включает две комнаты, что удобно для семейной жизни или работы из дома. Окна выходят как на улицу, так и во двор, поэтому вы можете наслаждаться как городскими видами, так и тишиной двора.\n\nДом находится в спокойном районе, в шаговой доступности от школ, детских садов, клиник и магазинов. Это делает его идеальным местом для семей с детьми. Хорошая транспортная доступность позволяет быстро добраться до центра города и других районов.\n\nКвартира продается по договору купли-продажи. Возможна ипотека, что облегчает процесс приобретения для тех, кто рассматривает покупку в кредит. Все документы готовы к сделке, квартира без обременений и юридических сложностей.\n\nЗаписывайтесь на просмотр, чтобы увидеть все преимущества этой квартиры своими глазами. Мы будем рады ответить на все ваши вопросы и помочь с оформлением сделки.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305453391-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305453391-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305444692-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305444692-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305351428-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305351428-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305509970-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305509970-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305507577-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305507577-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305444714-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305444714-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305444706-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305444706-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305351481-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-komarova-ulica-2305351481-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "42,3 м²",
+    "floorInfo": "1/1 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Палкино рп",
+        "locationTypeId": 185
+      },
+      {
+        "key": "street",
+        "value": "улица Комарова"
+      },
+      {
+        "key": "house",
+        "value": "19"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.541782,
+      "lng": 28.002742
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=473717/object_type=1/ga_obj_type=2/spec=none/309012309/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 530000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 473717
+  },
+  "phones": [
+    "+79813504543"
+  ],
+  "author": {
+    "realtyId": 91269315,
+    "cianId": 91269315,
+    "id": "ID 91269315",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 91269315
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "12 530 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

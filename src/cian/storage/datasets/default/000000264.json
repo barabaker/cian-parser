@@ -1,0 +1,192 @@
+{
+  "id": 305499886,
+  "cianId": 305499886,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1430000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаётся 1 комнатная светлая квартира - студия!\nСрочная продажа! Скидка за быстрый выход на сделку.\n\n                        О квартире:\n*площадь 27м2\n*санузел - совмещённый \n*хорошая планировка с выделенной кухонной зоной \n* квартира расположена на 4ом этаже\n* в квартире никто не жил, все новое\n \n                           О  Доме:\n* сдан в 2022 году \n* тихие соседи\n*этажность самая комфортная\n\n                          О локации:\nРасположена в центре города. Удобная локация. Школа, сад, магазины, Сбербанк, поликлиника все в шаговой доступности.  \n\nРассмотрим любую систему оплаты.\nЗвоните, пишите, записывайтесь на просмотр!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718023-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718023-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235001042-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235001042-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235001046-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235001046-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718025-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718025-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235014927-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235014927-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235021229-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235021229-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235001048-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235001048-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718043-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718043-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718072-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718072-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235180204-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2235180204-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234995921-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234995921-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718093-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-bolnichnaya-ulica-2234718093-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "Студия",
+    "totalArea": "27 м²",
+    "floorInfo": "4/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Больничная улица"
+      },
+      {
+        "key": "house",
+        "value": "25"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.351049,
+      "lng": 28.36621
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=9/spec=agent/305499886/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid5": "obl_id_4605",
+    "puid8": 1430000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79813504265",
+    "+79813506009"
+  ],
+  "author": {
+    "realtyId": 112349953,
+    "cianId": 112349953,
+    "id": "ID 112349953",
+    "displayName": "Надежда Эшчанова",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 112349953
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "low",
+      "levelName": "Агент",
+      "levelOrder": 1,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "52 963 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

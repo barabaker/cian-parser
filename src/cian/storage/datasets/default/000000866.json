@@ -1,0 +1,187 @@
+{
+  "id": 298262077,
+  "cianId": 298262077,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается однокомнатная квартира в центре Завеличья Юбилейная 77\n3/5 этаж \nс/у совмещенный\nсостояние нормальное\nРядом вся необходимая инфраструктура",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795708-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795708-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2095844649-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2095844649-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795661-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795661-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795671-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795671-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795635-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795635-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795709-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795709-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795619-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795619-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795712-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795712-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795678-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795678-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795658-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2095795658-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "30 м²",
+    "floorInfo": "3/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Юбилейная улица"
+      },
+      {
+        "key": "house",
+        "value": "77"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.81693,
+      "lng": 28.293724
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=company/298262077/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113906139"
+  ],
+  "author": {
+    "realtyId": 13845996,
+    "cianId": 13845996,
+    "id": "ID 13845996",
+    "displayName": "Серебряный ключ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=26737959&t=2&p=1&timestamp=1661970294",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13845996
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "96 667 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

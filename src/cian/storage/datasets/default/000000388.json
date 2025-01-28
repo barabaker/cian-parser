@@ -1,0 +1,216 @@
+{
+  "id": 306226215,
+  "cianId": 306226215,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1350000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается 2-х комнатная квартира на 5 этаже,в п.Новый Изборск,ул.Садовая 15. Квартира не угловая, окна выходят на две стороны. Отопление и горячая вода  от газовой котельни.Вода горячая  постоянно.Детский садик и школа в шаговой доступности.  Медпункт, аптека всё работает. Остановка в 10 минутах от дома.Напрямую от собственника , документы  в порядке.Агенства не беспокоить.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247850958-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247850958-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002542-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002542-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247850950-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247850950-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247850986-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247850986-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002478-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002478-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002510-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002510-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002481-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002481-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851004-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851004-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851012-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851012-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002504-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002504-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002487-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002487-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002493-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002493-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851072-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851072-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851065-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851065-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002525-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002525-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851105-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851105-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002500-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2248002500-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851108-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novyy-izborsk-sadovaya-ulica-2247851108-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForCheckedOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForCheckedOwner",
+      "name": "Собственник"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "51,8 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Печорский муниципальный округ",
+        "locationTypeId": 282
+      },
+      {
+        "key": "location",
+        "value": "д. Новый Изборск",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Садовая"
+      },
+      {
+        "key": "house",
+        "value": "15"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.770909,
+      "lng": 27.966324
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1139019/object_type=1/ga_obj_type=2/spec=none/306226215/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 1350000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1138570
+  },
+  "phones": [
+    "+79113903644",
+    "+79113514233"
+  ],
+  "author": {
+    "realtyId": 120716501,
+    "cianId": 120716501,
+    "id": "ID 120716501",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 120716501
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "26 062 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

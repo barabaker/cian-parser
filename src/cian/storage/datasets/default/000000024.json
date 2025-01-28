@@ -1,0 +1,193 @@
+{
+  "id": 310091890,
+  "cianId": 310091890,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам двухкомнатную квартиру в бывшем общажитии, площадью 39 кв.м.   по адресу Лермонтова 12, кв 11! \nКвартира тёплая, находится на первом этаже в закрытом коридоре. Сделан косметический ремонт, большая часть мебели останется новым хозяевам, включая стиральную машину. Санузел совместный, со всей необходимой сантехникой, новый бойлер! \n\nЦена договорная! Можно звонить в любое время!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816848-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816848-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326890410-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326890410-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816863-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816863-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816968-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816968-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326890411-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326890411-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816980-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326816980-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326875970-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326875970-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326817073-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326817073-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326890413-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326890413-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326889963-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326889963-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326884944-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326884944-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326884946-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326884946-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326817324-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pushkinskie-gory-lermontova-ulica-2326817324-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "39 м²",
+    "floorInfo": "1/3 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Пушкинские Горы рп",
+        "locationTypeId": 185
+      },
+      {
+        "key": "street",
+        "value": "улица Лермонтова"
+      },
+      {
+        "key": "house",
+        "value": "12"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.024332,
+      "lng": 28.935463
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=423343/object_type=1/ga_obj_type=2/spec=none/310091890/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 1700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 423343
+  },
+  "phones": [
+    "+79113906305"
+  ],
+  "author": {
+    "realtyId": 102273364,
+    "cianId": 102273364,
+    "id": "ID 102273364",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 102273364
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "43 590 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

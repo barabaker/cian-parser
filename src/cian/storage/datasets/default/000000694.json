@@ -1,0 +1,203 @@
+{
+  "id": 312720214,
+  "cianId": 312720214,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продается двухкомнатная квартира на 4 этаже 9ти этажного кирпичного дома 2017 года постройки в ЖК Околица.\n\nПрекрасно подойдёт для комфортного проживания семьи до 4х человек.\n\nХороший вариант планировки, так как окна выходят на 2 стороны (кухня и гостинная во двор, а спальня на частный сектор).\nОбщая площадь 55кв.м включает в себя: просторную кухню 13м с выходом на балкон, гостинную 16,5м, раздельный санузел и спальню 12м.\n\nОтличное место для тех, кто любит природу и удалённость от суеты, при этом на машине 7 минут до центра города.\nМикрорайон активно развивается. Прямо во дворе расположен детский сад, продуктовые магазины, пункт выдачи и остановка в 2х минутах ходьбы, для детей постарше ходит школьный автобус.\n\nОдин взрослый собственник, подходит под любой вид расчёта. Покупателю при покупке данного объекта платить комиссию не нужно!\n\nНомер объекта: #1/539413/5922",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260389-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260389-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260403-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260403-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260413-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260413-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260430-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260430-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260440-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260440-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260452-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260452-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260457-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260457-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260459-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260459-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260481-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260481-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260492-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260492-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381260497-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381260497-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "55 м²",
+    "floorInfo": "4/9 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 3",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Писковичская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Портянниково",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Окольная"
+      },
+      {
+        "key": "house",
+        "value": "3"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-okolica-pskov-i.cian.ru/",
+      "name": "ЖК «Околица»"
+    },
+    "coordinates": {
+      "lat": 57.845106,
+      "lng": 28.318248
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148049/object_type=1/ga_obj_type=2/spec=company/312720214/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148049
+  },
+  "phones": [
+    "+79113514323"
+  ],
+  "author": {
+    "realtyId": 13670627,
+    "cianId": 13670627,
+    "id": "ID 13670627",
+    "displayName": "PRO ESTATE",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=348960&t=2&p=1&timestamp=1588785710",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 19:00.",
+      "userId": 13670627
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "85 455 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "newbuildingId": 42226,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

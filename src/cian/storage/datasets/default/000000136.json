@@ -1,0 +1,304 @@
+{
+  "id": 312193606,
+  "cianId": 312193606,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "однокомнатная квартира \nПсковская область, Рп. Дедовичи, Октябрьская улица, 39а.\nЖилой дом располагается в развитом поселке, где находится Псковская ГРЭС. Рядом (в 5-15 минутах) находится вся инфраструктура: районная больница, школа, детские сады и магазины (магнит, красное и белое, хозбыт). Напротив дома находится остановка. \nОбщая площадь составляет .\nВ квартире есть застекленный балкон. \nСанузел совмещен (туалет, раковина и ванна).\nКвартира светлая, теплая, не угловая.\nВся мебель на фотографиях остается в квартире (кухонный гарнитур, стенка, телевизор, раскладной диван, холодильник, шкаф в прихожей).\nТребуется небольшой косметический ремонт в ванной.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810803-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810803-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817880-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817880-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370818164-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370818164-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810228-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810228-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810361-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810361-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810230-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810230-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810392-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810392-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810171-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810171-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810154-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810154-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810187-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810187-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817940-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817940-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817887-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817887-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810299-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810299-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817936-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817936-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810306-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810306-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810341-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810341-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810344-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810344-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817902-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817902-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817922-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817922-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810432-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810432-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370818157-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370818157-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810426-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810426-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810513-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810513-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810516-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810516-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817897-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817897-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810589-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810589-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810616-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810616-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817944-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817944-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817947-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817947-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810693-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810693-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817869-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817869-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817916-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370817916-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810789-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810789-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810783-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810783-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370818161-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370818161-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810851-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dedovichi-oktyabrskaya-ulica-2370810851-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "36,6 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Дедовичи рп",
+        "locationTypeId": 185
+      },
+      {
+        "key": "street",
+        "value": "улица Октябрьская"
+      },
+      {
+        "key": "house",
+        "value": "39А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.527829,
+      "lng": 29.983644
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=472042/object_type=1/ga_obj_type=1/spec=none/312193606/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 1500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 472042
+  },
+  "phones": [
+    "+79118907144",
+    "+79118907166"
+  ],
+  "author": {
+    "realtyId": 27195184,
+    "cianId": 27195184,
+    "id": "ID 27195184",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 27195184
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "40 984 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": true
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

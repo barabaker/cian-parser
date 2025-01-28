@@ -1,0 +1,190 @@
+{
+  "id": 288573666,
+  "cianId": 288573666,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3400000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Квартира в отличном состоянии, только после качественного современного ремонта. Санузел кафель; натяжные потолки, стеклопакеты, межкомнатные двери, светильники, хорошая входная мет. дверь (всё на фото). Полностью новая ЭЛЕКТРОПРОВОДКА с новыми современными автоматами. Общая площадь 68 кв.м, гостиная 17,5 кв.м с отдельной удобной гардеробной, две спальни 11 и 12,5 кв.м, кухня почти 9 кв.м. Застекленная двойная 6-ти метровая лоджия с выходом из кухни застеклена стеклопакетами. Ванная комната и туалет раздельные тоже качественно отделаны кафельной плиткой. Вся САНТЕХНИКА НОВАЯ.\nКвартира в собственности у двух взрослых людей.\nВозможна продажа с мебелью за дополнительную плату.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766816533-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766816533-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766815959-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766815959-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766312003-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766312003-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1765490062-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1765490062-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766261062-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766261062-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766246743-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766246743-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766273292-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766273292-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766815957-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766815957-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766510323-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766510323-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766815958-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766815958-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766225478-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766225478-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766261060-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766261060-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766266939-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766266939-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766225467-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-ostrovskaya-ulica-1766225467-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "68 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Палкино рп",
+        "locationTypeId": 185
+      },
+      {
+        "key": "street",
+        "value": "улица Островская"
+      },
+      {
+        "key": "house",
+        "value": "8"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.538835,
+      "lng": 28.010126
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=473717/object_type=1/ga_obj_type=3/spec=none/288573666/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3400000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 473717
+  },
+  "phones": [
+    "+79813506039"
+  ],
+  "author": {
+    "realtyId": 15052459,
+    "cianId": 15052459,
+    "id": "ID 15052459",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 15052459
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "50 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

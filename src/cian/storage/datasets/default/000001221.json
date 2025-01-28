@@ -1,0 +1,240 @@
+{
+  "id": 303062948,
+  "cianId": 303062948,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4600000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продаётся двухкомнатная квартира, с новым ЕВРО ремонтом,с мебелью и техникой. Всё новое: пол, проводка, сантехника, потолки... \nКвартира располагается в отличном районе, рядом ТЦ Империал, ТЦ Акваполис. В шаговой доступности Детская областная клиническая больница, Роддом, Городская больница! Детский садик и школа в пяти минутах ходьбы!Возле дома закрытая парковка, видеонаблюдение, шлагбаум, в подъезде чистота и порядок, сделан свежий капремонт. \nЯ один собственник, по всем вопросам звоните!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265570348-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265570348-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265651556-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265651556-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265570160-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265570160-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265570362-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265570362-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265655320-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265655320-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343631958-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343631958-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343612346-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343612346-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343476136-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343476136-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895167-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895167-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265631326-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265631326-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265631420-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2265631420-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203871808-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203871808-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895175-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895175-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343473479-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343473479-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895198-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895198-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895194-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895194-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187319599-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187319599-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343646428-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2343646428-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895147-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2203895147-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187319594-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187319594-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187304590-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187304590-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187306885-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187306885-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187319548-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-yubileynaya-ulica-2187319548-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForCheckedOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForCheckedOwner",
+      "name": "Собственник"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "42,2 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Юбилейная улица"
+      },
+      {
+        "key": "house",
+        "value": "83А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.818588,
+      "lng": 28.295827
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=none/303062948/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4600000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113503312"
+  ],
+  "author": {
+    "realtyId": 78909260,
+    "cianId": 78909260,
+    "id": "ID 78909260",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 78909260
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "109 005 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

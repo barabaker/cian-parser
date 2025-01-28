@@ -1,0 +1,201 @@
+{
+  "id": 301356010,
+  "cianId": 301356010,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продаётся трёх комнатная квартира в кирпичном доме, в центре города, на первой береговой линии реки Шелонь. В квартире индивидуальное газовое отопление, центральный водопровод и энергоснабжение. Развитая инфраструктура: спортивная площадка,3 школа, садик, сетевые магазины. Документы готовы, подходит под любой вид расчёта.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2157902207-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157902207-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157941428-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157941428-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157941436-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157941436-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157941430-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157941430-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157941434-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157941434-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157902213-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157902213-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157922108-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157922108-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157922030-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157922030-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157922075-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157922075-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157941432-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157941432-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157922005-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157922005-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157922134-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157922134-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157922056-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157922056-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157941435-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157941435-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157941431-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157941431-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "53 м²",
+    "floorInfo": "2/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Порхов муниципальное образование",
+        "locationTypeId": 279
+      },
+      {
+        "key": "location",
+        "value": "Порхов г.",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Плеханова"
+      },
+      {
+        "key": "house",
+        "value": "11"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.768312,
+      "lng": 29.5591
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1153805/object_type=1/ga_obj_type=3/spec=none/301356010/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 1700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148121
+  },
+  "phones": [
+    "+79113503085"
+  ],
+  "author": {
+    "realtyId": 38391546,
+    "cianId": 38391546,
+    "id": "ID 38391546",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 38391546
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "32 075 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

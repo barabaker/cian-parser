@@ -1,0 +1,360 @@
+{
+  "id": 310416999,
+  "cianId": 310416999,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 7800000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Предлагается к покупке просторная трехкомнатная квартира евро планировки с автономным отоплением, что дает возможность поддерживать комфортную температуру в квартире, не завися от отопительного сезона. Кухня-гостиная  25 м2 и три спальни по 10 метров . Ремонт в квартире выполнен с использованием качественных строительных материалов, останется встроенная мебель в кухне ( забирают только холодильник , посудомоечную машину и микроволновую печь). Из остальной мебели останется всё, кроме дивана  и телевизора в гостиной и спальне. Встроенная мебель в кабинете ( шкаф-купе) , а также детская мебель в комнате и полностью оборудованная спальня. Качественная входная дверь, хорошие соседи и чистый подъезд. Магазин Пятерочка прямо у дома, остановка в пешей доступности, активно застраивающийся район города.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126391-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126391-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333076806-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333076806-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126441-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126441-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126430-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126430-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127145-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127145-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127356-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127356-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127405-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127405-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127419-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127419-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127192-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127192-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126408-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126408-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077064-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077064-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077063-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077063-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077071-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077071-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126440-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126440-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077092-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077092-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077097-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077097-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126548-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126548-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126530-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126530-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126443-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126443-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126546-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126546-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077176-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077176-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127088-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127088-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127308-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127308-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126442-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126442-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126547-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333126547-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127344-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127344-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077247-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077247-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333138900-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333138900-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127253-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127253-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333176041-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333176041-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127325-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127325-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127387-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127387-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127120-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127120-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077308-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077308-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077322-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077322-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077332-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077332-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077344-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077344-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127287-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127287-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127058-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127058-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077398-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077398-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077451-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077451-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077435-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077435-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077459-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077459-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077523-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333077523-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333138894-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333138894-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127222-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-borisovichi-venskaya-ulica-2333127222-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "4-комн. квартира",
+    "totalArea": "78 м²",
+    "floorInfo": "5/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Венская"
+      },
+      {
+        "key": "house",
+        "value": "6"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.808947,
+      "lng": 28.250084
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=4/spec=agent/310416999/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_4",
+    "puid5": "obl_id_4605",
+    "puid8": 7800000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113503478"
+  ],
+  "author": {
+    "realtyId": 44019804,
+    "cianId": 44019804,
+    "id": "ID 44019804",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 44019804
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "100 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

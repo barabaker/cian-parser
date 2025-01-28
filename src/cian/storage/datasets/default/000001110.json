@@ -1,0 +1,154 @@
+{
+  "id": 285686306,
+  "cianId": 285686306,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продаётся 2 кв. правый боковой вариант. Нормальное состояние, хорошее место расположение:рядом парк, дет.садик,школа,рынок Нива, ТЦ. ОТ СОБСТВЕННИКА.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/37/056/561/kvartira-pskov-ulica-kuzbasskoy-divizii-1656507381-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/37/056/561/kvartira-pskov-ulica-kuzbasskoy-divizii-1656507381-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/056/561/kvartira-pskov-ulica-kuzbasskoy-divizii-1656507451-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/056/561/kvartira-pskov-ulica-kuzbasskoy-divizii-1656507451-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/056/561/kvartira-pskov-ulica-kuzbasskoy-divizii-1656507432-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/056/561/kvartira-pskov-ulica-kuzbasskoy-divizii-1656507432-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/35/787/361/kvartira-pskov-ulica-kuzbasskoy-divizii-1637875321-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/35/787/361/kvartira-pskov-ulica-kuzbasskoy-divizii-1637875321-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/20/575/361/kvartira-pskov-ulica-kuzbasskoy-divizii-1635750281-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/20/575/361/kvartira-pskov-ulica-kuzbasskoy-divizii-1635750281-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/19/787/361/kvartira-pskov-ulica-kuzbasskoy-divizii-1637879173-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/19/787/361/kvartira-pskov-ulica-kuzbasskoy-divizii-1637879173-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "54 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Кузбасской Дивизии"
+      },
+      {
+        "key": "house",
+        "value": "48"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.821162,
+      "lng": 28.27892
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=none/285686306/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505609"
+  ],
+  "author": {
+    "realtyId": 101561169,
+    "cianId": 101561169,
+    "id": "ID 101561169",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 101561169
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "75 926 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

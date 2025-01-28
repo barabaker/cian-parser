@@ -1,0 +1,184 @@
+{
+  "id": 312271845,
+  "cianId": 312271845,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "В продаже 2-х комнатная квартира по адресу Псков, ул. Киселева, д. 19, площадью 45,4 кв.м (комнаты 12,4 и 17,3 кв.м.).\nДом находится в районе Ближнее Завеличье, все необходимое для комфотрного проживания в пешей доступности: магазины, ТЦ, дет. сад, школы.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383707-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383707-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372442509-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372442509-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383731-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383731-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383691-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383691-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383693-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383693-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383724-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383724-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383709-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383709-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383718-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383718-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383738-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383738-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2372383696-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2372383696-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "45 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Киселева"
+      },
+      {
+        "key": "house",
+        "value": "19"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.816201,
+      "lng": 28.310954
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=company/312271845/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813506420"
+  ],
+  "author": {
+    "realtyId": 34406140,
+    "cianId": 34406140,
+    "id": "ID 34406140",
+    "displayName": "AVI.GROUP",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=25331070&t=2&p=1&timestamp=1628594396",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 19:00.",
+      "userId": 34406140
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "77 778 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

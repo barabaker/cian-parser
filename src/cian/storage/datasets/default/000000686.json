@@ -1,0 +1,188 @@
+{
+  "id": 312601839,
+  "cianId": 312601839,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3600000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Уютная двухкомнатная квартира, расположенная в тихом районе на Советской улице, дом 77а. Общая площадь квартиры составляет 44,1 кв.м, кухня  6 кв.м. Квартира находится на последнем, пятом этаже кирпичного дома, что обеспечивает тишину и отсутствие соседей сверху.\nВ квартире выполнен косметический ремонт. Планировка включает две изолированные комнаты и совмещенный санузел. Есть застекленный  балкон, где можно обустроить уютное место для отдыха. В квартире всё остаётся и мебель, и техника\nДом находится в хорошем состоянии, поддерживается чистота и порядок. Парковка наземная, поэтому всегда найдете место для вашего автомобиля.\nИнфраструктура района развита: рядом расположены школы, детские сады и клиники, что удобно для семей с детьми. В шаговой доступности магазины, где можно купить все необходимое. Хорошее транспортное сообщение позволяет быстро добраться до центра города.\nКвартира готова к продаже. Все документы в порядке, обременений нет, поэтому сделка пройдет быстро и без проблем. Возможна покупка в ипотеку, что делает приобретение более доступным.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053386-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053386-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053375-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053375-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053380-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053380-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379042878-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379042878-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053383-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053383-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053376-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053376-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053374-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053374-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053379-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053379-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053205-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053205-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053381-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053381-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053377-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053377-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053382-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-sovetskaya-ulica-2379053382-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "44,1 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Советская улица"
+      },
+      {
+        "key": "house",
+        "value": "77А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.804334,
+      "lng": 28.34182
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/312601839/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3600000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118808682"
+  ],
+  "author": {
+    "realtyId": 14566401,
+    "cianId": 14566401,
+    "id": "ID 14566401",
+    "displayName": "Олеся Купцова",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 14566401
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "81 633 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

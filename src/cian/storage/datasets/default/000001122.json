@@ -1,0 +1,249 @@
+{
+  "id": 309314858,
+  "cianId": 309314858,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4850000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "В жилом комплексе много магазинов и кафе, рядом школа и детский сад.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568661-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568661-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568678-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568678-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568675-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568675-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568680-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568680-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568668-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568668-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311563711-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311563711-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568673-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568673-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568662-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568662-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568667-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568667-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568669-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568669-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568670-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568670-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568674-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568674-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568672-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568672-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568677-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568677-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568664-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568664-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568665-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568665-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568666-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568666-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568671-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568671-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568684-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568684-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568663-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568663-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568682-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568682-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568679-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568679-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2311568676-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2311568676-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "49 м²",
+    "floorInfo": "8/18 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Михайловская"
+      },
+      {
+        "key": "house",
+        "value": "1"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.820122,
+      "lng": 28.2738
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=1/spec=none/309314858/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 4850000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79118906089"
+  ],
+  "author": {
+    "realtyId": 123940205,
+    "cianId": 123940205,
+    "id": "ID 123940205",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 123940205
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "98 980 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,203 @@
+{
+  "id": 312238545,
+  "cianId": 312238545,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3850000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продам 2 к.кв.новой планировки прямой вариант в обычном состоянии. Окна-стеклопакеты. Прямая продажа.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598009-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598009-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371691375-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371691375-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371779966-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371779966-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371775983-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371775983-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598005-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598005-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598000-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598000-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598004-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598004-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598001-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598001-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598002-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598002-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598008-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598008-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598006-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598006-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371776008-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371776008-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371598011-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371598011-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371776446-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371776446-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2371597999-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2371597999-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "50 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Коммунальная улица"
+      },
+      {
+        "key": "house",
+        "value": "46"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.818545,
+      "lng": 28.288945
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/312238545/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3850000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118907280"
+  ],
+  "author": {
+    "realtyId": 126587274,
+    "cianId": 126587274,
+    "id": "ID 126587274",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 126587274
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "77 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": true
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

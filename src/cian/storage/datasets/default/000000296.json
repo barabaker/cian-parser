@@ -1,0 +1,211 @@
+{
+  "id": 301923759,
+  "cianId": 301923759,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2200000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Светлая уютная квартира с мебелью. Рядом находится Дом Паломника. \n\nВ квартире сделан капитальный  ремонт ,\n\nКвартира продается вместе с мебелью! \nПолностью готова к проживанию .\n\nПросмотр по договоренности.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756174-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756174-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756150-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756150-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756188-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756188-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756158-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756158-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756179-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756179-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756175-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756175-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756152-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756152-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756186-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756186-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756166-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756166-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756173-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756173-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756154-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756154-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756139-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756139-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756157-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756157-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756149-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756149-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756170-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756170-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756146-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756146-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756148-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756148-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756180-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-yurevskaya-ulica-2167756180-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "orangeSubsidisedMortgage",
+      "name": "Скидка на ипотеку 4%"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "30,3 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Печоры",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Юрьевская улица"
+      },
+      {
+        "key": "house",
+        "value": "79"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.824115,
+      "lng": 27.600369
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175670/object_type=1/ga_obj_type=1/spec=none/301923759/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2200000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175670
+  },
+  "phones": [
+    "+79113605109"
+  ],
+  "author": {
+    "realtyId": 90357652,
+    "cianId": 90357652,
+    "id": "ID 90357652",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T10:00:00+03:00",
+      "availableTo": "2025-01-29T20:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 10:00 по 20:00.",
+      "userId": 90357652
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "72 607 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

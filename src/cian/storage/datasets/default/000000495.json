@@ -1,0 +1,239 @@
+{
+  "id": 309330966,
+  "cianId": 309330966,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 5100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Пpoдаётcя тpёxкoмнатная квартиpа плoщадью 61.6 квaдpатныx метров нa улицe Гaгapинa, дом 5а в горoдe Пcкoве. Раcполoженнaя нa девятом этаже дeвятиэтaжного панельнoгo дoмa, пoстрoеннoго в 1984 гoду, эта квapтирa пpедлагаeт комфортноe проcтpанcтво для жизни. C жилoй площaдью 37.2 квадратных метров и кухней 7.4 квадратных метров. Потолок высотой 2.5 м.При входе имеется тамбур на две квартиры.Санузел раздельный.Балкон застеклен, есть небольшой шкаф.В квартире рядом с кухней есть дополнительная небольшая комната (можно использовать под гардеробную или хоз.комнату).Из окон открывается вид на тихий двор, где можно наслаждаться спокойствием после напряжённого дня.Расположение дома также является большим плюсом  рядом находятся школа, детский сад, торговый центр и фитнес-клуб, что делает эту квартиру ещё более привлекательной для семей с детьми или тех, кто предпочитает активный образ жизни.Этот вариант жилья отлично подходит для тех, кто ищет комфортное место для жизни с развитой инфраструктурой и приятной атмосферой.Приглашаем вас оценить все преимущества этой квартиры лично!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656444-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656444-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2315471454-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2315471454-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656460-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656460-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2315471493-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2315471493-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656485-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656485-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656495-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656495-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2315471568-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2315471568-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656523-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656523-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656541-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656541-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656550-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656550-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656561-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656561-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656566-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656566-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656580-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656580-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656590-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656590-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656604-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656604-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656615-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656615-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656642-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656642-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656647-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656647-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656658-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656658-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656668-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656668-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2358656680-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2358656680-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "61,8 м²",
+    "floorInfo": "9/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Гагарина"
+      },
+      {
+        "key": "house",
+        "value": "5А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.809475,
+      "lng": 28.356544
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=company/309330966/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": true,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 5100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505825",
+    "+79813505416"
+  ],
+  "author": {
+    "realtyId": 13028990,
+    "cianId": 13028990,
+    "id": "ID 13028990",
+    "displayName": "Русская недвижимость - Псковский офис",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=250286&t=2&p=1&timestamp=1588787096",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13028990
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "82 524 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

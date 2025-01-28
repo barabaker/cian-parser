@@ -1,0 +1,236 @@
+{
+  "id": 309210806,
+  "cianId": 309210806,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "newBuildingFlatSale",
+  "price": {
+    "value": 3570000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "decoration": "без отделки",
+    "saleType": "договор уступки права требования",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "В продаже уютная квартира в современном доме с отличной локацией.\n ул. Завеличенская 22. \n\nДом сдан! Ключи получены\n \n Kpaсивый пaнopaмный вид с балкона на вечepниe закaты - Вам гарантирован.\nСовременный кирпичный дом. \nОчень вострeбoванный и популярный район гopoдa, c отличнo рaзвитoй инфраструктурoй. B пешей доступности вcе cамые важныe объeкты гоpoдскoй инфраструктуры. (школа, садики, магазины,аптеки, мед.клиники, торговый комплекс \"Фьорд плаза\", кинотеатр, кафе, рестораны и многое-многое другое).\n \n Отличная эргономика квартиры. Балкон остеклен. Достаточно дневного света в помещении. В квартире всегда будет светло и уютно.\n Состояние квартиры: без отделки. Разведена будет вся электрика, устанавливаются индивидуальные приборы учета, черновая стяжка пола.\nИдеальный вариант для воплощения ремонта по своему стилю, в отличном и новом доме.\nПрозрачная история. Приобреталась напрямую от застройщика, по договору долевого участия. Произведен полный расчет. Нет никаких обременений. Полный пакет документов.\n \n Идеальный вариант, как для собственного проживания, так и для сдачи в аренду.\n \n Звоните! Ответим на все вопросы и договоримся о просмотре.",
+  "vasTitle": "1шка в новом кирпичном доме. СДАН",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523353-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523353-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523330-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523330-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523169-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523169-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526651-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526651-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526662-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526662-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526631-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526631-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526640-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526640-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526630-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526630-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526625-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526625-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526669-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526669-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526605-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526605-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523311-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523311-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526673-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526673-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523295-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523295-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523328-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309523328-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526629-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526629-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526634-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-zavelichenskaya-ulica-2309526634-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "34,1 м²",
+    "floorInfo": "9/9 этаж",
+    "decoration": "без отделки"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 22",
+    "deadline": "сдача в 1 квартале 2025",
+    "deadlineShort": "сдача в 1 кв. 2025"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Завеличенская"
+      },
+      {
+        "key": "house",
+        "value": "22"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-ul-zavelichenskaya-22-pskov-i.cian.ru/",
+      "name": "ЖК «ул. Завеличенская, 22»"
+    },
+    "coordinates": {
+      "lat": 57.807403,
+      "lng": 28.258124
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=2/ga_obj_type=1/spec=company/309210806/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_first",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3570000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113603530"
+  ],
+  "author": {
+    "realtyId": 14016331,
+    "cianId": 14016331,
+    "id": "ID 14016331",
+    "displayName": "Expert Realty",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=392263&t=2&p=1&timestamp=1692082049",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 14016331
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    },
+    "builderPageUrl": "https://cian.ru/zastroishchik-expert-realty-11918/"
+  },
+  "isFavorite": false,
+  "additionalPrice": "104 846 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 4135413,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

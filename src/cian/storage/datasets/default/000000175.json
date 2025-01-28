@@ -1,0 +1,265 @@
+{
+  "id": 283271318,
+  "cianId": 283271318,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4750000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается 2х комнатная квартира 51.1 м2, прямой вариант, с ремонтом, потолки натяжные, окна ПВХ, новые двери, комнаты раздельные 10,4 и 18,9 м2, кухня 8,4 м2, прихожая 9,6 м2, лоджия застекленная, санузел раздельный. Чистая, светлая квартира, соседи хорошие, подъезд чистый и тихий.\nРядом магазины, остановка городского автобуса.\nЕсли нужно продадим и гараж рядом с домом.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960308-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960308-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/95/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495975995-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/95/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495975995-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/06/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976011-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/06/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976011-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/95/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495975993-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/95/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495975993-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/26/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976228-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/26/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976228-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/26/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976285-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/26/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976285-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/26/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/26/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/36/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976379-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/36/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976379-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/69/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919604-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/69/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919604-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/69/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919648-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/69/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919648-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/79/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919771-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/79/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919771-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/76/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976725-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/76/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495976725-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/07/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977021-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/07/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977021-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/17/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977180-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/17/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977180-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/79/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919789-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/79/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919789-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/89/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919811-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/89/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919811-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/37/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977385-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/37/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977385-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/69/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919678-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/69/198/941/kvartira-pskov-voennyy-gorodok-3-ulica-1498919678-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/77/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977776-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/77/795/941/kvartira-pskov-voennyy-gorodok-3-ulica-1495977776-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960304-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960304-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960307-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960307-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960295-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960295-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960289-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960289-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960299-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960299-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960294-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-voennyy-gorodok-3-ulica-2033960294-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "51,1 м²",
+    "floorInfo": "3/6 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Военный Городок-3"
+      },
+      {
+        "key": "house",
+        "value": "120"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.791283,
+      "lng": 28.412095
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/283271318/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4750000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79116905068",
+    "+79813502987"
+  ],
+  "author": {
+    "realtyId": 66358840,
+    "cianId": 66358840,
+    "id": "ID 66358840",
+    "displayName": "Лидия Орлова",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 19:00.",
+      "userId": 66358840
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "92 955 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,212 @@
+{
+  "id": 312339943,
+  "cianId": 312339943,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается уютная 2-комнатная квартира в центре Пскова по адресу: Октябрьский проспект, 31А. Общая площадь квартиры составляет 46,5 кв. м, кухня — 6 кв. м. Квартира расположена на 5 этаже кирпичного дома. Высота потолков — 2,5 метра. \nКомнаты на разные стороны. В квартире сделан полный евроремонт от основания, что позволяет сразу заехать и жить с комфортом. Стяжка пол, вся новая электрика, стеклопакеты вместе с балконом, балкон обшит снаружи и внутри, вся сантехника, трубы, батареи, инсталляция, душ, смесители, все абсолютно новое, входная дверь, пол ламинат, кухня вся со встроенной новой техникой, все что есть в квартире все абсолютно новое! В квартире никто не жил, долгов и прописанных нет.\nВсе комнаты оформлены в светлых тонах, что визуально увеличивает пространство и создает атмосферу уюта и чистоты. \nДом в хорошем состоянии, подъезды аккуратные и чистые. В шаговой доступности от дома находятся все необходимые объекты инфраструктуры: школы, детские сады, клиники, магазины. Это делает квартиру идеальным вариантом для семей с детьми. Хорошая транспортная доступность: рядом остановки общественного транспорта, откуда можно быстро добраться в любую часть города.\nПродажа квартиры осуществляется по договору купли-продажи. Возможна ипотека. Документы готовы к сделке, собственник один, без обременений. \nЕсли вы искали квартиру в удобном районе с развитой инфраструктурой и хорошим ремонтом, то эта квартира — отличный вариант.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373842431-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373842431-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2373837978-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2373837978-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769770-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769770-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865098-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865098-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865103-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865103-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865102-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865102-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373902983-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373902983-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769841-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769841-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769840-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769840-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373902982-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373902982-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865100-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373865100-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769879-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769879-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373879633-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373879633-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373879679-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373879679-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373888844-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373888844-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373855264-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373855264-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769909-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769909-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769930-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-oktyabrskiy-prospekt-2373769930-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "46,5 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Октябрьский проспект"
+      },
+      {
+        "key": "house",
+        "value": "31А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.810179,
+      "lng": 28.355331
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/312339943/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118808682"
+  ],
+  "author": {
+    "realtyId": 14566401,
+    "cianId": 14566401,
+    "id": "ID 14566401",
+    "displayName": "Олеся Купцова",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 14566401
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "105 376 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

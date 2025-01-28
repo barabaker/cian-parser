@@ -1,0 +1,219 @@
+{
+  "id": 309532343,
+  "cianId": 309532343,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 6290000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Предлагаю Вашему вниманию шикарную 3-х комнатную квартиру общей площадью 80,5 м2, комнаты (19,1 м2,13,1 м2, 10 м2) кухня 11м2, 2 кладовки (1,2 м2, 0,9 м2), коридор 12 м2, застекленная лоджия. \n     Квартира Без Обременений и Готова к Выходу на Сделку!!! Подходит под любую форму оплаты! Возьмем в зачет вашу недвижимость, возможен срочный выкуп Вашей недвижимости. Поможем с одобрением ипотеки! Возможен торг!!! Звоните, организуем показ в любое удобное время!!!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677132-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677132-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677117-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677117-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647037-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647037-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677121-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677121-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647076-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647076-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677120-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677120-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647097-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647097-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677118-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677118-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677127-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677127-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677130-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677130-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677134-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677134-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677119-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677119-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647078-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647078-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647068-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647068-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315669372-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315669372-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677133-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677133-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647048-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315647048-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677135-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-shestaka-ulica-2315677135-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "80,5 м²",
+    "floorInfo": "2/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Шестака"
+      },
+      {
+        "key": "house",
+        "value": "28"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.807125,
+      "lng": 28.301055
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=company/309532343/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 6290000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813503511"
+  ],
+  "author": {
+    "realtyId": 7773475,
+    "cianId": 10248064,
+    "id": "ID 10248064",
+    "displayName": "А-Реал",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=361776&t=2&p=1&timestamp=1620992939",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 7773475
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "78 137 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,207 @@
+{
+  "id": 312659175,
+  "cianId": 312659175,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается уютная однокомнатная квартира в городе Дно, Псковская область, по адресу улица Энергетиков, 3. Общая площадь квартиры — 34 кв. м, жилая — 18 кв. м, площадь кухни — 3 кв. м. Квартира расположена на первом этаже пятиэтажного блочного дома, построенного в 1981 году. Высота потолков составляет 2.52 метра. Окна выходят во двор, поэтому в квартире всегда тихо и спокойно.\n\nВ квартире есть косметический ремонт, который создаст атмосферу уюта и комфорта. Комната светлая и просторная, что позволяет разместить необходимую мебель и технику по вашему вкусу. Кухня компактная, но функциональная, все необходимое под рукой. Санузел отдельный, что обеспечивает дополнительное удобство.\n\nДом в хорошем состоянии, с наземной парковкой, поэтому у вас всегда будет место для вашего автомобиля. Блочный материал постройки обеспечивает хорошую тепло- и шумоизоляцию, поэтому, а значит, в квартире всегда будет комфортная температура и тишина.\n\nРядом с домом находятся все необходимые объекты инфраструктуры. В шаговой доступности детские сады, школы, поликлиники и магазины. Удобная транспортная развязка позволяет быстро добраться до любого района города. Ближайшие остановки общественного транспорта находятся в нескольких минутах ходьбы.\n\nПредложение от агентства, поэтому все юридические аспекты сделки будут учтены и оформлены корректно. Возможна покупка в ипотеку. Квартира без обременений, один взрослый собственник.\n\nЗвоните и записывайтесь на просмотр. Мы с удовольствием покажем вам эту замечательную квартиру и ответим на все ваши вопросы. Не упустите шанс стать владельцем уютного жилья в тихом районе!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088477-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088477-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088482-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088482-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088602-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088602-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088596-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088596-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088588-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088588-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088481-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088481-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088589-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088589-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380083080-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380083080-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088484-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088484-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088479-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088479-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088592-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088592-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088474-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088474-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088573-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-dno-ulica-energetikov-2380088573-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "34 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Дно",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Энергетиков"
+      },
+      {
+        "key": "house",
+        "value": "3"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.828083,
+      "lng": 29.936599
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=174636/object_type=1/ga_obj_type=1/spec=company/312659175/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 1000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 174636
+  },
+  "phones": [
+    "+79813505132"
+  ],
+  "author": {
+    "realtyId": 96181113,
+    "cianId": 96181113,
+    "id": "ID 96181113",
+    "displayName": "СКОБАРЬ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53702259&t=2&p=1&timestamp=1737707105",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 96181113
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "29 412 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

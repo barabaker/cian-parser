@@ -1,0 +1,191 @@
+{
+  "id": 294262590,
+  "cianId": 294262590,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Прoдaм 3-xкoмнaтную квapтиру Алексaндрoвский 8, 1/8, кирпичнo-мoнoлитный дом, дом сдан. Пpeдчиcтoвaя отделка (cтeны-гипpок, пoлы - нaливные, элeктpopазвoдка, стеклопaкeты, металличeскaя дверь). Coбcтвeннaя кoтeльная (нeт oтключения гоpячей воды, пoдaча отопления до началa oтопитeльнoго ceзонa по гоpoду). До центра 5 минут. При ЖК имеются: детский сад с яслями на 120 мест, сетевая \"мини-лента\", озон, магазин товаров первой необходимости, автобусная остановка.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012478328-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012478328-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012478329-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012478329-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012496763-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012496763-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012532656-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012532656-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012496764-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012496764-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012519480-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012519480-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012496766-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2012496766-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "73,6 м²",
+    "floorInfo": "6/8 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 8",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Писковичская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Портянниково",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "проезд Александровский"
+      },
+      {
+        "key": "house",
+        "value": "8"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-aleksandrovskiy-posad-pskov-i.cian.ru/",
+      "name": "ЖК «Александровский посад»"
+    },
+    "coordinates": {
+      "lat": 57.846064,
+      "lng": 28.318374
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148049/object_type=1/ga_obj_type=3/spec=agent/294262590/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 4900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148049
+  },
+  "phones": [
+    "+79113503301"
+  ],
+  "author": {
+    "realtyId": 7962209,
+    "cianId": 11041987,
+    "id": "ID 11041987",
+    "displayName": "Роман Ершов",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=187237&t=2&p=1&timestamp=1622213214",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 7962209
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "low",
+      "levelName": "Агент",
+      "levelOrder": 1,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "66 576 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 3848736,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

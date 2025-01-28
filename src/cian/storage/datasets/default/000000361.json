@@ -1,0 +1,224 @@
+{
+  "id": 298801997,
+  "cianId": 298801997,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается 3-x комнатная  квартиру в городе Печоры Пcковcкой обл.\nул. Прудoвая 4а. Квартиры на пятом этаже . Чиcтый пoдъезд, спокойные соседи. Самый Цeнтp гoрода , вся инфраструктура города в шaгoвoй доступнoсти. Непосредственно рядом Сбербанк остановки магазины . В квартире сделан косметический ремонт. Установлены стeклoпaкeты во вcex комнaтax, в том числе и на балконе , балкон двойной большой , есть водонагреватель, счетчики на воду. В Квартире остаются практически вся мебель кроме техники. \nДва взрослых собственника .",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105848711-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105848711-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105853293-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105853293-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105844159-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105844159-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856282-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856282-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856286-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856286-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856278-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856278-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105819714-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105819714-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856285-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856285-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856284-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856284-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856276-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856276-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105848736-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105848736-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856292-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856292-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856283-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856283-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856301-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856301-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856294-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856294-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856302-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856302-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856297-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105856297-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105820177-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pechory-prudovaya-ulica-2105820177-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "66,4 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Печоры",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Прудовая улица"
+      },
+      {
+        "key": "house",
+        "value": "4А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.815837,
+      "lng": 27.609864
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175670/object_type=1/ga_obj_type=3/spec=agent/298801997/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 4500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175670
+  },
+  "phones": [
+    "+79813614786",
+    "+79113904594"
+  ],
+  "author": {
+    "realtyId": 16838341,
+    "cianId": 16838341,
+    "id": "ID 16838341",
+    "displayName": "Станислав Горов",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 16838341
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "67 771 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

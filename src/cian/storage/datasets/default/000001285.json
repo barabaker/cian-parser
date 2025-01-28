@@ -1,0 +1,184 @@
+{
+  "id": 310821789,
+  "cianId": 310821789,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Отличное пpeдлoжeниe\n\nУютная двухкомнатнaя кваpтирa ждeт свoих новыx влaдeльцeв!\nKвapтира рacпoлoжeнa по адресу: гоpод Псков, улица Kоммунaльнaя, дoм 12.\n\nКвaртиpа зaнимaет площадь 44 квaдpатныx мeтрa, включaя свeтлую и функциoнальную кухню площaдью 5.5 квадрaтных мeтров. Здеcь двe кoмнaты, кoторые можно обустроить под любые нужды: от уютной спальни до рабочего кабинета. Окна квартиры выходят на тихий двор, что гарантирует спокойствие и отсутствие городского шума.\n\nДом панельной конструкции был построен в 1968 году и имеет всего пять этажей. На первом этаже удобно расположилась наша квартира, которая идеально подойдет тем, кто предпочитает начинать свой день без необходимости подниматься высоко по лестнице.\n\nЭтот вариант отлично подойдет как для молодой семьи, так и для пары пенсионеров, ищущих теплое и спокойное место для жизни. Звоните прямо сейчас, чтобы договориться о просмотре этой замечательной квартиры!\n\nСтоимость 3 580 000 рублей!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990885-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990885-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2341029186-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2341029186-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340975347-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340975347-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990880-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990880-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990881-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990881-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340997170-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340997170-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340990878-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340990878-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2341000689-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2341000689-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340987640-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340987640-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2341000690-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2341000690-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2340987639-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2340987639-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "45 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Коммунальная улица"
+      },
+      {
+        "key": "house",
+        "value": "12"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.820908,
+      "lng": 28.316838
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/310821789/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113800958"
+  ],
+  "author": {
+    "realtyId": 14035139,
+    "cianId": 14035139,
+    "id": "ID 14035139",
+    "displayName": "Вера Никулина",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=394457&t=2&p=1&timestamp=1717009418",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 14035139
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "77 778 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,284 @@
+{
+  "id": 309886401,
+  "cianId": 309886401,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 6500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "В самом престижном и комфортном для проживания районе города, продается уютная двухкомнатная квартира. В доме 2011 года постройки, (экологичная панель ДСК (ГОСТ) с отличной шумоизоляцией!) просторная лестничная клетка, грузовой лифт, хорошее состояние подъезда и отличные соседи. Расположен в микрорайоне с развитой инфраструктурой, с множеством социально значимых объектов в шаговой доступности. На самом деле все нужное рядом, школа, детский сад, остановка автобусов, много продуктовых магазинов, рынок, Ледовый Дворец, бассейн, почтовое отделение и прочее.\nДворовая территория благоустроена, достаточно места для парковки авто.  Квартира расположена в доме, имеющим свой двор с детской площадкой, магазином, зоной отдыха, далеко от оживленной автодороги, окна квартиры выходят во двор\n 10 минут до центра города\n Хорошее транспортное сообщение\n Развитая инфраструктура (школа, детский сад, почта, банк, магазины)\n Квартира со свежим ремонтом. Общая площадь квартиры 49,7 кв. м., комната 18 и 12  кв. м, кухня 12 кв. м., высота потолков 2,5 м. Имеется застекленная и утепленная лоджия с выходом из кухни. Санузел раздельный, просторный. Для покупателя остается кухонная мебель. Один взрослый собственник, с 2012 года. Документы готовы под любую форму расчёта, военная ипотека приветствуется. Быстрый выход на сделку, прямая продажа. Без обременений и долгов. Квартира свободна от проживания. Звоните, приходите посмотреть. Всё покажем и расскажем. Помогаем с одобрением в банках-партнёрах, окажем помощь при обмене, срочном выкупе и продаже вашего жилья на льготных условиях или продадим вашу квартиры быстро и по самой дорогой цене. Работаем с сертификатами любого типа в городе Пскове и Псковской области. Звоните! Реальные объекты. Быстрый подбор. Большой опыт. Юридические гарантии. Исключаем риски.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943230-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943230-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322942997-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322942997-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322942991-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322942991-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322942986-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322942986-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095977-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095977-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095995-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095995-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323082725-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323082725-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943113-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943113-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943147-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943147-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943177-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943177-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943213-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943213-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943251-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943251-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943261-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943261-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943313-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943313-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943314-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943314-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943337-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943337-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943361-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943361-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943379-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943379-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943430-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943430-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943436-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943436-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943479-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943479-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943491-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943491-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323073720-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323073720-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943536-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943536-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943581-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943581-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943650-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943650-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095982-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095982-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943665-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943665-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943680-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2322943680-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095978-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2323095978-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "49,7 м²",
+    "floorInfo": "8/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Коммунальная улица"
+      },
+      {
+        "key": "house",
+        "value": "72"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.811119,
+      "lng": 28.26682
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=company/309886401/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 6500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113906278",
+    "+79113814849"
+  ],
+  "author": {
+    "realtyId": 13223554,
+    "cianId": 13223554,
+    "id": "ID 13223554",
+    "displayName": "Гарант Недвижимость",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=257305&t=2&p=1&timestamp=1541514107",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T22:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 22:00.",
+      "userId": 13223554
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "130 785 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

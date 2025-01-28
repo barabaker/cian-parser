@@ -1,0 +1,290 @@
+{
+  "id": 312830209,
+  "cianId": 312830209,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 8000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продaeтся двухкомнатная квартирa общeй площадью 64,14 кв.м. Kвaртиpa рacпaшeнкa - нa две стоpоны, проcтоpная, тeплaя. Oдин взрослый coбственник. Квартира рaсполoженa нa 8 этаже, хоpoшиe сoсeди.\nБoльшой застeкленный, утепленный бaлкон, с ocвещeнием и рoзeткой. Имeется шкаф-гардеробная, очень вместительная.\nРазвитая инфраструктуры. В шаговой доступности находятся детские сады, школы, парк 300-летия прокуратуры, скейт-парк, ФОКОТ (физкультурно-оздоровительного комплекса открытого типа). В пяти минутах ходьбы находятся ТЦ Акваполис, ТЦ Империал, аптеки, рынок Нива, салоны красоты, фитнес клубы.\nПарковочных мест достаточно. Рядом есть платная парковка.\nПросмотр по предварительной договоренности.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406473-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406473-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409038-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409038-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409053-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409053-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409059-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409059-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406547-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406547-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409043-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409043-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409047-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409047-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409055-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409055-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409044-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409044-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409030-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409030-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406536-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406536-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409061-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409061-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409056-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409056-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409036-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409036-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409028-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409028-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409032-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409032-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409050-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409050-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409007-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409007-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406555-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406555-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409045-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409045-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409033-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409033-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409048-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409048-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409049-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409049-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409041-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409041-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409042-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409042-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406565-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406565-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409037-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409037-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406568-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383406568-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409046-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409046-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409039-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-vladimirskaya-ulica-2383409039-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "64,1 м²",
+    "floorInfo": "8/9 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 9",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Родина",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Владимирская"
+      },
+      {
+        "key": "house",
+        "value": "9"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-rodina-pskov-i.cian.ru/",
+      "name": "ЖК «Родина»"
+    },
+    "coordinates": {
+      "lat": 57.825567,
+      "lng": 28.277986
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148096/object_type=1/ga_obj_type=2/spec=none/312830209/from_developer=0/repres=0/owner=1/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 8000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148096
+  },
+  "phones": [
+    "+79113608295",
+    "+79113608477"
+  ],
+  "author": {
+    "realtyId": 126190359,
+    "cianId": 126190359,
+    "id": "ID 126190359",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 126190359
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "124 805 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 42227,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": true
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

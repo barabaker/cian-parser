@@ -1,0 +1,291 @@
+{
+  "id": 312170636,
+  "cianId": 312170636,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 6850000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Отличное предложение на рынке недвижимости!\nДвухкомнатная квартира 60,8 м2 + застекленная лоджия 5,2м2, на 1 этаже кирпичного дома. \nЛично была в квартире и гарантирую, что цена квартиры соответствует качеству ремонта. \nВся встроенная и комплектная мебель остается.\n В стоимость квартиры входит: шкаф купе, кухонный гарнитур, индукционная плита, духовой шкаф,  угловой  диван на кухне, стенка в комнате и спальне. \nВезде в квартире натяжные потолки, полы ламинат, сан узел плитка, на кухне полы плитка, лоджия застеклена. Никаких дополнительных затрат не требуется. Заехал и живи.\nДом 2017 года постройки, кирпичный, очень теплый и с отличной звукоизоляцией.\nРасположен в шикарном районе с полной развитой инфраструктурой.\n В шаговой доступности есть все: гипермаркеты, магазины, школа, детский садик, аптеки, кафе, фитнес центр, автобусная остановка. Проблем с парковкой рядом с домом  нет. \nХорошая транспортная развязка. \nПросмотры в любое удобное для вас время. \nОдин собственник. Документы готовы.\nЗвоните, отвечу на любые вопросы. \n\nКод пользователя: 76230\nНомер в базе: 4357586",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509624-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509624-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509641-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509641-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509647-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509647-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509665-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509665-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509668-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509668-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509672-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509672-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509676-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509676-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509681-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509681-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509686-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509686-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509692-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509692-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509701-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509701-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509706-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509706-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509713-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509713-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509723-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509723-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509734-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509734-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509754-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509754-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509787-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509787-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509842-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509842-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509871-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509871-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509926-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509926-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382509966-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382509966-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510007-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510007-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510040-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510040-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510049-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510049-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510064-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510064-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510073-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510073-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510096-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510096-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510113-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510113-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382510123-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382510123-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "60,8 м²",
+    "floorInfo": "1/10 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус ул. Труда, 60",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Труда"
+      },
+      {
+        "key": "house",
+        "value": "60"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-pyatyy-element-pskov-i.cian.ru/",
+      "name": "ЖК «Пятый элемент»"
+    },
+    "coordinates": {
+      "lat": 57.8416,
+      "lng": 28.349986
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=company/312170636/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 6850000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113606549"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "112 664 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "newbuildingId": 42176,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

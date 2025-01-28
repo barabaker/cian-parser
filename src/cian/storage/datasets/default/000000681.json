@@ -1,0 +1,301 @@
+{
+  "id": 305846011,
+  "cianId": 305846011,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 11500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "В этом доме редко продают квартиры!\nЕсли Вы всегда мечтали жить в самом сердце древнего Пскова, просыпаться и любоваться уникальным панорамным видом на реку Великую и Покровскую башню, совершать утреннюю пробежку или вечерний променад по уютной набережной в шаговой доступности от Вашего дома, пить ароматный кофе, наслаждаясь видом на Троицкий собор и Мирожский монастырь, то эта квартира именно для ВАС И ВАШЕЙ СЕМЬИ.   \nВашему вниманию предлагается к покупке видовая квартира в эксклюзивной локации с развитой инфраструктурой на 7 этаже кирпичного дома 2008 года постройки.   \nКвартира светлая, теплая (установлены теплые полы) с просторной кухней  гостиной. Две смежные комнаты, полностью мебелированные спальня и детская, позволят с комфортом разместиться семье с детьми. В квартире установлена сигнализация.\nОдин взрослый владелец. В собственности более 5 лет. Без обременений. Никто не прописан. Полная стоимость в договоре. НЕ ПОДХОДИТ ПОД ИПОТЕКУ.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071494-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071494-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071807-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071807-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071496-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071496-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071497-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071497-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071498-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071498-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071499-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071499-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071500-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071500-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071501-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241071501-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079629-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079629-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079635-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079635-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079639-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079639-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079642-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079642-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079648-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079648-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079653-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079653-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079983-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079983-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079988-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079988-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079985-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079985-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079982-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079982-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079987-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079987-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079659-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241079659-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241085204-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241085204-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084316-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084316-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084317-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084317-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084318-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084318-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084319-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084319-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241085199-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241085199-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241085206-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241085206-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084322-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084322-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084323-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084323-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084324-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084324-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084325-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084325-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084326-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084326-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084366-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-grazhdanskaya-ulica-2241084366-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "70,4 м²",
+    "floorInfo": "7/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Гражданская улица"
+      },
+      {
+        "key": "house",
+        "value": "27"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.804694,
+      "lng": 28.337392
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=agent/305846011/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 11500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505769"
+  ],
+  "author": {
+    "realtyId": 34063930,
+    "cianId": 34063930,
+    "id": "ID 34063930",
+    "displayName": "Анатолий Волков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=59842371&t=2&p=1&timestamp=1700731953",
+    "isHonest": true,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T12:00:00+03:00",
+      "availableTo": "2025-01-29T18:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 12:00 по 18:00.",
+      "userId": 34063930
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "163 352 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

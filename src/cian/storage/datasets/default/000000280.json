@@ -1,0 +1,194 @@
+{
+  "id": 312754203,
+  "cianId": 312754203,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается 2-х комнатная квартира (левый боковой вариант) в г. Печоры Псковской области. Квартира расположена на 4-м этаже, дом панельный, 1984 г. постройки. Отличная планировка, комнаты на разные стороны. Сан. узел раздельный, двойная застекленная лоджия с выходом из кухни. Уютно, светло, тепло. Квартира в хорошем состоянии. Продается с мебелью, кухонный гарнитур, мебель в прихожей и в спальне. Квартира свободна от проживания! Ключи передаем в день расчета. Возьмите чемодан с личными вещами и оставайтесь жить. Спокойный район, рядом сетевые магазины, пункты выдачи заказов, детский сад, детская музыкальная школа. До общеобразовательной школы 10-15 мин. пешком. Рядом остановка общественного транспорта, 5-10 мин. до центра и Псково-Печорского монастыря. Всегда свободные парковочные места во дворе. Сразу за микрорайоном лес. Документы готовы! Быстрая сделка! Показ в удобное для вас время! Звоните!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2382016748-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382016748-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382016804-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382016804-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382016885-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382016885-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381958948-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381958948-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382016926-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382016926-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382017004-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382017004-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382017064-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382017064-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2381959057-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2381959057-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382017152-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382017152-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382017253-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382017253-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382017312-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382017312-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382017385-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382017385-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "54 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Печоры",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Юбилейная улица"
+      },
+      {
+        "key": "house",
+        "value": "6"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.818962,
+      "lng": 27.654016
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175670/object_type=1/ga_obj_type=2/spec=company/312754203/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175670
+  },
+  "phones": [
+    "+79116901189",
+    "+79813505318"
+  ],
+  "author": {
+    "realtyId": 13028990,
+    "cianId": 13028990,
+    "id": "ID 13028990",
+    "displayName": "Русская недвижимость - Псковский офис",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=250286&t=2&p=1&timestamp=1588787096",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13028990
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "61 111 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

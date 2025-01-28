@@ -1,0 +1,220 @@
+{
+  "id": 311328424,
+  "cianId": 311328424,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается двухкомнатная квартира, которая станет отличным вариантом как для новых жильцов, так и для инвесторов. Ремонт в квартире был выполнен несколько лет назад, однако двери, полы и окна были заменены на новые, что создает комфортные условия для проживания. В текущий момент в квартире проживает один человек, что подтверждает ее жилое состояние.\n\nЧто касается мебели, вы получите возможность решить этот вопрос по своему усмотрению: некоторые предметы можно оставить, а другие  забрать. \n\nКвартира расположена в удобном районе с развитой инфраструктурой. В непосредственной близости находятся остановки общественного транспорта, школа, детский сад, больница и университет, что делает ее идеальным вариантом как для семей с детьми, так и для студентов. \n\nПодъезд в доме поддерживается в чистоте, а тихий двор гарантирует спокойную атмосферу. Соседи доброжелательные, а звукоизоляция в доме вполне приемлемая — шум с улицы не мешает спокойному отдыху. \n\nОкна квартиры выходят как в тихий двор, так и на улицу, благодаря чему в помещениях всегда много света. \n\nБалкон, утепленный и открытый, радует своим выходом на кухню, что делает его удобным для использования. Также к квартире прилагается небольшой подвал-погреб на балконе, который отлично подходит для хранения различных вещей.\n\nЭта квартира ждет своего нового владельца!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083651-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083651-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083619-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083619-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083604-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083604-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083650-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083650-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083625-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083625-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083646-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083646-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083682-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083682-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083681-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083681-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083680-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083680-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083713-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083713-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083712-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083712-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083714-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083714-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083737-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083737-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083739-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083739-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083738-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083738-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083792-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083792-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083799-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083799-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083797-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083797-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083801-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083801-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083803-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-kommunalnaya-ulica-2352083803-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "57,7 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Коммунальная улица"
+      },
+      {
+        "key": "house",
+        "value": "11"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.821661,
+      "lng": 28.316748
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=none/311328424/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113813473"
+  ],
+  "author": {
+    "realtyId": 115971750,
+    "cianId": 115971750,
+    "id": "ID 115971750",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 115971750
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "74 523 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

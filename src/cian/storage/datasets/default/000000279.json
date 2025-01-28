@@ -1,0 +1,284 @@
+{
+  "id": 286989829,
+  "cianId": 286989829,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3349000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается  солнечная и светлая  3-х комнатная квартира в центре города Печоры, в  3 минутах пешком от Псково-Печорского монастыря. \nДом расположен в отличном месте, на центральной улице города, вся инфраструктура в шаговой доступности: остановки общественного транспорта, рынок, магазины продовольственных и бытовых товаров, аптеки, отделение Сбербанка, почта России и многое другое.\nВ 500 метрах находится Свято-Успенский Псково-Печерский монастырь, один из самых известных в России мужских монастырей с многовековой историей, с находящимися в нем созданными Богом пещерами и церковью Успения Божией Матери. Удивительное, атмосферное место, где можно прикоснуться не только к старорусской архитектуре, но и посетить святые места.\nПланировка квартиры позволяет совместить рационализм и эргономику пространства, что делает квартиру с небольшой площадью комфортной и удобной для проживания и экономичной для обслуживания.\nОбщая площадь квартиры 47,7 кв. м, три комнаты 15, 10, 12 кв. м, кухня 7 кв метров. Квартира светлая, теплая, установлены качественные стеклопакеты, частично выполнен ремонт. В квартире установлен двухконтурный газовый котел на отопление и горячую воду, что позволяет самим контролировать температуру в квартире, а также значительно снижает коммунальные платежи. Квартира сухая и теплая, есть подвал, чистый подъезд, хорошие соседи. \nКрасивое живописное место для удобного и комфортного проживания и отдыха, недалеко живописное озеро, лес.\nЛюбая фора расчета, ипотека, материнский, региональный капитал, торг.\nПолное сопровождение сделки от момента выбора Вами квартиры до получения документов и полного расчёта между сторонами.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797415-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797415-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/37/970/071/1700797335-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/37/970/071/1700797335-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/37/970/071/1700797352-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/37/970/071/1700797352-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/37/970/071/1700797380-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/37/970/071/1700797380-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/37/970/071/1700797390-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/37/970/071/1700797390-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797411-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797411-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797431-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797431-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797443-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797443-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797464-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797464-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797475-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797475-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797484-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797484-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/47/970/071/1700797498-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/47/970/071/1700797498-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797504-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797504-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797518-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797518-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797534-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797534-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797546-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797546-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797570-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797570-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797581-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797581-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797590-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797590-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/57/970/071/1700797596-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/57/970/071/1700797596-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797602-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797602-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797608-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797608-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797628-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797628-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797641-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797641-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797648-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797648-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797655-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797655-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797671-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797671-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797680-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797680-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797689-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797689-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/67/970/071/1700797698-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/67/970/071/1700797698-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "47,7 м²",
+    "floorInfo": "1/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Печоры",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Псковская улица"
+      },
+      {
+        "key": "house",
+        "value": "21"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.815578,
+      "lng": 27.617158
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175670/object_type=1/ga_obj_type=3/spec=company/286989829/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3349000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175670
+  },
+  "phones": [
+    "+79113513794"
+  ],
+  "author": {
+    "realtyId": 15434451,
+    "cianId": 15434451,
+    "id": "ID 15434451",
+    "displayName": "Псковская недвижимость",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=554622&t=2&p=1&timestamp=1600883143",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T10:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 10:00 по 19:00.",
+      "userId": 15434451
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "70 210 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

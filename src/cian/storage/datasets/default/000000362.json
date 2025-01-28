@@ -1,0 +1,149 @@
+{
+  "id": 310164680,
+  "cianId": 310164680,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 870000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Предлагаем Вашему вниманию уютную квартиру без удобств, расположенную в самом сердце города.\n\nЦентральное расположение: Рядом вся необходимая инфраструктура: магазины, школы, больница, транспортная развязка.\nДоступная цена: Отличное предложение для тех, кто ищет экономичное жилье.\nКолонка рядом: Обеспечивает комфортный доступ к воде.\n\nЭта квартира станет идеальным выбором для студентов, молодых специалистов и всех, кто ценит временное удобство без лишних затрат. Просторные окна наполняют помещение светом, создавая тепло и уют. Возможность легко добраться до ключевых точек города, безусловно, добавляет преимущества данному жилому варианту. \n\nНе упустите свой шанс! Запишитесь на просмотр уже сегодня и ощутите атмосферу домашнего уюта в этом замечательном месте, которое станет вашим комфортным пристанищем в сердце Печоры! \n\nКод пользователя: 132967\nНомер в базе: 3442077",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2327962188-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2327962188-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2327962196-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2327962196-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2327962200-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2327962200-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2327962211-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2327962211-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "31,9 м²",
+    "floorInfo": "1/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Печоры",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Псковская улица"
+      },
+      {
+        "key": "house",
+        "value": "45"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.817745,
+      "lng": 27.621722
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175670/object_type=1/ga_obj_type=2/spec=company/310164680/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 870000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175670
+  },
+  "phones": [
+    "+79113906088"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "27 273 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

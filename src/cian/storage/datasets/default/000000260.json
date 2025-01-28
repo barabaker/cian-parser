@@ -1,0 +1,214 @@
+{
+  "id": 311197817,
+  "cianId": 311197817,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1660000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается однокомнатная квартира в центре города Острова, улица Меркурьева 8. Дом теплый кирпичный. В подъезде чисто, приветливые соседи. Во дворе есть стоянка для автомобилей, а также детский сад и школа. Все магазины и центральная площадь в шаговой доступности. Квартира расположена на 5м этаже, из окон красивые виды города. Комната 18 кв.м., с выходом на балкон, уютная кухня 6,5 кв.м. Нужен ремонт. \nОдин взрослый собственник.\nДокументы в порядке. \nЗвоните договоримся о просмотре. \n\nКод пользователя: 137328\nНомер в базе: 4271119",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454096-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454096-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2349474718-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2349474718-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454055-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454055-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454063-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454063-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454054-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454054-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454068-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454068-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454070-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454070-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454074-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454074-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454079-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454079-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454080-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454080-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454086-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454086-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2349101370-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2349101370-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2349101395-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2349101395-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2349101421-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2349101421-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454093-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454093-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454102-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454102-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2356454105-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2356454105-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "32,1 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Меркурьева"
+      },
+      {
+        "key": "house",
+        "value": "8"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.342861,
+      "lng": 28.343051
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=1/spec=company/311197817/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 1660000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79116908173"
+  ],
+  "author": {
+    "realtyId": 13731643,
+    "cianId": 13731643,
+    "id": "ID 13731643",
+    "displayName": "Этажи-Псков",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=360164&t=2&p=1&timestamp=1697531482",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13731643
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "51 713 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

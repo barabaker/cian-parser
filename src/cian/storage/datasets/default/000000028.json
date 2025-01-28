@@ -1,0 +1,185 @@
+{
+  "id": 236965026,
+  "cianId": 236965026,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 480000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "3х комнатная квартира 56 м2 ,3й этаж . Дом после кап ремонта. Асфальт до подъезда . рядом сосновый бор. в деревне Исса. Стеклопакеты, настоящий камин,ремонт. 100 м от Федеральной автомобильной дороги Р-23 Псков, на берегу реки Исса, Отопление электроконвекторы и камин . горячая вода электробойлер. свет по счетчику. Возможна продажа с земельным участком ИЖС ЛПХ 1.3 Га. С участком 750000 руб.  участок на берегу реки",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/5/020/919/kvartira-issa-centralnaya-ulica-919020536-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/5/020/919/kvartira-issa-centralnaya-ulica-919020536-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/5/020/919/kvartira-issa-centralnaya-ulica-919020567-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/5/020/919/kvartira-issa-centralnaya-ulica-919020567-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/5/020/919/kvartira-issa-centralnaya-ulica-919020578-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/5/020/919/kvartira-issa-centralnaya-ulica-919020578-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/6/020/919/kvartira-issa-centralnaya-ulica-919020613-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/6/020/919/kvartira-issa-centralnaya-ulica-919020613-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/6/020/919/kvartira-issa-centralnaya-ulica-919020619-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/6/020/919/kvartira-issa-centralnaya-ulica-919020619-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/6/020/919/kvartira-issa-centralnaya-ulica-919020684-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/6/020/919/kvartira-issa-centralnaya-ulica-919020684-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/9/020/919/kvartira-issa-centralnaya-ulica-919020903-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/9/020/919/kvartira-issa-centralnaya-ulica-919020903-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/9/020/919/kvartira-issa-centralnaya-ulica-919020936-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/9/020/919/kvartira-issa-centralnaya-ulica-919020936-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/9/020/919/kvartira-issa-centralnaya-ulica-919020955-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/9/020/919/kvartira-issa-centralnaya-ulica-919020955-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/0/120/919/kvartira-issa-centralnaya-ulica-919021048-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/0/120/919/kvartira-issa-centralnaya-ulica-919021048-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "56 м²",
+    "floorInfo": "3/3 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Пушкиногорский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Велейская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Исса",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Центральная"
+      },
+      {
+        "key": "house",
+        "value": "3"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.916414,
+      "lng": 28.678024
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148462/object_type=1/ga_obj_type=3/spec=agent/236965026/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 480000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148462
+  },
+  "phones": [
+    "+79813506859"
+  ],
+  "author": {
+    "realtyId": 55102413,
+    "cianId": 55102413,
+    "id": "ID 55102413",
+    "displayName": "Сергей Петряшев",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T10:00:00+03:00",
+      "availableTo": "2025-01-29T18:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 10:00 по 18:00.",
+      "userId": 55102413
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "8 571 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

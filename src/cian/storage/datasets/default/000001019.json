@@ -1,0 +1,207 @@
+{
+  "id": 310466131,
+  "cianId": 310466131,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3150000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Двухкoмнатная квapтиpа с раздельными кoмнатaми и рaздeльным cанузлом. Kвapтиpa pacположена на четвёpтом этаже пятиэтaжнoго кирпичнoго дoма. квартиpа в приличнoм жилом cоcтоянии. Сaнузeл в coвpeмeнном кафeлe. Eсть балкoн, бaлкон застeклён. Окна выxодят в тиxий двoр. В шаговой доступнoсти нeсколько детских садов, школы .47, .18, .9. Так же рядом расположены стадион 747 и строительный колледж. тихий двор. Рядом находится вокзал от которого идут автобусы всех городских маршрутов, что делает расположение максимально привлекательным.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970962-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970962-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2334034782-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2334034782-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970958-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970958-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970951-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970951-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970953-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970953-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970952-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970952-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333977434-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333977434-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970963-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970963-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970955-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970955-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970957-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970957-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970961-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970961-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970956-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970956-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333977419-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333977419-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333977408-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333977408-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970959-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970959-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970954-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970954-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970949-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970949-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2333970948-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2333970948-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "40 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Бастионная улица"
+      },
+      {
+        "key": "house",
+        "value": "21"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.806013,
+      "lng": 28.35834
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=none/310466131/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3150000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79116905243"
+  ],
+  "author": {
+    "realtyId": 89215464,
+    "cianId": 89215464,
+    "id": "ID 89215464",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 89215464
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "78 750 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

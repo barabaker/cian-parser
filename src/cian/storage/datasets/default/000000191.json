@@ -1,0 +1,179 @@
+{
+  "id": 311167133,
+  "cianId": 311167133,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "г.Гдов.двухкомнатная квартира. комнаты раздельные. хорошая планировка, просторные кухня и коридор. застекленный балкон. стеклопакеты, . все продаётся с мебелью. заезжай и живи. общая площадь 45кв.м.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597862-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597862-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597856-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597856-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597857-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597857-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597852-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597852-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597859-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597859-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597858-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597858-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597846-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597846-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597854-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597854-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597861-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597861-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597860-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-gdov-kingiseppskaya-ulica-2348597860-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "45 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Гдов",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Кингисеппская улица"
+      },
+      {
+        "key": "house",
+        "value": "47"
+      }
+    ],
+    "coordinates": {
+      "lat": 58.749636,
+      "lng": 27.814689
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=174567/object_type=1/ga_obj_type=2/spec=agent/311167133/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 2100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 174567
+  },
+  "phones": [
+    "+79116908504"
+  ],
+  "author": {
+    "realtyId": 4336583,
+    "cianId": 262995,
+    "id": "ID 262995",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:21+03:00",
+      "availableTo": "2025-01-29T22:00:44+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 22:00.",
+      "userId": 4336583
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "46 667 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

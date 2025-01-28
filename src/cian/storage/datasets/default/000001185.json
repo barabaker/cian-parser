@@ -1,0 +1,147 @@
+{
+  "id": 305916530,
+  "cianId": 305916530,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "newBuildingFlatSale",
+  "price": {
+    "value": 6374550,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "214-ФЗ"
+  },
+  "icons": [],
+  "description": "Продаётся 2-комнатная квартира в строящемся доме (Дом 22), срок сдачи: I-кв. 2025, общей площадью 60.71 кв.м., на 9 этаже. ЖК \"Завеличенская 22\" - 9-этажный дом с благоустроенной дворовой территорией и парковкой. Жилой комплекс строиться в одном из экологически благоприятных районов Пскова. Расположение дома позволит одинаково быстро добраться как до центра города, так и до мест отдыха на природе. \nВ шаговой доступности: новый детский сад на 140 мест, современная школа на 1350 мест (Псковская инженерно-лингвистическая гимназия), торгово-развлекательный центр \"Fjord Plaza\" со множеством магазинов и современным кинотеатром.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2242343261-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2242343261-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "60,7 м²",
+    "floorInfo": "9/9 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 22",
+    "deadline": "сдача в 1 квартале 2025",
+    "deadlineShort": "сдача в 1 кв. 2025"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Завеличенская"
+      },
+      {
+        "key": "house",
+        "value": "22"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-ul-zavelichenskaya-22-pskov-i.cian.ru/",
+      "name": "ЖК «ул. Завеличенская, 22»"
+    },
+    "coordinates": {
+      "lat": 57.807403,
+      "lng": 28.258124
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=2/ga_obj_type=2/spec=company/305916530/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_first",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 6374550,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+78003330343"
+  ],
+  "author": {
+    "realtyId": 53500185,
+    "cianId": 53500185,
+    "id": "ID 53500185",
+    "displayName": "Циан",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=28582490&t=2&p=1&timestamp=1592303498",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": true,
+    "workTimeInfo": {
+      "callFrom": "10:00:00",
+      "callTo": "19:00:00"
+    },
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T10:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 10:00 по 19:00.",
+      "userId": 53500185
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    },
+    "builderPageUrl": "https://cian.ru/zastroishchik-tsian-11918/"
+  },
+  "isFavorite": false,
+  "additionalPrice": "105 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": true,
+  "newbuildingId": 4135413,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Показать контакты",
+  "isBookedFromDeveloper": false,
+  "newbuildingCplLayer": "kpn"
+}

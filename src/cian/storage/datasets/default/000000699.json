@@ -1,0 +1,200 @@
+{
+  "id": 303586895,
+  "cianId": 303586895,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3670000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается однокомнатная квартира от собственника. Дом 2024 года постройки, 3 этаж. Сделан приятный ремонт. Кухонный гарнитур с техникой. Качественная входная дверь. Заезжай и живи.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048516-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048516-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048511-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048511-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048493-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048493-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048512-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048512-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048510-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048510-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048514-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048514-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197041463-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197041463-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197041451-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197041451-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048513-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048513-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048495-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048495-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048482-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048482-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048480-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-portyannikovo-aleksandrovskiy-proezd-2197048480-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "36 м²",
+    "floorInfo": "3/8 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 8",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Писковичская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Портянниково",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "проезд Александровский"
+      },
+      {
+        "key": "house",
+        "value": "8"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-aleksandrovskiy-posad-pskov-i.cian.ru/",
+      "name": "ЖК «Александровский посад»"
+    },
+    "coordinates": {
+      "lat": 57.846064,
+      "lng": 28.318374
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148049/object_type=1/ga_obj_type=1/spec=none/303586895/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3670000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148049
+  },
+  "phones": [
+    "+79118906420"
+  ],
+  "author": {
+    "realtyId": 63754762,
+    "cianId": 63754762,
+    "id": "ID 63754762",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 63754762
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "101 944 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 3848736,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

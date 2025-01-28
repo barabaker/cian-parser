@@ -1,0 +1,186 @@
+{
+  "id": 312682961,
+  "cianId": 312682961,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1550000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается уютная двухкомнатная квартира в деревне Похвальщина, Псковская область. Общая площадь квартиры составляет 50,9 кв. м, из которых 34 кв. м — жилая. Квартира расположена на последнем, четвертом этаже дома. Просторная кухня площадью 8 кв. м — идеальное место для семейных завтраков и уютных ужинов.\n\nВ квартире сделан косметический ремонт, что позволяет вам сразу заехать и жить. Просторные комнаты и наличие балкона создают атмосферу комфорта и уюта. Окна выходят на улицу, поэтому в квартире всегда светло и приятно. Санузел раздельный, что удобно для семьи.\n\nДом оснащен наземной парковкой, поэтому вы всегда найдете место для своего автомобиля. Четырехэтажный дом ухожен и находится в хорошем состоянии.\n\nДля любителей прогулок на свежем воздухе — рядом лес и озеро. Хорошая транспортная доступность позволяет быстро добраться до центра Пскова и других районов.\n\nКвартира продается без обременений, возможна продажа в ипотеку. Все документы готовы к сделке, что позволяет быстро оформить покупку.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380595517-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380595517-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600227-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600227-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600308-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600308-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600304-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600304-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600264-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600264-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600307-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600307-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600259-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600259-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600249-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600249-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600303-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600303-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600239-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600239-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600309-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pohvalshcina-2380600309-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "50,9 м²",
+    "floorInfo": "4/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Ядровская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Похвальщина",
+        "locationTypeId": 161
+      },
+      {
+        "key": "house",
+        "value": "11"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.713912,
+      "lng": 28.45932
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1156589/object_type=1/ga_obj_type=2/spec=none/312682961/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 1550000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1156589
+  },
+  "phones": [
+    "+79113503085"
+  ],
+  "author": {
+    "realtyId": 38391546,
+    "cianId": 38391546,
+    "id": "ID 38391546",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 38391546
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "30 452 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

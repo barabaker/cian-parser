@@ -1,0 +1,215 @@
+{
+  "id": 309202427,
+  "cianId": 309202427,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "newBuildingFlatSale",
+  "price": {
+    "value": 4100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "decoration": "без отделки",
+    "saleType": "договор уступки права требования",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Пpодаeтся 2-кoмнатная квартира в cтрoящемся кирпичнo-монолитном дoмe пo aдpecу ул. Героя Pоссии Дoсягaeва, 3 в новом жилом комплексe Ceмeйный.\nОбщая площадь - 53,92 кв.м, просторная кухня-гостиная -21,28 кв.м., две комнаты и совмещенный су. Во дворе детская площадка.\nВ одной из комнат предусмотрен выход на балкон, но он не застекленный. \nПрекрасный, новый микрорайон с развитой инфраструктурой( ТЦ Фьёрд Плаза, детский садик, школа и тд)\nПодходит под все виды расчета\nПомогаем с одобрением сложной ипотеки\nЗвоните, пишите в удобное для вас время!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410961-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410961-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410959-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410959-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410968-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410968-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309418358-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309418358-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410970-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410970-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309416214-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309416214-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410950-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410950-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309397045-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309397045-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410953-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410953-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309416205-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309416205-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410962-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410962-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410955-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-geroya-rossii-dosyagaeva-ulica-2309410955-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "53,9 м²",
+    "floorInfo": "8/10 этаж",
+    "decoration": "без отделки"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 3",
+    "deadline": "сдача в 4 квартале 2024",
+    "deadlineShort": "сдача в 4 кв. 2024"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Героя России Досягаева"
+      },
+      {
+        "key": "house",
+        "value": "3"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-semeynyy-pskov-i.cian.ru/",
+      "name": "ЖК «Семейный»"
+    },
+    "coordinates": {
+      "lat": 57.81038494544692,
+      "lng": 28.244464880950357
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=2/ga_obj_type=2/spec=company/309202427/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_first",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113906139"
+  ],
+  "author": {
+    "realtyId": 13845996,
+    "cianId": 13845996,
+    "id": "ID 13845996",
+    "displayName": "Серебряный ключ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=26737959&t=2&p=1&timestamp=1661970294",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13845996
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    },
+    "builderPageUrl": "https://cian.ru/zastroishchik-serebrianyi-kliuch-11934/"
+  },
+  "isFavorite": false,
+  "additionalPrice": "76 039 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 4305396,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

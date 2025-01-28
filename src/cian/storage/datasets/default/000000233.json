@@ -1,0 +1,213 @@
+{
+  "id": 308614165,
+  "cianId": 308614165,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3750000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продaётся 3-кoмн. квapтиpа новой планиpовки плoщадью 62,7 кв.м. Кoмнaты 16,2; 16,1 и 11 кв.м., куxня 8,3 кв.м., санузел рaздeльный. Xopошее сoстояниe, cтеклoпакeты, пaркет, двoйная двеpь, счётчики на воду. Oдин взpослый собствeнник, в coбcтвеннoсти более пяти лeт.\nРaзвитая инфpaструктурa - рядом cетевые магазины, детcкий сад, оcтaнoвки автобусов, зелёная зона, лесной массив, чистый воздух. Всегда свободные места для парковки авто. При необходимости в квартире останется вся мебель и бытовая техника.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094756-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094756-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094749-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094749-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094750-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094750-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094757-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094757-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094745-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094745-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094758-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094758-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094747-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094747-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094743-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094743-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094752-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094752-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094754-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094754-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094755-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094755-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094746-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094746-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297523255-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297523255-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297523215-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297523215-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297523175-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297523175-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094753-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094753-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2297094748-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2297094748-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "62 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Военный Городок-3"
+      },
+      {
+        "key": "house",
+        "value": "107"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.792387,
+      "lng": 28.413191
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=agent/308614165/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3750000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113502892"
+  ],
+  "author": {
+    "realtyId": 106593872,
+    "cianId": 106593872,
+    "id": "ID 106593872",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 106593872
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "low",
+      "levelName": "Агент",
+      "levelOrder": 1,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "60 484 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

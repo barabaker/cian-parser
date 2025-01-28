@@ -1,0 +1,193 @@
+{
+  "id": 303753851,
+  "cianId": 303753851,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4650000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продаётся 3-комн. Кв в центре города в кирпичном доме.\n\nОкна Пвх на разные стороны.\n\nДве комнаты раздельные и одна проходная.\n\nБалкон застеклен и утеплен.\n\nПроизведена замена сантехники.\n\nВсе в шаговой доступности.\n\nШкола, детский сад, парк, река Ловать.\n\nОдин взрослый собственник.\n\nКвартира без долгов и обременений.\n\nЛюбая форма оплаты.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2201180472-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201180472-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201180428-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201180428-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201182438-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201182438-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201182422-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201182422-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201180505-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201180505-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201180494-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201180494-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201170703-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201170703-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201180521-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201180521-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201182424-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201182424-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201180412-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201180412-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201180451-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201180451-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201182425-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201182425-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2201182434-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2201182434-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "58 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Ботвина"
+      },
+      {
+        "key": "house",
+        "value": "15"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.348362,
+      "lng": 30.524708
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=3/spec=agent/303753851/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 4650000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79118808741"
+  ],
+  "author": {
+    "realtyId": 110277589,
+    "cianId": 110277589,
+    "id": "ID 110277589",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 110277589
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "low",
+      "levelName": "Агент",
+      "levelOrder": 1,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "80 172 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,207 @@
+{
+  "id": 304725052,
+  "cianId": 304725052,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3200000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается трехкомнатная квартира на 1-м этаже пятиэтажного дома  1 на улице Мебельная города Порхова.  Квартира теплая, уютная, просторная кухня. Установлены стеклопакеты, горячая вода (бойлер). Чистый подъезд, хорошие соседи. В шаговой доступности магазины, автовокзал, рынок, школа, детский сад, бассейн. Квартира продается с мебелью.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675226-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675226-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675210-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675210-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675237-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675237-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675229-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675229-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675216-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675216-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674131-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674131-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674130-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674130-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675219-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675219-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674132-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674132-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675235-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675235-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675207-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675207-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674127-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219674127-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675221-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-mebelnaya-ulica-2219675221-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "66 м²",
+    "floorInfo": "1/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Порхов",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Мебельная улица"
+      },
+      {
+        "key": "house",
+        "value": "1"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.756789,
+      "lng": 29.555813
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175710/object_type=1/ga_obj_type=3/spec=company/304725052/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3200000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175710
+  },
+  "phones": [
+    "+79813505538"
+  ],
+  "author": {
+    "realtyId": 15482182,
+    "cianId": 15482182,
+    "id": "ID 15482182",
+    "displayName": "Аltera-N",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=563114&t=2&p=1&timestamp=1588586735",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 19:00.",
+      "userId": 15482182
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "48 485 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "firstLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

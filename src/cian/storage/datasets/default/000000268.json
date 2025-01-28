@@ -1,0 +1,177 @@
+{
+  "id": 309011084,
+  "cianId": 309011084,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 1030000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Представляем вашему вниманию уютную двухкомнатную квартиру в рабочем посёлке Палкино, на улице Строителей. Общая площадь квартиры составляет 44,3 кв. м, из которых 29 кв. м — жилая площадь, а кухня занимает 6,5 кв. м. Квартира расположена на первом этаже двухэтажного кирпичного дома, построенного в 1969 году. Высота потолков — 2,5 метра, окна выходят во двор, что обеспечивает тишину и уединение.\n\nВ квартире выполнен косметический ремонт, что позволяет вам сразу же после покупки обустроиться и жить с комфортом. Санузел совмещенный, что делает использование удобным для всей семьи. Планировка квартиры продумана таким образом, что комнаты светлые и просторные, несмотря на компактные размеры. \n\nДом, в котором расположена квартира, в хорошем состоянии. Кирпичные стены обеспечивают отличную тепло- и звукоизоляцию, а небольшое количество этажей в доме создает ощущение уюта и спокойствия. \n\nИнфраструктура района развита: рядом находятся школы, детские сады, клиники и разнообразные магазины. Это делает проживание здесь удобным и комфортным для семей с детьми. Хорошая транспортная доступность позволяет быстро добраться до различных частей города.\n\nУсловия сделки прозрачные и простые. Квартира готова к продаже, без обременений. Возможна покупка в ипотеку, что открывает дополнительные возможности для приобретения жилья.\n\nПриглашаем вас на просмотр, чтобы оценить все преимущества этой квартиры лично. Звоните и записывайтесь на удобное для вас время!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305426002-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305426002-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305433203-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305433203-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305318904-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305318904-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305426006-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305426006-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305503982-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305503982-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305433212-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305433212-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305437775-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305437775-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305481381-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305481381-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305481389-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305481389-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305425999-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305425999-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305481386-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305481386-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305461506-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-palkino-stroiteley-ulica-2305461506-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "44,3 м²",
+    "floorInfo": "1/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Палкино рп",
+        "locationTypeId": 185
+      },
+      {
+        "key": "street",
+        "value": "улица Строителей"
+      },
+      {
+        "key": "house",
+        "value": "3"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.543023,
+      "lng": 28.008222
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=473717/object_type=1/ga_obj_type=2/spec=none/309011084/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 1030000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 473717
+  },
+  "phones": [
+    "+79813504543"
+  ],
+  "author": {
+    "realtyId": 91269315,
+    "cianId": 91269315,
+    "id": "ID 91269315",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 91269315
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "23 251 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

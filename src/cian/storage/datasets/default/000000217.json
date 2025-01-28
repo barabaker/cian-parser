@@ -1,0 +1,176 @@
+{
+  "id": 301356637,
+  "cianId": 301356637,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4199000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продаётся квартира в центре города, состояние обычное, хорошее место расположения, всё в шаговой доступности, (школы, магазины, рынок и т. Д.), можно сделать хорошую 3 или 4-х комнатную квартиру, есть возможность поставить ещё 1 с/у.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2157944132-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157944132-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157944136-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157944136-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157939751-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157939751-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157939761-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157939761-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157939737-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157939737-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157944138-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157944138-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157944570-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157944570-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157939755-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157939755-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157939745-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157939745-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157939771-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157939771-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157944135-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157944135-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157916353-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157916353-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2157939741-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2157939741-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "5-комн. квартира",
+    "totalArea": "87 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "проспект Гагарина"
+      },
+      {
+        "key": "house",
+        "value": "55/1"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.340899,
+      "lng": 30.547211
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=5/spec=none/301356637/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_5",
+    "puid5": "obl_id_4605",
+    "puid8": 4199000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79118809141"
+  ],
+  "author": {
+    "realtyId": 58770172,
+    "cianId": 58770172,
+    "id": "ID 58770172",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 58770172
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "48 264 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

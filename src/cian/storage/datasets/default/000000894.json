@@ -1,0 +1,238 @@
+{
+  "id": 304246826,
+  "cianId": 304246826,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 7999999,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается двухкомнатная квартира в ЦЕНТРЕ города ПСКОВА, улица Первомайская, дом 24, 5/5-этажность. Квартира находится в кирпичном доме 2008 года постройки. Общая площадь квартиры составляет 61 кв.м., жилая 37.2 (21.2 и 16 кв.м), кухня 11,2 кв.м, ванна и туалет- совмещены, лоджия 4 кв.м, высота потолков 2,73 м. Квартира находится в идеальном техническом состоянии: продается со всей мебелью и техникой. Прямая продажа, документы готовы.\nФото полностью соответствуют реальному состоянию квартиры.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025864-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025864-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211000795-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211000795-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211041283-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211041283-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025859-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025859-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025853-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025853-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025857-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025857-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025854-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025854-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211041285-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211041285-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211013786-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211013786-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025858-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025858-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211000871-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211000871-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211041287-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211041287-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211017668-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211017668-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025855-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025855-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025860-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025860-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211017684-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211017684-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211013785-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211013785-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025856-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025856-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025862-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211025862-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211022683-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2211022683-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "61 м²",
+    "floorInfo": "5/6 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Первомайская улица"
+      },
+      {
+        "key": "house",
+        "value": "24"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.825663,
+      "lng": 28.337688
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=company/304246826/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 7999999,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505132"
+  ],
+  "author": {
+    "realtyId": 96181113,
+    "cianId": 96181113,
+    "id": "ID 96181113",
+    "displayName": "СКОБАРЬ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53702259&t=2&p=1&timestamp=1737707105",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 96181113
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "131 148 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

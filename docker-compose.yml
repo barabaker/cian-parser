@@ -1,0 +1,28 @@
+services:
+
+  mongo:
+    image: mongo
+    container_name: mongo-cian
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data/mongo:/data/db
+      - ./data/mongo-init:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: |
+        echo 'db.runCommand("ping").ok' | mongo -u $MONGO_INITDB_ROOT_USERNAME -p $MONGO_INITDB_ROOT_PASSWORD --quiet || exit 1
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    env_file:
+      - .env
+    networks:
+      - cian-public
+
+volumes:
+  mongo_data:
+
+networks:
+  cian-public:
+    external: true

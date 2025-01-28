@@ -1,0 +1,214 @@
+{
+  "id": 293252669,
+  "cianId": 293252669,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается двухкомнатная квартира, окна на две стороны, 5/5, комнаты изолированны (11+17) м.кв., с/у раздельный, остается частично мебель, один собственник, из окна вид на реку Великая,в собственности менее 3 лет.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-piskovichi-1976810382-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-piskovichi-1976810382-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324301-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324301-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324384-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324384-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324325-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324325-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324932-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324932-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324375-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324375-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324337-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324337-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324347-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324347-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324934-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324934-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324366-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324366-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324313-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324313-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324940-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324940-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324281-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-piskovichi-2017324281-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017318577-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017318577-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2017324937-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2017324937-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "54 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Писковичская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Писковичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "house",
+        "value": "13"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.862174,
+      "lng": 28.207432
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148044/object_type=1/ga_obj_type=2/spec=agent/293252669/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148044
+  },
+  "phones": [
+    "+79116904125"
+  ],
+  "author": {
+    "realtyId": 1717717,
+    "cianId": 1308394,
+    "id": "ID 1308394",
+    "displayName": "Татьяна Органовская",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=10775&t=2&p=1&timestamp=1567586363",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T22:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 22:00.",
+      "userId": 1717717
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "low",
+      "levelName": "Агент",
+      "levelOrder": 1,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "61 111 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

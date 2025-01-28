@@ -1,0 +1,326 @@
+{
+  "id": 301600401,
+  "cianId": 301600401,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 6000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Просторная солнечная девушка + Подвальное помещение 5 кв.м. \"Распашонка\" с видом на памятник А. Невского и шикарный закат. Застекленная панорамная лоджия \"Арктика\" с противосолнечным напылением. Заменена входная дверь. Есть кладовая-гардеробная. Мебель, кухонный гарнитур, стиральная машинка, холодильник, бойлер, посудомойка, телевизор идут в комплекте. 10 этаж с прекрасным видом, выше технический этаж без жильцов и шумного топота. Бонусом идет сухое теплое подвальное помещение 5 кв.м.\nРазвитая инфраструктура. Сады, школа, аптеки, пекарня, стоматология, салоны красоты, детские площадки, сквер. Рядом благоустривают пляж.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982863-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982863-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982846-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982846-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982845-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982845-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982856-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982856-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365471-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365471-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162377315-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162377315-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365505-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365505-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976077-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976077-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976083-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976083-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976082-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976082-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976075-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976075-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976084-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976084-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982821-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982821-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982794-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982794-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982822-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982822-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982843-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982843-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982798-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982798-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982796-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982796-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365468-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365468-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982826-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982826-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982808-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982808-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982809-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982809-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982810-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982810-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976032-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976032-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976024-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976024-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976028-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976028-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976035-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976035-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976034-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976034-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976053-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976053-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976015-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976015-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976020-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976020-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976018-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976018-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365466-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2162365466-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976089-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976089-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976088-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976088-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976087-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976087-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976094-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976094-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976093-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245976093-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982860-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982860-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982891-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982891-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982893-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982893-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982894-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-tehnicheskaya-ulica-2245982894-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForOwner",
+      "name": "Собственник"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "51,7 м²",
+    "floorInfo": "10/11 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Техническая улица"
+      },
+      {
+        "key": "house",
+        "value": "14"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.839415,
+      "lng": 28.288137
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=none/301600401/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 6000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813535242"
+  ],
+  "author": {
+    "realtyId": 15903558,
+    "cianId": 15903558,
+    "id": "ID 15903558",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 15903558
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "116 054 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

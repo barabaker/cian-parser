@@ -1,0 +1,217 @@
+{
+  "id": 299916973,
+  "cianId": 299916973,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 15450000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам в двух уровнях 4-ую квартиру по адресу Народная 23/17. Кирпич. Этаж 1-2/9. Общая 132. Кухня 13,5. Хорошее состояние. Первый этаж-две комнаты, совмещенный с/у в кафеле, душевая кабина, лестница на второй этаж. Второй этаж-кухня 13,5м.кв., гостиная, спальня, туалет в кафеле, прихожая. Остаётся мебель и техника по договорённости и по факту. Больше 5 лет в собственности. Два взрослых собственника. Отличное расположение, всё рядом.\nЦена 15 450 000 руб.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129355410-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129355410-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358063-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358063-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358023-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358023-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358020-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358020-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358057-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358057-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358058-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358058-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358067-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358067-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358047-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358047-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358053-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358053-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358052-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358052-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358062-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358062-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358032-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358032-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358019-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358019-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358039-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358039-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358031-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358031-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129355416-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129355416-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358051-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358051-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358024-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129358024-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129362528-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-narodnaya-ulica-2129362528-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "4-комн. квартира",
+    "totalArea": "132 м²",
+    "floorInfo": "1/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Народная улица"
+      },
+      {
+        "key": "house",
+        "value": "23/17"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.820971,
+      "lng": 28.306157
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=4/spec=company/299916973/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_4",
+    "puid5": "obl_id_4605",
+    "puid8": 15450000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813614521"
+  ],
+  "author": {
+    "realtyId": 72812771,
+    "cianId": 72812771,
+    "id": "ID 72812771",
+    "displayName": "Олимп",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=40586564&t=2&p=1&timestamp=1688988924",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 72812771
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "117 045 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

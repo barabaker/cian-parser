@@ -1,0 +1,403 @@
+{
+  "id": 306584097,
+  "cianId": 306584097,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3000000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Уважаемые покупатели! К вашему вниманию уникальное предложение: \nПредлагаем комплекс из 5 объектов недвижимости.\nТри земельных участка с новой баней и садом.\nСвой подвал 20м2 во весь рост для хранения заготовок и овощей.\nХозяйственная постройка, полностью забитая строительными материалами и дровами.\n\n И самое главное - 3-комнатная тёплая квартира на 2-этаже кирпичного дома.\n\n В спальном районе, хорошее месторасположение дома.\nВ доступности детскийсад и школа;\n\n Адрес: сел. Серёдка, ул. Рыбакова, д.6;\n Этаж: 2;\n Площадь: 60.8. кв.м.;\n Центральное отопление \n Природный газ\n\n Удобное раздельное расположение комнат; \nСовмещённый санузел;\nБойлер на 80 литров.\n\n Квартира в отличном состоянии, не требует никаких дополнительных вложений:\n- установлены пластиковые окна;\n- входная металлическая дверь \n- пол линолеум, ламинат;\n- сделан качественный косметический ремонт в нейтральных светлых тонах; \n- потолки натяжные матовые;\n\n Подвал во весь рост сухой и тёплый. \n\n Санузел:\n- сантехника в исправном состоянии.\n\n Квартира - готовый вариант, заезжай и живи. Продается с мебелью и техникой.\nОдин взрослый собственник, долгов и обременений нет. \n Стоимость 3.500 000₽;\n\nПродажа возможна с привлечением:\n- МАТ.КАПИТАЛА до достижения 3-х летнего возраста ребенка, а так же после, напрямую через ПФР; \n\n- ИПОТЕКА;\nПомощь в оформлении ипотеки в офисе агентства, без очередей и ожидания, а также дистанционно в режиме онлайн, С ДИСКОНТОМ к процентной ставке - 0.3%; \n\n- Государственной поддержки (450.000₽) за третьего и последующего ребенка;\n\n Приглашаем на просмотр!\n С НАМИ ВАША СДЕЛКА БУДЕТ САМОЙ БЕЗОПАСНОЙ !!!\n\nЕсли Вам понравилась эта квартира, но ещё не продана Ваша, дайте нам знать, возможно, уже сейчас, у нас на неё есть Покупатель.\n\n\nЗвоните, не упустите свой шанс купить этот коплекс объектов недвижимости по одной цене!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103111-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103111-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108281-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108281-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103129-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103129-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108326-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108326-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108330-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108330-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108304-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108304-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108290-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108290-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103194-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103194-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108282-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108282-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103206-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103206-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103207-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103207-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108255-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108255-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103220-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103220-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103217-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103217-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108257-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108257-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103241-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103241-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108332-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108332-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108285-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108285-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103248-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103248-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108254-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108254-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108286-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108286-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108296-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108296-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108283-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108283-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103290-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103290-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103294-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103294-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108284-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108284-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108260-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108260-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103329-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103329-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108291-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108291-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108302-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108302-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108303-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108303-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103344-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103344-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108263-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108263-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108337-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108337-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103352-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103352-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108258-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108258-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108335-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108335-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103359-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103359-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108287-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108287-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108289-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108289-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108288-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108288-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103442-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103442-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108338-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108338-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108262-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108262-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108261-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108261-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103479-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254103479-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108292-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108292-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108341-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108341-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108300-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108300-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108259-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-seredka-rybakova-ulica-2254108259-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "orange",
+      "name": "С мебелью"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "60,8 м²",
+    "floorInfo": "2/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Середкинская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "с. Середка",
+        "locationTypeId": 186
+      },
+      {
+        "key": "street",
+        "value": "улица Рыбакова"
+      },
+      {
+        "key": "house",
+        "value": "6"
+      }
+    ],
+    "coordinates": {
+      "lat": 58.162124,
+      "lng": 28.186439
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148422/object_type=1/ga_obj_type=3/spec=agent/306584097/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 3000000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148422
+  },
+  "phones": [
+    "+79113815072"
+  ],
+  "author": {
+    "realtyId": 92632560,
+    "cianId": 92632560,
+    "id": "ID 92632560",
+    "displayName": "Игорь Макаришин",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=62260298&t=2&p=1&timestamp=1737709136",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T22:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 22:00.",
+      "userId": 92632560
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "49 342 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

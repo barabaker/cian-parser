@@ -1,0 +1,224 @@
+{
+  "id": 312076032,
+  "cianId": 312076032,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 5100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Трехкомнатная квартира с высокими потолками в иcтoричecком центре гoрода в 5 минутах от Финского парка. Все необходимое для комфортного проживания в шаговой доступности от дома, школы, детские сады и т.д. Один взрослый собственник, более 5 лет, прямая продажа.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2368222598-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368222598-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261366-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261366-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368254223-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368254223-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261354-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261354-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261356-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261356-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261358-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261358-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261363-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261363-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368222601-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368222601-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261355-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261355-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261369-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261369-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261367-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261367-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368254233-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368254233-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368222589-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368222589-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261359-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261359-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261362-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261362-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261353-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261353-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261364-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261364-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368261365-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368261365-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2368254227-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2368254227-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "64 м²",
+    "floorInfo": "3/3 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Школьная улица"
+      },
+      {
+        "key": "house",
+        "value": "9"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.824863,
+      "lng": 28.338218
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=3/spec=agent/312076032/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 5100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113812158"
+  ],
+  "author": {
+    "realtyId": 72856631,
+    "cianId": 72856631,
+    "id": "ID 72856631",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 72856631
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "low",
+      "levelName": "Агент",
+      "levelOrder": 1,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "79 688 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

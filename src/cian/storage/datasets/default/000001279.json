@@ -1,0 +1,214 @@
+{
+  "id": 301367790,
+  "cianId": 301367790,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 7700000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Отличная 4-комнатная квартира 3-мя лоджиями в недавно отремонтированном по программе капремонта доме в центре города. В квартире светло и тепло. Продается в связи с переездом в другой регион",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112144-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112144-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119353-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119353-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119362-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119362-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112148-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112148-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119358-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119358-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119359-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119359-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119343-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119343-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112155-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112155-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119346-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119346-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112157-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112157-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112159-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112159-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112161-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112161-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119340-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119340-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112164-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112164-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119335-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119335-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119338-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119338-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119336-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158119336-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112167-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2158112167-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForCheckedOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    },
+    {
+      "color": "greenForCheckedOwner",
+      "name": "Собственник"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "4-комн. квартира",
+    "totalArea": "82,6 м²",
+    "floorInfo": "7/10 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Рижский проспект"
+      },
+      {
+        "key": "house",
+        "value": "22"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.816863,
+      "lng": 28.310307
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=4/spec=none/301367790/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_4",
+    "puid5": "obl_id_4605",
+    "puid8": 7700000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79116908371"
+  ],
+  "author": {
+    "realtyId": 104858933,
+    "cianId": 104858933,
+    "id": "ID 104858933",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 104858933
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "93 220 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

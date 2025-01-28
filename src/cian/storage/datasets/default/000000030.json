@@ -1,0 +1,180 @@
+{
+  "id": 308415103,
+  "cianId": 308415103,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "В продаже комфортная 2-комн. квартира в центральном районе города Великие Луки.\n\n РАЙОН. С отлично развитой инфраструктурой. В прямой доступности: кафе, рестораны, сетевые продуктовые магазины, школа, детские сады, остановки общественного транспорта, отделение банков, и многие другие важные объекты социальной инфраструктуры. \n\nО ДОМЕ. Полноценный кирпичный дом, с железобетонными перекрытиями. Аккуратный подъезд и придомовая территория. \n\nО КВАРТИРЕ. Улучшенная планировка квартиры. Раздельные комнаты. Отличная эргономик квартиры. Общ. площадь = 46.7 кв.м+ балкон (~2 кв.м). Окна заменены на ст/пакет.\n\nПросторная прихожая с нишей под гардеробную. Очень аккуратное состояние. Выполнен косметический ремонт. Натяжные потолки с точечным освещением. Напольное покрытие- ламинат/керамическая плитка. На стенах-обои. В сан.узле- установлена душевая, что делает помещение более просторным и функциональным. \n\nБалкон остеклен. Комфортный микроклимат в квартире.\n\nОФОРМЛЕНИЕ и РАСЧЕТ. Прозрачная история квартиры. В собств-ти семьи более 4-х лет. Нет никаких задолженностей или обременений. Прямая продажа. Подходит под любую форму расчета.\n\n Гарантия чистоты сделки и полное юридическое сопровождение.\n\nДОСТОЙНЫЙ ВАРИАНТ, за приемлемые средства. \n\nИдеально подходит, как для собственного проживания, так и для сдачи в аренду.\n\n Звоните, ответим на все вопросы и договоримся о просмотре.",
+  "vasTitle": "Уютная двушка с ремонтом",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159317-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159317-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241409-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241409-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241425-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241425-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159316-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159316-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241437-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241437-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159331-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159331-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159330-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159330-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159314-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159314-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241435-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292241435-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159326-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159326-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159346-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-velikie-luki-prospekt-lenina-2292159346-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "46,7 м²",
+    "floorInfo": "3/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Великие Луки",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "проспект Ленина"
+      },
+      {
+        "key": "house",
+        "value": "61"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.339038,
+      "lng": 30.541004
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4693/object_type=1/ga_obj_type=2/spec=company/308415103/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4693
+  },
+  "phones": [
+    "+79113603530"
+  ],
+  "author": {
+    "realtyId": 14016331,
+    "cianId": 14016331,
+    "id": "ID 14016331",
+    "displayName": "Expert Realty",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=392263&t=2&p=1&timestamp=1692082049",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 14016331
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "medium",
+      "levelName": "Хороший агент",
+      "levelOrder": 2,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": false
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "87 794 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

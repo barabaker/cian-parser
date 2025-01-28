@@ -1,0 +1,194 @@
+{
+  "id": 308230250,
+  "cianId": 308230250,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2300000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается уютная двухкомнатная квартира в Порхове, по адресу: Псковская область, Порхов, Псковская улица, 16. Общая площадь квартиры составляет 51.3 кв. м, жилая площадь — 28.3 кв. м. Квартира расположена на 5 этаже 5-этажного панельного дома, построенного в 1974 году. Площадь кухни — 8 кв. м, есть одна лоджия.\n\nВ квартире выполнен косметический ремонт, комнаты светлые и просторные. Кухня оборудована всей необходимой техникой, что делает приготовление пищи удобным и приятным. Планировка квартиры позволяет рационально использовать пространство. Санузел раздельный, что удобно для семьи.\n\nДом находится в хорошем состоянии, чистый подъезд, доброжелательные соседи. Рядом с домом есть парковочные места, поэтому проблем с парковкой не возникнет.\n\nПрямой договор купли-продажи, квартира без обременений и юридически чиста. Возможна покупка в ипотеку, что делает приобретение еще более доступным.\n\nПриглашаем вас на просмотр квартиры! Звоните и записывайтесь на удобное время, чтобы увидеть все преимущества этого предложения своими глазами.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754015-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754015-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288752274-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288752274-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754021-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754021-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754020-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754020-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754017-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754017-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754010-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754010-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288735870-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288735870-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754013-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754013-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754012-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754012-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754005-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754005-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754014-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-porhov-pskovskaya-ulica-2288754014-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "51,3 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Порхов",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Псковская улица"
+      },
+      {
+        "key": "house",
+        "value": "16"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.76184,
+      "lng": 29.552183
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175710/object_type=1/ga_obj_type=2/spec=company/308230250/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 2300000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175710
+  },
+  "phones": [
+    "+79113814257",
+    "+79813505132"
+  ],
+  "author": {
+    "realtyId": 96181113,
+    "cianId": 96181113,
+    "id": "ID 96181113",
+    "displayName": "СКОБАРЬ",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=53702259&t=2&p=1&timestamp=1737707105",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 96181113
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "44 834 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "brandingLevel": "secondLevel",
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

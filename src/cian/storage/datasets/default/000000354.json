@@ -1,0 +1,175 @@
+{
+  "id": 293870954,
+  "cianId": 293870954,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2400000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается уютная 3-х комнатная квартира, чистая,очень теплая и светлая,с ремонтом,не требует вложений.Окна стеклопакеты,заменены межкомнатные двери,двойные входные двери,первая дверь железная.Два балкона на обе стороны.Квартира не угловая,комнаты все большие и изолированные.Установленны новые счетчики на газ,ГВС,ХВС.Один собственник,в собственности более 13 лет.Напротив гимназия 11 классов,во дворе детская площадка и магазин.Спокойные доброжелательные соседи,в подьезде установлено видеонаблюдение.Продаю в связи с переездом в другой регион. Реальному покупателю торг.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150317-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150317-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150332-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150332-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150351-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150351-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150362-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150362-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779085-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779085-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150344-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1998150344-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779076-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779076-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779075-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779075-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779083-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-ostrov-aviacionnaya-ulica-1997779083-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "63 м²",
+    "floorInfo": "4/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Остров",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Авиационная улица"
+      },
+      {
+        "key": "house",
+        "value": "9"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.328521,
+      "lng": 28.356939
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=175617/object_type=1/ga_obj_type=3/spec=agent/293870954/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 2400000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 175617
+  },
+  "phones": [
+    "+79118906263",
+    "+79118906188"
+  ],
+  "author": {
+    "realtyId": 15511588,
+    "cianId": 15511588,
+    "id": "ID 15511588",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 15511588
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "38 095 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

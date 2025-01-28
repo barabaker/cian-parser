@@ -1,0 +1,211 @@
+{
+  "id": 312800813,
+  "cianId": 312800813,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3550000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продам 1-ую кв после ремонта по адресу Западная 20А. Этаж 2/5. Продаваемая площадь 37. Кухня 7. Отличное состояние. Двойная лоджия застеклена стеклопакетом. Ламинат, натяжные потолки, кафель в туалете и ванной, счётчики, новые двери, ст/пак. Свободна. Прямая продажа. \nЦена 3 550 000 руб.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797758-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797758-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2382823211-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2382823211-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792248-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792248-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797763-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797763-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797760-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797760-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797759-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797759-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792269-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792269-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792301-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792301-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797762-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797762-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797761-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797761-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797756-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797756-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797468-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797468-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797757-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797757-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792312-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382792312-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797755-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797755-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797459-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-zapadnaya-ulica-2382797459-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "37 м²",
+    "floorInfo": "2/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Западная улица"
+      },
+      {
+        "key": "house",
+        "value": "20А"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.818186,
+      "lng": 28.276953
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=company/312800813/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 3550000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813614521"
+  ],
+  "author": {
+    "realtyId": 72812771,
+    "cianId": 72812771,
+    "id": "ID 72812771",
+    "displayName": "Олимп",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=40586564&t=2&p=1&timestamp=1688988924",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 72812771
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "95 946 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

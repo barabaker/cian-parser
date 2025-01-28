@@ -1,0 +1,350 @@
+{
+  "id": 303721484,
+  "cianId": 303721484,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 19500000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Дом сдан в 2009 году\nВ подъезде 10 квартир\nПодъезд выходит на бульвар\nИдеально подходит для прогулок с ребенком или собакой вдоль тенистых алей и парках.\nКачественная сантехника,техника и мебель подобраны со вкусом и любовью для будущих собственников\nВся мебель и техника остается счастливому покупателю\nКвартира общей площадью 116.3 кв. м\nВысокие потолки 2,7 м\nФункциональная планировка.\nКвартира находится под вневедомственной охраной. \nСпутниковое ТВ. \nБольшая гардеробная с зеркалами.\nКухня 15 кв м\nКухонный гарнитур с техникой:\n•\tгазовая варочная стеклянная панель Siemens\n•\tвстроенный электрический духовой шкаф Siemens\n•\tвстроенная вытяжка Siemens\n•\tпосудомоечная машина Siemens\n•\tфильтр для очистки воды\n•\tгранитная мойка\n•\tхолодильник Whirlpool\n•\tмикроволновая печь Samsung\nПродуманы сценарии освещения и подсветки для создания уюта\nНа кухне комфортно встречать гостей или проводить семейные вечера.\nПросторная Гостиная  26.2кв.м.\n•\tбольшой угловой диван\n•\tвместительная система хранения\n•\tшкафы  витрина с подсветкой\n•\tкондиционер FUJITSU\nФункциональная спальня 13.0 кв.м оборудована :\n•\tширокая кровать 1800*2000\n•\tкосметический стол с зеркалом и ящиками для хранения\n•\tприкроватные тумбочки с настенными светильниками\n•\tтумба под телевизор с ящиками хранения\n•\tвыход на утепленную отделанную вагонкой лоджию 6кв.м. с шкафами для хранения\nДетская комната 13.3 кв.м оборудована:\n•     двухярусная кровать\n•\t система хранения для личных вещей\n•\t большой вместительный шкаф для одежды с зеркалами\nКабинет 15.6кв.м.\n•\tспальное место\n•\tрабочее место\n•\tвместительный шкаф-стенка\nДва санузла:\n1 санузел:\n•\tДушевая кабина с функцией турецкой бани, шотландский контрастный \n        гидромассажный душ, каскад, хромотерапия, радио.\n•\tподвесной унитаз и биде с инсталляцией\n•\tподвесная тумба с раковиной 900мм\n•\tшкаф-зеркало с подсветкой.\n•\tводонагреватель с wi-fi управлением со смартфона\n•\tстиральная машина Bosch\n2 санузел:\n•\tВанна : электронное управление, синусоидный гидроаэромассаж,ротативные \n        форсунки массажа ног,спинные форсунки, \n        хромотерапия,дезинфекция,автоматическая продувка и просушка после принятия \n        ванны\n•\tподвесной унитаз с инсталляцией\n•\tподвесная тумба с раковиной\n•\tшкаф-зеркало с подсветкой.\nДвери ( массив/стекло ) делались под заказ. \nСанузлы, кухня, прихожая  теплый пол ( плитка )\nОкна выходят на три стороны\nВ шаговой доступности: магазины, кафе, детские сады и школы, , стоматология, салоны красоты и рестораны, пункты выдачи Ozon, Wildberries\nДо центра города 10 минут\nДо Финский парка 10 минут \nШкола напротив\nСадик 5 минут\nКвартира с готовым ремонтом - экономия денег,сил и нервов. \nВам останется только завезти вещи и отметить новоселье!\nМаксимально простая ПОКУПКА\n1 адекватный взрослый собственник\nПрямая продажа.\nПолная сумма в договоре\nМаткап не использовался\nКвартира отлично подойдет для проживания семейной пары с детьми",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293412-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293412-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293454-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293454-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293415-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293415-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200253319-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200253319-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200253323-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200253323-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259007-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259007-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259022-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259022-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259020-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259020-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259044-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259044-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293482-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293482-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259059-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259059-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259105-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259105-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259120-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259120-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293406-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293406-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259155-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259155-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259180-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259180-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259165-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259165-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259217-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259217-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259211-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259211-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259219-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259219-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259244-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259244-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259226-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259226-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259263-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259263-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259266-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259266-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259283-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259283-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293468-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293468-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293490-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293490-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259314-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259314-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259329-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259329-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259346-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259346-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259364-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259364-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259393-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259393-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259408-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259408-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259419-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259419-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259443-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259443-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259457-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259457-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259471-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200259471-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293413-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293413-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293458-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293458-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262531-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262531-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262534-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262534-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262553-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262553-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262589-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262589-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262606-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262606-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262618-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200262618-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293419-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-pervomayskaya-ulica-2200293419-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForCheckedOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "greenForCheckedOwner",
+      "name": "Собственник"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "4-комн. квартира",
+    "totalArea": "116,3 м²",
+    "floorInfo": "2/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Первомайская улица"
+      },
+      {
+        "key": "house",
+        "value": "24"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.825663,
+      "lng": 28.337688
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=4/spec=none/303721484/from_developer=0/repres=0/owner=1/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_4",
+    "puid5": "obl_id_4605",
+    "puid8": 19500000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79813505490"
+  ],
+  "author": {
+    "realtyId": 118167654,
+    "cianId": 118167654,
+    "id": "ID 118167654",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 118167654
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "167 670 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

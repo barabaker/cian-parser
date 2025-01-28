@@ -1,0 +1,155 @@
+{
+  "id": 307306104,
+  "cianId": 307306104,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "newBuildingFlatSale",
+  "price": {
+    "value": 6190000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "договор уступки права требования",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Новый дом на улице Балтийская 9, возводится по кирпично-монолитной технологии, что обеспечит будущим собственникам комфортное проживание. Благодаря экологичности состава, технология строительства не подвержена влиянию грибков и микроорганизмов.\n\nВ доме спроектировано 2 подъезда с 88 квартирами. Каждый подъезд будет оборудован обновленной входной группой, предназначенной для комфортного передвижения маломобильной группы населения. Специальный лифт поможет подняться даже на 1 этаж. \n\nДом оборудован собственной газовой котельной.\n\nПродам трехкомнатную квартиру на 7 этаже !Площадь 75 метров.\n\nПодходит под любые виды расчета (включая обмен )\n\nВзрослый собственник.\n\nПрямая продажа\n\nЗвоните в удобное для вас время!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-baltiyskaya-ulica-2267659083-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/novostroyka-borisovichi-baltiyskaya-ulica-2267659083-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "73 м²",
+    "floorInfo": "2/9 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 9",
+    "deadline": "сдача в 2 квартале 2025",
+    "deadlineShort": "сдача в 2 кв. 2025"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Балтийская"
+      },
+      {
+        "key": "house",
+        "value": "13"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-sportivnyy-kvartal-pskov-i.cian.ru/",
+      "name": "ЖК «Спортивный квартал»"
+    },
+    "coordinates": {
+      "lat": 57.81194845355875,
+      "lng": 28.262212072732385
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=2/ga_obj_type=3/spec=agent/307306104/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_first",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 6190000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79113815158"
+  ],
+  "author": {
+    "realtyId": 107018519,
+    "cianId": 107018519,
+    "id": "ID 107018519",
+    "displayName": "Эмин Мушталиев",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 107018519
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": false
+      }
+    },
+    "builderPageUrl": "https://cian.ru/zastroishchik-emin-mushtaliev-11938/"
+  },
+  "isFavorite": false,
+  "additionalPrice": "84 795 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 42211,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

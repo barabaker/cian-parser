@@ -1,0 +1,220 @@
+{
+  "id": 260895598,
+  "cianId": 260895598,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4850000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Квартира с отличным ремонтом: трубы новые, натяжные потолки, плитка в ванне, прихожей. В комнатах ламинат. Заезжайте и живите.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363198270-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363198270-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/62/914/211/kvartira-pskov-ulica-kiseleva-1124192622-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/62/914/211/kvartira-pskov-ulica-kiseleva-1124192622-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192819-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192819-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192828-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192828-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192834-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192834-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192800-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192800-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192829-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192829-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192833-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192833-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192820-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192820-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192835-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192835-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192836-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/82/914/211/kvartira-pskov-ulica-kiseleva-1124192836-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922184-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922184-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922186-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922186-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922187-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922187-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922188-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2051922188-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363199795-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363199795-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363199798-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363199798-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363199824-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363199824-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363198277-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kiseleva-2363198277-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "47 м²",
+    "floorInfo": "3/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Киселева"
+      },
+      {
+        "key": "house",
+        "value": "15"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.816637,
+      "lng": 28.312553
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/260895598/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4850000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118900706"
+  ],
+  "author": {
+    "realtyId": 13996806,
+    "cianId": 13996806,
+    "id": "ID 13996806",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 13996806
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "103 191 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

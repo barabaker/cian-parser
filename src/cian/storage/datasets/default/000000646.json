@@ -1,0 +1,213 @@
+{
+  "id": 311405900,
+  "cianId": 311405900,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 8400000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продаем 3-комнатную квартиру с дизайнерским ремонтом и видом на памятник А.Невского в новом доме 2022 года постройки в современном жилом комплексе \"Александрия\", расположенном в развивающемся микрорайоне по ул. Загородная, д.11. \nцена актуальна до конца месяцаОтличный вариант для молодой семьи 4-5 человек. Концепция комплекса-двор без машин, вход в подъезд осуществляется с двух сторон, поэтому вы можете спокойно выпустить ребенка во двор, оборудованный детскими площадками, тренажерами и зонами отдыха. В шаговой доступности детский сад, школа, сетевые магазины, автобусные остановки, пункты выдачи, и прочие объекты для комфортной жизни. Также в этом году открылся пляж-акваклуб Белый песок всего в 10 минутах ходьбы от дома. Квартира евро-планировки общей площадью 72.5 кв.м, с просторной кухней-гостиной 25.6кв.м., тремя комнатами по 10 кв.м, и гардеробной зоной 3.3 кв.мКвартира продается с оборудованной кухней-гостиной встроенной техникой, посудомоечной машиной, холодильником samsung, стиральной машиной LgОдин взрослый собственник. Работаем с зачетом на ваше жилье, помогаем в одобрении ипотеки.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987021-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987021-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987914-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987914-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987043-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987043-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979134-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979134-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987922-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987922-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979165-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979165-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987917-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987917-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987916-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987916-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987918-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987918-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979447-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979447-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987912-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353987912-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979473-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-hoticy-zagorodnaya-ulica-2353979473-4.jpg",
+      "type": "layout"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "3-комн. квартира",
+    "totalArea": "73 м²",
+    "floorInfo": "2/10 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 11 - Позиция 3",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Писковичская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Хотицы",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Загородная"
+      },
+      {
+        "key": "house",
+        "value": "11"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-aleksandriya-pskov-i.cian.ru/",
+      "name": "ЖК «Александрия»"
+    },
+    "coordinates": {
+      "lat": 57.839765,
+      "lng": 28.284418
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148027/object_type=1/ga_obj_type=3/spec=company/311405900/from_developer=0/repres=0/owner=0/pod_snos=0/nv=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_3",
+    "puid5": "obl_id_4605",
+    "puid8": 8400000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148027
+  },
+  "phones": [
+    "+79113504588"
+  ],
+  "author": {
+    "realtyId": 13670627,
+    "cianId": 13670627,
+    "id": "ID 13670627",
+    "displayName": "PRO ESTATE",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=348960&t=2&p=1&timestamp=1588785710",
+    "isHonest": false,
+    "isPro": true,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T19:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 19:00.",
+      "userId": 13670627
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "115 068 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 2825808,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

@@ -1,0 +1,203 @@
+{
+  "id": 312683749,
+  "cianId": 312683749,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3150000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продаётся уютная двухкомнатная квартира площадью 43.7 квадратных метров на третьем этаже пятиэтажного панельного дома, расположенного по адресу: город Псков, улица Красноармейская, дом 33. Дом построен в 1970 году и окружён развитой инфраструктурой, включающей школу и детский сад, что делает его идеальным выбором для семей с детьми.\n\nКвартира обладает жилой площадью 30 квадратных метров и функциональной кухней размером 6 квадратных метров. Наличие балкона добавляет дополнительное пространство для отдыха и возможность наслаждаться видами на тихий двор. Санузел совмещённый, что является удобством для многих покупателей.\n\nХотя квартира требует ремонта, это открывает прекрасную возможность обустроить её под свой вкус и потребности. Также это хороший вариант для инвестиций с целью ремонта и последующей перепродажи.\n\nДля маленьких жителей во дворе установлена детская площадка, а парковка предусмотрена прямо у дома, что немаловажно для автовладельцев. Безопасность жильцов обеспечивается наличием домофона.\n\nНа квартире нет никаких ограничений, обременений и долгов, что значительно упрощает процесс ее оформления в собственность нового владельца.\n\nЭтот вариант станет отличным решением как для молодых людей, так и для семей, ценящих комфорт и удобство городской жизни. Приглашаем вас ознакомиться с квартирой и убедиться во всех её преимуществах лично!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621753-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621753-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611903-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611903-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611907-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611907-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621986-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621986-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611936-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611936-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621750-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621750-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621749-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621749-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611970-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380611970-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380622094-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380622094-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380612000-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380612000-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621747-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621747-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621737-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621737-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380622025-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380622025-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380622053-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380622053-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621751-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-krasnoarmeyskaya-ulica-2380621751-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "43,7 м²",
+    "floorInfo": "3/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Красноармейская улица"
+      },
+      {
+        "key": "house",
+        "value": "33"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.810625,
+      "lng": 28.309095
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=2/spec=agent/312683749/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3150000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79116905450"
+  ],
+  "author": {
+    "realtyId": 46103482,
+    "cianId": 46103482,
+    "id": "ID 46103482",
+    "displayName": "Анна Вишнякова",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 46103482
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "72 082 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

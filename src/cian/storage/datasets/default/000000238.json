@@ -1,0 +1,232 @@
+{
+  "id": 309970417,
+  "cianId": 309970417,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2800000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа"
+  },
+  "icons": [],
+  "description": "Продается однокомнатная квартира в Псковском районе, деревня Череха!\n- Общая площадь: 31,6 кв. М.\n- Площадь кухни: 6 кв. М.\n- Площадь комнаты: 17 кв. М.\n- Этаж: 5 из 5 (панельный дом).\n- Окна: пластиковые, выходят во двор.\n- Балкон: из комнаты.\n- Коммуникации: центральный газ и вода.\n- Санузел: совмещенный.\nОписание:\nКвартира расположена в тихом зелёном дворе с хвойными деревьями. В шаговой доступности находится санаторий и река Череха с пляжем. В окрестностях есть магазины и хорошо развитое автобусное сообщение.\nДополнительно:\nКвартира продается с мебелью и техникой.\nПрямая продажа. Один взрослый собственник.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626287-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626287-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626272-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626272-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626274-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626274-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626273-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626273-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626283-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626283-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626270-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626270-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626279-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626279-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626271-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626271-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626280-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626280-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626284-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626284-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626267-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626267-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626268-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626268-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626285-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626285-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324632057-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324632057-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626276-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626276-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626266-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626266-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626286-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626286-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626275-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626275-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626277-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626277-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626269-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626269-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626281-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626281-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2324626278-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2324626278-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "31 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Ядровская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Череха",
+        "locationTypeId": 161
+      },
+      {
+        "key": "house",
+        "value": "138"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.750354,
+      "lng": 28.369057
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148249/object_type=1/ga_obj_type=1/spec=none/309970417/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2800000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148249
+  },
+  "phones": [
+    "+79116908224"
+  ],
+  "author": {
+    "realtyId": 87606566,
+    "cianId": 87606566,
+    "id": "ID 87606566",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 87606566
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "90 323 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

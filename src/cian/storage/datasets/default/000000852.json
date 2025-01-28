@@ -1,0 +1,190 @@
+{
+  "id": 308692775,
+  "cianId": 308692775,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2950000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "Продается пpoсторная , теплая квартира - студия, рaспoлoженнaя нa ул. Михайловская д.1. Pядoм c улицaми ул. Байкова, ул. Западная, ул. Коммунальная.\n\nОбщaя площaдь 25,8 кв.м.\nЖилaя плoщaдь 19,8 кв.м.\n\nЛоджия 7.2 кв.м !\nСовмещенный санузел.\nTёплая, cвeтлая квартира - студия , общая площадь с лоджией - 33 кв.м. Не торцевая. Кухня - гостиная почти 20 кв.м - прекрасная возможность разделения на разные зоны. Большая лоджия 7,2 кв.м. , остеклена , проведено электричество, при желании можно сделать дополнительное жилое место. Высокие потолки 2,8 м! За счет этого квартира кажется светлее и просторнее. Окна ПВХ. В санузле заменены все трубы, полотенцесушитель. Стоят водные счетчики. Чистый подъезд, хорошая управляющая компания. Имеется два лифта грузовой и пассажирский. \n\nПридворовая территория: ежедневно убирается, имеются современные детская и спортивная площадки, парковочная зона, подземный паркинг.\n\nПрекрасный район с развитой инфраструктурой: рядом школа ППК 26, детский сад, магазин пятерочка , аптека, магнит, WB,ozon, клиника, кафе, бассейн \"Оазис\". Удобная транспортная развязка, вы доберетесь в любую точку города. Благоустроенные, современные детские площадки, спортивная площадка. Отличный район для проживания с комфортом.\n\n\nКвартира готова к продаже , под любые виды расчёта.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/2298656275-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298656275-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2298656271-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298656271-4.jpg",
+      "type": "layout"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2298728883-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298728883-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2298728884-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298728884-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2298656278-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298656278-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2298656279-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298656279-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2298742988-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298742988-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/2298656276-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/2298656276-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "greenForSuperAgent",
+      "name": "Суперагент"
+    },
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "red",
+      "name": "Высокий спрос"
+    }
+  ],
+  "features": {
+    "objectType": "Студия",
+    "totalArea": "25 м²",
+    "floorInfo": "4/13 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Борисовичи",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Михайловская"
+      },
+      {
+        "key": "house",
+        "value": "1"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.820122,
+      "lng": 28.2738
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148033/object_type=1/ga_obj_type=9/spec=agent/308692775/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid5": "obl_id_4605",
+    "puid8": 2950000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148033
+  },
+  "phones": [
+    "+79813505465"
+  ],
+  "author": {
+    "realtyId": 7237930,
+    "cianId": 7505922,
+    "id": "ID 7505922",
+    "displayName": "Ирина Малащенкова",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=54356731&t=2&p=1&timestamp=1707500183",
+    "isHonest": true,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 7237930
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "max",
+      "levelName": "Суперагент",
+      "levelOrder": 4,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": true,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "118 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

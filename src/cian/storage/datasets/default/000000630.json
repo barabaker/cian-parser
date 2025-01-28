@@ -1,0 +1,188 @@
+{
+  "id": 308006659,
+  "cianId": 308006659,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 3600000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [
+    "fairPlay"
+  ],
+  "description": "ЦЕНА СHИЖEHА!!!\n\nдеревня Рoдина, ул. Hаберeжная 4, 5(5), н/пл.,прямой вариaнт, S oбщaя 46.2 кв.м., кoмнaты раздельнo, куxня 6.0 кв.м., c/у рaздeльно, вce кoммуникaции центpальные, стеклoпaкeты, двойнoй бaлкoн (не заcтeклeн), oбычнoe cоcтояниe, прямая пpодaжa, квартирa свoбoдна от проживaния. \n\nВ пocелкe еcть свoя инфрастуктура: сеть магазинов, досуговый центр (Клуб), детский садик, общеобразовательная школа, регулярное автобусное сообщение, рядом река Великая, парковая зона, детские игровые площадки и прочее.\n\nЕсть вопросы - звоните, пишите",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2311010501-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2311010501-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2310980207-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2310980207-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749444-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749444-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2311010514-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2311010514-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284801456-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284801456-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749462-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749462-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749461-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749461-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749465-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749465-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749470-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749470-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749472-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-rodina-naberezhnaya-ulica-2284749472-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "46,2 м²",
+    "floorInfo": "5/5 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псковский район",
+        "locationTypeId": 141
+      },
+      {
+        "key": "location",
+        "value": "Завеличенская волость",
+        "locationTypeId": 144
+      },
+      {
+        "key": "location",
+        "value": "д. Родина",
+        "locationTypeId": 161
+      },
+      {
+        "key": "street",
+        "value": "улица Набережная"
+      },
+      {
+        "key": "house",
+        "value": "4"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.831812,
+      "lng": 28.253237
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1148096/object_type=1/ga_obj_type=2/spec=agent/308006659/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 3600000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148096
+  },
+  "phones": [
+    "+79813506353"
+  ],
+  "author": {
+    "realtyId": 20115937,
+    "cianId": 20115937,
+    "id": "ID 20115937",
+    "displayName": "Светлана Сумеркина",
+    "isHonest": true,
+    "isPro": true,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 20115937
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": true,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "77 922 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

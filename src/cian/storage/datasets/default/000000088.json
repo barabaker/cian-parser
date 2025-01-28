@@ -1,0 +1,219 @@
+{
+  "id": 301787261,
+  "cianId": 301787261,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 823500,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Небольшая уютная квартира, в историческом центре  Себежа. Проведена вода,  канализация. Отопление печное. Окна пластиковые, присутствует небольшой подпол для кладовки.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165392998-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165392998-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379651-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379651-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379607-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379607-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379654-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379654-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379661-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379661-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165414348-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165414348-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165393000-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165393000-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379593-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379593-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379660-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379660-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379652-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379652-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379656-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379656-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165392682-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165392682-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379626-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379626-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165355287-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165355287-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379585-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379585-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379617-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-sebezh-sovetskaya-ulica-2165379617-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "18,3 м²",
+    "floorInfo": "1/2 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Себеж муниципальное образование",
+        "locationTypeId": 279
+      },
+      {
+        "key": "location",
+        "value": "Себеж г.",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Советская улица"
+      },
+      {
+        "key": "house",
+        "value": "23"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.276583,
+      "lng": 28.500418
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1156725/object_type=1/ga_obj_type=1/spec=none/301787261/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 823500,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 480324
+  },
+  "phones": [
+    "+79113803872"
+  ],
+  "author": {
+    "realtyId": 16295814,
+    "cianId": 16295814,
+    "id": "ID 16295814",
+    "avatar": "https://www.cian.ru/api/get-avatar/?i=2519863&t=2&p=1&timestamp=1633508175",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:00+03:00",
+      "availableTo": "2025-01-29T21:00:00+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:00.",
+      "userId": 16295814
+    },
+    "isChatsEnabled": true,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "45 000 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

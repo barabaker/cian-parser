@@ -1,0 +1,174 @@
+{
+  "id": 310344969,
+  "cianId": 310344969,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2850000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "альтернатива",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается однокомнатная квартира, перекресток Рижского проспекта и Юбилейной улицы, новая планировка, стекло пакеты, входная железная дверь, лоджия отремонтирована, в остальном требует ремонта.  Один взрослый собственник. 2 850 000.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506191-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506191-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506203-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506203-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506235-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506235-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506246-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506246-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331501821-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331501821-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331501867-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331501867-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506223-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506223-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331501920-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331501920-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506227-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-rizhskiy-prospekt-2331506227-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "32,5 м²",
+    "floorInfo": "3/9 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Рижский проспект"
+      },
+      {
+        "key": "house",
+        "value": "53"
+      }
+    ],
+    "coordinates": {
+      "lat": 57.813934,
+      "lng": 28.291398
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=agent/310344969/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2850000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79118904193"
+  ],
+  "author": {
+    "realtyId": 23474010,
+    "cianId": 23474010,
+    "id": "ID 23474010",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 23474010
+    },
+    "isChatsEnabled": false,
+    "agentLists": [],
+    "qualityLevelInfo": {
+      "levelSystemName": "high",
+      "levelName": "Надёжный агент",
+      "levelOrder": 3,
+      "hasVerifiedDocuments": false,
+      "highResponsibility": true
+    },
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "87 692 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

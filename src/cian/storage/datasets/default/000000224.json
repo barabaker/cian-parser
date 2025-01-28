@@ -1,0 +1,181 @@
+{
+  "id": 304881410,
+  "cianId": 304881410,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 4100000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Продается уютная 2-комнатная квартира с евроремонтом в новостройке! Расположена в тихом и спокойном районе по адресу: Псковская область, муниципальное образование Новосокольники, Новосокольники, улица Матросова, 11. Общая площадь квартиры составляет 60 кв. м, жилая площадь — 45 кв. м, кухня — 7 кв. м. Квартира находится на 3-м этаже 4-этажного дома, построенного в 2023 году. Высота потолков составляет 2,89 метра.\n\nКвартира имеет продуманную планировку и современный евроремонт. Все комнаты светлые и просторные. Также имеется гардеробная комната. В квартире есть совмещенный санузел, что очень удобно для семьи. Окна выходят как на улицу, так и во двор, поэтому всегда будет доступ к свежему воздуху и природному свету. Также есть 2 лоджии, где можно организовать уютное место для отдыха.\n\nДом новый, в отличном состоянии, с наземной парковкой, поэтому всегда можно найти место для автомобиля. В доме проведены все необходимые коммуникации, поэтому можно не беспокоиться о бытовых неудобствах.\n\nРайон, в котором находится квартира, отлично подходит для семейного проживания. В пешей доступности есть школы, детские сады, магазины, что очень удобно для повседневной жизни.  В шаговой доступности  находятся автовокзал , ж/д вокзал.\n\nУсловия сделки: квартира продается по договору купли-продажи. Возможна ипотека ( Квартира соответствует требованиям \"Сельской ипотеки - 3 %\"). Юридически квартира чиста, без обременений. Цена от застройщика!Возможен торг!\n\nПриезжайте на просмотр! Записывайтесь по телефону и убедитесь сами в преимуществе этого предложения!",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552783-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552783-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552788-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552788-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222542150-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222542150-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552780-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552780-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552772-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552772-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552823-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552823-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552773-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552773-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552771-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552771-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552779-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552779-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552826-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552826-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552776-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-novosokolniki-matrosova-ulica-2222552776-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabels": [
+    {
+      "color": "blueOnlyCian",
+      "name": "Только на Циан"
+    }
+  ],
+  "features": {
+    "objectType": "2-комн. квартира",
+    "totalArea": "60 м²",
+    "floorInfo": "3/4 этаж"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Новосокольники муниципальное образование",
+        "locationTypeId": 279
+      },
+      {
+        "key": "location",
+        "value": "Новосокольники г.",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "улица Матросова"
+      },
+      {
+        "key": "house",
+        "value": "11"
+      }
+    ],
+    "coordinates": {
+      "lat": 56.345075,
+      "lng": 30.150039
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=1181765/object_type=1/ga_obj_type=2/spec=none/304881410/from_developer=0/repres=0/owner=0/pod_snos=0/",
+  "isPromoted": false,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_2",
+    "puid5": "obl_id_4605",
+    "puid8": 4100000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 1148083
+  },
+  "phones": [
+    "+79113514372"
+  ],
+  "author": {
+    "realtyId": 15767793,
+    "cianId": 15767793,
+    "id": "ID 15767793",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "agentAvailability": {
+      "available": false,
+      "availableFrom": "2025-01-29T09:00:07+03:00",
+      "availableTo": "2025-01-29T21:45:17+03:00",
+      "message": "Напишите ему или позвоните завтра.",
+      "title": "Специалист работает с 9:00 по 21:45.",
+      "userId": 15767793
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": false,
+      "qualityLevelInfo": {
+        "showSuperAgent": false,
+        "showSuperHost": false,
+        "showHighResponsibility": true
+      }
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "68 333 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}

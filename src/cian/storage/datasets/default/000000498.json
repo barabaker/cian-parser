@@ -1,0 +1,233 @@
+{
+  "id": 310967811,
+  "cianId": 310967811,
+  "dealType": "sale",
+  "offerType": "flat",
+  "category": "flatSale",
+  "price": {
+    "value": 2900000,
+    "currency": "rur"
+  },
+  "offerInfo": {
+    "saleType": "свободная продажа",
+    "mortgage": "возможна ипотека"
+  },
+  "icons": [],
+  "description": "Если на звонок не ответил, напишите пожалуйста смс, либо перезвоните после 20:30!! \n\nПродается однокомнатная квартира по адресу: Псков, улица Народная, д. 15. Площадь квартиры составляет 35.8 кв. м, из которых 15.8 кв. м приходится на жилую зону и 11.6 кв. м на просторную кухню. Квартира расположена на 8 этаже 8-этажного панельного дома, построенного в 2013 году. Высокие потолки 3 метра добавляют ощущение простора.\n\nКвартира без ремонта, что дает отличную возможность воплотить все свои дизайнерские идеи и создать пространство по своему вкусу. Планировка включает совмещенный санузел и окна, выходящие во двор, что гарантирует тишину и уединение.\n\nДом оборудован двумя пассажирскими лифтами и наземной парковкой, что удобно для автовладельцев. Инфраструктура дома в отличном состоянии, что делает проживание комфортным и безопасным.\n\nРядом с домом находятся все необходимые объекты инфраструктуры: школы, детские сады, клиники и магазины, что делает это место идеальным для семейного проживания. Хорошая транспортная доступность позволяет быстро добраться в любую часть города.\n\nКвартира продается без обременений, что облегчает процесс приобретения в ипотеку. Все документы готовы к сделке, поэтому оформление пройдет максимально быстро и удобно.",
+  "media": [
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220829-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220829-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220843-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220843-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220834-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220834-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220831-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220831-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220827-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220827-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220756-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220756-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220751-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220751-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220836-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220836-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220842-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220842-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220839-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220839-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220832-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220832-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220830-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220830-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220841-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220841-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220833-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220833-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220835-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220835-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220838-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220838-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344216914-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344216914-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220840-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220840-4.jpg",
+      "type": "photo"
+    },
+    {
+      "url": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220837-1.jpg",
+      "previewUrl": "https://images.cdn-cian.ru/images/kvartira-pskov-ulica-kuzbasskoy-divizii-2344220837-4.jpg",
+      "type": "photo"
+    }
+  ],
+  "photoLabel": {
+    "color": "greenForCheckedOwner",
+    "name": "Собственник"
+  },
+  "photoLabels": [
+    {
+      "color": "blueGoodPrice",
+      "name": "Хорошая цена"
+    },
+    {
+      "color": "greenForCheckedOwner",
+      "name": "Собственник"
+    },
+    {
+      "color": "grey",
+      "name": "Проверено в Росреестре"
+    }
+  ],
+  "features": {
+    "objectType": "1-комн. квартира",
+    "totalArea": "35,8 м²",
+    "floorInfo": "8/8 этаж"
+  },
+  "building": {
+    "verifiedByCian": false,
+    "houseName": "корпус Дом 15",
+    "deadline": "корпус сдан",
+    "deadlineShort": "корпус сдан"
+  },
+  "geo": {
+    "regionId": 4605,
+    "undergrounds": [],
+    "highways": [],
+    "address": [
+      {
+        "key": "location",
+        "value": "Псковская область",
+        "locationTypeId": 2
+      },
+      {
+        "key": "location",
+        "value": "Псков",
+        "locationTypeId": 1
+      },
+      {
+        "key": "street",
+        "value": "Народная улица"
+      },
+      {
+        "key": "house",
+        "value": "15"
+      }
+    ],
+    "title": {
+      "link": "https://zhk-prioritet-pskov-i.cian.ru/",
+      "name": "ЖК «Приоритет»"
+    },
+    "coordinates": {
+      "lat": 57.822505,
+      "lng": 28.303363
+    },
+    "timezone": 3
+  },
+  "gaLabel": "/sale/flat/mo_id=0/obl_id=4605/city_id=4946/object_type=1/ga_obj_type=1/spec=none/310967811/from_developer=0/repres=0/owner=1/pod_snos=0/nv=0/",
+  "isPromoted": true,
+  "isColorized": false,
+  "puids": {
+    "puid1": "deal_type_sale",
+    "puid2": "offer_flat",
+    "puid3": "sale_type_second",
+    "puid4": "offer_type_1",
+    "puid5": "obl_id_4605",
+    "puid8": 2900000,
+    "puid10": "no_agent",
+    "puid16": "false",
+    "puid17": "false",
+    "puid36": 4946
+  },
+  "phones": [
+    "+79113605697",
+    "+79113813472"
+  ],
+  "author": {
+    "realtyId": 57488776,
+    "cianId": 57488776,
+    "id": "ID 57488776",
+    "isHonest": false,
+    "isPro": false,
+    "isPartner": false,
+    "isFromBuilder": false,
+    "isFromLeadFactory": false,
+    "agentAvailability": {
+      "available": true,
+      "userId": 57488776
+    },
+    "isChatsEnabled": true,
+    "moderationInfo": {
+      "showUserIdentifiedByDocuments": true
+    }
+  },
+  "isFavorite": false,
+  "additionalPrice": "81 006 ₽/м²",
+  "newbuildingDynamicCalltracking": {},
+  "fromImport": false,
+  "newbuildingId": 42236,
+  "isViewedOffer": false,
+  "showWarningMessage": false,
+  "isCalltrackingEnabled": true,
+  "moderationInfo": {
+    "showContactWarningMessage": false
+  },
+  "hasTour": false,
+  "isExternalTourAvailable": false,
+  "photoFeatureIcons": [],
+  "isCianPartner": false,
+  "isRosreestrChecked": false,
+  "villageMortgageAllowed": false,
+  "callButtonTitle": "Позвонить",
+  "isBookedFromDeveloper": false
+}
