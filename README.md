@@ -1,13 +1,5 @@
 # https://www.cian.ru/
 
-## Описание работы парсера 
-
-Глобально парсер можно разделить:
-- квартиры `'offer_type': 'flat'`
-- дома, дачи, участки, котеджи `'offer_type': 'suburban'`
-
-Для получения всех **id** объявлений в конкретном регионе используем **bbox**\
-
 
 ```python
 {'text': 'Москва', 'id': 1}
@@ -118,14 +110,4 @@ params = {
 url = 'https://api.cian.ru/mobile-search-frontend/v1/get-results-for-map'
 
 response = requests.get(url = url, params = params, headers = headers)
-```
-
-Далее обнаруживаем что можно получить json кликнув по кнопке **ПОКАЗАТЬ ЕЩЕ**
-
-
-```
-docker-compose up -d
-
-docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=admin" -p 1433:1433 --name sql1 --hostname sql1 -d mcr.microsoft.com/mssql/server:2022-latest
-
 ```

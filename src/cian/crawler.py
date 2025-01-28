@@ -25,21 +25,8 @@ API_URL = "https://api.cian.ru/search-engine/v1/search-offers-mobile-site/"
 MAX_PAGES = 50
 MIN_BBOX_SIZE = 0.001  # ~100 meters
 PROXY_URLS = [
-    "http://uSxBhB:Ci4ZIXyrcR@188.130.128.226:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@109.248.204.178:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@188.130.128.243:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@188.130.128.226:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@109.248.204.178:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@188.130.128.243:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@45.86.0.17:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@109.248.15.143:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@45.15.72.152:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@188.130.185.104:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@188.130.136.101:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@95.182.125.210:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@45.86.1.238:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@109.248.205.101:1050",
-    "http://uSxBhB:Ci4ZIXyrcR@188.130.185.117:1050",
+    "http://user:password@188.130.128.222:1050",
+    # add more proxy
 ]
 
 # Configure logging
