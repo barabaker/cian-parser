@@ -1,5 +1,26 @@
 # https://www.cian.ru/
 
+##  Как это работает
+Данные получаем с endpointa https://api.cian.ru/search-engine/v1/search-offers-mobile-site/
+передав в *POST* запросе следующие данные   
+
+```
+    payload = {
+        "jsonQuery": {
+            "_type": f"{work.offer_type}sale",
+            "engine_version": {"type": "term", "value": 2},
+            'region': {
+                'type': 'terms',
+                'value': work.subject_id,
+            },
+            "bbox": {
+                "type": "term",
+                "value": work.bbox
+            },
+            "page": {"type": "term", "value": work.page},
+        }
+    }
+```
 
 ```python
 {'text': 'Москва', 'id': 1}
@@ -89,6 +110,9 @@
 {'text': 'Ярославская область', 'id': 4636}
 ```
 
+После 56 страницы данные перестают приходить как это можно обойти следующим образом делим bbox на более мелкие части что-бы в запрашиваемой области карты было не более **1568 offers**
+
+
 ```python
 # получаем дома, дачи, участки, коттеджи в Ярославской области
 import requests
@@ -110,4 +134,5 @@ params = {
 url = 'https://api.cian.ru/mobile-search-frontend/v1/get-results-for-map'
 
 response = requests.get(url = url, params = params, headers = headers)
+
 ```
