@@ -1,67 +1,61 @@
-import json
-import asyncio
-import logging
-import aiohttp
+import sys
 import base64
+import asyncio
+
+from curl_cffi.requests import AsyncSession
 from core.mongo import database
+from core.logger import logger
+from region import manager
 
 
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[logging.StreamHandler()],
-)
-
-logger = logging.getLogger(__name__)
+if sys.platform == "win32":
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 
-def read_json(json_file_path):
-    with open(json_file_path, mode='r', encoding='utf-8') as json_file:
-        data = json.load(json_file)
-    return data
-
-
-async def get_latest_updated_documents(collection, limit = 10):
-
+async def get_latest_updated_documents(collection, limit = 1000):
     cursor = collection.find({"updated_at": {"$exists": True}}).sort("updated_at", -1).limit(limit)
-
     async for document in cursor:
         yield document
 
-
-
 # Функция для загрузки изображения по URL и преобразования в base64
-async def download_image_as_base64(url):
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url) as response:
-            if response.status == 200:
-                image_data = await response.read()  # Скачиваем бинарные данные
-                return base64.b64encode(image_data).decode("utf-8")  # Кодируем в base64
-            else:
-                print(f"Ошибка при загрузке изображения: {url}")
-                return None
+async def download_image_as_base64(url, semaphore):
+    async with semaphore:  # Ограничиваем количество одновременных запросов
+        try:
+            async with AsyncSession() as session:
+                response = await session.get(url)
+                if response.status_code == 200:
+                    image_data = response.content  # Получаем бинарные данные
+                    return base64.b64encode(image_data).decode("utf-8")  # Кодируем в base64
+                else:
+                    logger.error(f"Ошибка при загрузке изображения: {url}, статус: {response.status_code}")
+                    return None
+        except Exception as e:
+            logger.error(f"Ошибка при загрузке изображения {url}: {e}")
+            return None
+
 
 async def start():
+    for region in manager.get_all_regions():
+        logger.info(f"---- START MEDIA LOADER ----->  {region.id} - {region.name}------")
 
-    all_subject = read_json('start_data.json')
+        collection = database[region.id]
 
-    for item in all_subject:
-        logger.info(f"---- START MEDIA LOADER ------")
-        logger.info(f"---- {item.get('id')} - {item.get('name')}------")
-        collection = database[item.get("id")]
+        semaphore = asyncio.Semaphore(10)
 
-        async for doc in get_latest_updated_documents(collection = collection, limit = 100):
+        async for doc in get_latest_updated_documents(collection = collection):
 
-            for media in doc.get('media'):
-                url = media.get('url')
-                print(url)
+            tasks = []
 
-                # image_base64 = await download_image_as_base64(url = url)
-                # print(image_base64)
+            for media in doc.get("media", []):
+                url = media.get("url")
+                task = asyncio.create_task(download_image_as_base64(url, semaphore))
+                tasks.append(task)
 
-        logger.info(f"---- STOP MEDIA LOADER ---- ")
+            results = await asyncio.gather(*tasks, return_exceptions = True)
+            for i, img in enumerate(results):
+                print(i, img)
 
+        logger.info(f"---- STOP MEDIA LOADER-----> {region.id} - {region.name}------")
 
 
 if __name__ == "__main__":
