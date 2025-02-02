@@ -353,6 +353,8 @@ dependencies = [
     { name = "backoff" },
     { name = "crawlee", extra = ["all"] },
     { name = "curl-cffi" },
+    { name = "deepdiff" },
+    { name = "motor" },
     { name = "orjson" },
     { name = "playwright" },
     { name = "pydantic" },
@@ -373,6 +375,8 @@ requires-dist = [
     { name = "backoff", specifier = ">=2.2.1" },
     { name = "crawlee", extras = ["all"], specifier = ">=0.5.2" },
     { name = "curl-cffi", specifier = ">=0.7.4" },
+    { name = "deepdiff", specifier = ">=8.1.1" },
+    { name = "motor", specifier = ">=3.7.0" },
     { name = "orjson", specifier = ">=3.10.15" },
     { name = "playwright", specifier = ">=1.49.1" },
     { name = "pydantic", specifier = ">=2.10.6" },
@@ -523,6 +527,18 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/1b/7e/a9ba49576373e26169e163878cbb8d4e02cfabf3694c686e22243c12f0dd/curl_cffi-0.7.4-cp38-abi3-musllinux_1_1_x86_64.whl", hash = "sha256:9957464013b1f76b0e9259ab846fa60faef7ff08e96e7a1764dd63c83005b836", size = 6004845 },
     { url = "https://files.pythonhosted.org/packages/c8/d3/79175cf310f0b1c7149e5a2f25cba997aec83a2bcedc85c744a6456e33af/curl_cffi-0.7.4-cp38-abi3-win32.whl", hash = "sha256:8e9019cf6996bf508e4a51751d7217f22d5902405878679a3ac4757159251741", size = 4188474 },
     { url = "https://files.pythonhosted.org/packages/1c/86/6054fcc3fd28ec024ad36a667fa49a05b0c9caf26724186918b7c0ef8217/curl_cffi-0.7.4-cp38-abi3-win_amd64.whl", hash = "sha256:31a80d5ab1bc0f9d4bc0f98d91dc1a3ed4aa08566f21b76ecfde23ece08e0fa9", size = 3993713 },
+]
+
+[[package]]
+name = "deepdiff"
+version = "8.1.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "orderly-set" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/50/4b/ce2d3a36f77186d7dbca0f10b33e6a1c0eee390d9434960d2a14e2736b52/deepdiff-8.1.1.tar.gz", hash = "sha256:dd7bc7d5c8b51b5b90f01b0e2fe23c801fd8b4c6a7ee7e31c5a3c3663fcc7ceb", size = 433560 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/66/f7/2df72b55635926872b947203aacbe7e1109a51929aec8ebfef8c4a348eb5/deepdiff-8.1.1-py3-none-any.whl", hash = "sha256:b0231fa3afb0f7184e82535f2b4a36636442ed21e94a0cf3aaa7982157e7ebca", size = 84655 },
 ]
 
 [[package]]
@@ -996,6 +1012,18 @@ wheels = [
 ]
 
 [[package]]
+name = "motor"
+version = "3.7.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pymongo" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/2b/c0/b94558a88fb8406b092bb180c6fa5fb3068f8ec2c7e84dd2b0625f4f4f6e/motor-3.7.0.tar.gz", hash = "sha256:0dfa1f12c812bd90819c519b78bed626b5a9dbb29bba079ccff2bfa8627e0fec", size = 279745 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ab/a6/e915e3225cc431c7ff07fd3e5ae138f6eb1c3ef4f8e8356cab1ea5dc1ed5/motor-3.7.0-py3-none-any.whl", hash = "sha256:61bdf1afded179f008d423f98066348157686f25a90776ea155db5f47f57d605", size = 74811 },
+]
+
+[[package]]
 name = "multidict"
 version = "6.1.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1095,6 +1123,15 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/aa/29/14a177f1a90b8ad8a592ca32124ac06af5eff32889874e53a308f850290f/numpy-2.2.2-cp313-cp313t-musllinux_1_2_x86_64.whl", hash = "sha256:106397dbbb1896f99e044efc90360d098b3335060375c26aa89c0d8a97c5f648", size = 17856316 },
     { url = "https://files.pythonhosted.org/packages/95/03/242ae8d7b97f4e0e4ab8dd51231465fb23ed5e802680d629149722e3faf1/numpy-2.2.2-cp313-cp313t-win32.whl", hash = "sha256:0eec19f8af947a61e968d5429f0bd92fec46d92b0008d0a6685b40d6adf8a4f4", size = 6329134 },
     { url = "https://files.pythonhosted.org/packages/80/94/cd9e9b04012c015cb6320ab3bf43bc615e248dddfeb163728e800a5d96f0/numpy-2.2.2-cp313-cp313t-win_amd64.whl", hash = "sha256:97b974d3ba0fb4612b77ed35d7627490e8e3dff56ab41454d9e8b23448940576", size = 12696208 },
+]
+
+[[package]]
+name = "orderly-set"
+version = "5.2.3"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/5d/9e/8fdcb9ab1b6983cc7c185a4ddafc27518118bd80e9ff2f30aba83636af37/orderly_set-5.2.3.tar.gz", hash = "sha256:571ed97c5a5fca7ddeb6b2d26c19aca896b0ed91f334d9c109edd2f265fb3017", size = 19698 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/cc/bb/a3a4eab8430f14c7d1476f9db261d32654cb3d1794c0266a46f6574e1190/orderly_set-5.2.3-py3-none-any.whl", hash = "sha256:d357cedcf67f4ebff0d4cbd5b0997e98eeb65dd24fdf5c990a501ae9e82c7d34", size = 12024 },
 ]
 
 [[package]]

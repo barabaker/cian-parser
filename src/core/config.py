@@ -5,7 +5,8 @@ from typing import List, Union, Any
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from pydantic import (
-    MongoDsn, Field, model_validator
+    Field,
+    model_validator
 )
 
 BASE_DIR = Path(os.path.dirname(os.path.dirname(__file__)))
@@ -47,8 +48,11 @@ class MongoSettings(Base):
 
 
 class Settings(BaseSettings):
+    API_URL: str = "https://api.cian.ru/search-engine/v1/search-offers-mobile-site/"
+    MAX_PAGES: int = 48
+    BASE_DIR: Path = BASE_DIR
+
     mongo: MongoSettings = MongoSettings()
-    base_dir: Path = BASE_DIR
 
 
 settings = Settings()
