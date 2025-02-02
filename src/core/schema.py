@@ -1,9 +1,10 @@
 import json
-from typing import List
-from pydantic import BaseModel
 from crawlee import Request
 from core.config import settings
-from typing import Optional
+from pydantic import BaseModel, Field
+from datetime import datetime
+from typing import Optional, List
+
 
 MIN_BBOX_SIZE = 0.000001  # Минимальный размер bbox для разделения
 
@@ -86,6 +87,49 @@ class Work(BaseModel):
             )
             for bbox in list_bbox
         ]
+
+
+class HtmlData(BaseModel):
+    id: Optional[str] = Field(alias="_id", default=None)
+    creation_time: datetime = Field(alias="CreationTime")
+    html: str = Field(alias="Html")
+
+    class Config:
+        allow_population_by_field_name = True
+        json_encoders = {
+            datetime: lambda v: v.isoformat() + "Z" if v.tzinfo is None else v.isoformat()
+        }
+
+
+class AdsPhotos(BaseModel):
+    id: Optional[str] = Field(alias="_id", default=None)
+    photo_id: int = Field(alias="Id")
+    ad_id: int = Field(alias="AdId")
+    creation_time: datetime = Field(alias="CreationTime")
+    image: str = Field(alias="Image")
+    unique: bool = Field(default=False)
+
+    class Config:
+        allow_population_by_field_name = True
+        json_encoders = {
+            datetime: lambda v: v.isoformat() + "Z" if v.tzinfo is None else v.isoformat()
+        }
+
+
+class AdsScreenshots(BaseModel):
+    id: Optional[str] = Field(alias="_id", default=None)
+    screenshot_id: int = Field(alias="Id")
+    ad_id: int = Field(alias="AdId")
+    creation_time: datetime = Field(alias="CreationTime")
+    image: str = Field(alias="Image")
+    unique: bool = Field(default=False)
+
+    class Config:
+        allow_population_by_field_name = True
+        json_encoders = {
+            datetime: lambda v: v.isoformat() + "Z" if v.tzinfo is None else v.isoformat()
+        }
+
 
 def get_work_from_payload(payload: Optional[bytes]) -> 'Work':
     data = json.loads(payload)

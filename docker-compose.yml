@@ -20,6 +20,20 @@ services:
     networks:
       - cian-public
 
+
+  parsing-api-cian:
+    build:
+      context: .
+      dockerfile: ./src/dockerfile
+    container_name: parsing-api-cian
+    volumes:
+      - ./src:/src
+    tty: true
+    networks:
+      - cian-public
+    env_file:
+      - .env
+
 volumes:
   mongo_data:
 

@@ -11,12 +11,14 @@ from pydantic import (
 
 BASE_DIR = Path(os.path.dirname(os.path.dirname(__file__)))
 
+
 class Base(BaseSettings):
 
     model_config = SettingsConfigDict(
         env_file = os.path.join(BASE_DIR.parent, '.env'),
         env_file_encoding = 'utf-8'
     )
+
 
 class MongoSettings(Base):
     db_name: str
@@ -47,12 +49,23 @@ class MongoSettings(Base):
     )
 
 
+class ProxySettings(Base):
+    port: int
+    username: str
+    password: str
+
+    model_config = SettingsConfigDict(
+        env_prefix = 'PROXY_', extra = 'ignore'
+    )
+
+
 class Settings(BaseSettings):
     API_URL: str = "https://api.cian.ru/search-engine/v1/search-offers-mobile-site/"
     MAX_PAGES: int = 48
     BASE_DIR: Path = BASE_DIR
 
     mongo: MongoSettings = MongoSettings()
+    proxy: ProxySettings = ProxySettings()
 
 
 settings = Settings()

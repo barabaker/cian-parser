@@ -1,7 +1,7 @@
 import sys
 import json
 import asyncio
-import logging
+
 
 from core.schema import Work, get_work_from_payload
 from crawlee import ConcurrencySettings
@@ -14,18 +14,9 @@ from core.pipeline import bulk_upsert_offers
 from typing import List
 
 
-if sys.platform:
+if sys.platform == "win32":
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
-
-
-
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[logging.StreamHandler()],
-)
 
 
 async def start_crawler(work: Work, proxy_list: List[str]) -> None:

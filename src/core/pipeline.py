@@ -28,28 +28,11 @@ async def bulk_upsert_offers(data, collection_name: str):
             "cianId": offer.get("cianId"),
         }
 
-        # Загружаем существующие документы за один запрос
-        existing_documents = await collection.find_one(filter_data)
+        doc = await collection.find_one(filter_data)
 
-        if existing_documents:
-            existing_copy = existing_documents.copy()
-            existing_copy.pop("_id", None)
-            existing_copy.pop("created_at", None)
-            existing_copy.pop("updated_at", None)
+        if doc and offer and offer.get('media') == doc.get('media') and offer.get('price') == doc.get('price'):
+            continue
 
-            new_copy = offer.copy()
-            new_copy.pop("created_at", None)
-            new_copy.pop("updated_at", None)
-
-            if existing_copy == new_copy:
-                continue
-
-            diff = DeepDiff(existing_copy, new_copy)
-
-            if diff:
-                logger.info(f"Различия:: {diff}")
-
-        # Подготовка данных для upsert
         update_data = {
             "$set": {**offer, "updated_at": now},  # Обновляем данные и поле updated_at
             "$setOnInsert": {"created_at": now},  # Устанавливаем created_at только при вставке
